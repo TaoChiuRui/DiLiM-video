@@ -306,7 +306,10 @@ def main():
     ds = []
     for k in dir(C):
         v = getattr(C, k)
-        if isinstance(v, str) and os.path.sep in v and os.path.exists(v) \
+        # `isfile` chu khong phai `exists`: clips.py co 8 hang so tro toi THU MUC
+        # (B, MM, DD, NG, VM, DQ, TDTT, AULM). Truoc 05/08/2026 chung lot vao
+        # danh sach OCR roi bao "! doc khong duoc: 02. Dilim Footage" moi lan chay.
+        if isinstance(v, str) and os.path.sep in v and os.path.isfile(v) \
                 and not k.startswith("_"):
             ds.append(v)
     # 05/08/2026: soi ca DANH MUC, khong chi hang so trong clips.py.
