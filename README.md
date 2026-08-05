@@ -1,3 +1,6 @@
+> **Người mới:** đọc [`BAT-DAU.md`](BAT-DAU.md) — cài đặt từ số 0, có phần "nếu hỏng" ở mỗi bước.
+> Cài chi tiết + chỗ phụ thuộc máy: [`CAI-DAT.md`](CAI-DAT.md).
+
 # DiLiM-video — bản đồ thư mục
 
 > Đọc file này trước. Mỗi thư mục có **một** việc, không lẫn nhau.
