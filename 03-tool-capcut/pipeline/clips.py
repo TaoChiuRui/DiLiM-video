@@ -24,7 +24,7 @@ MAT_NGU    = f"{DD}/matngu-nu-ngoiday-01.mp4"           # 17.0s
 DAU_DAU1   = f"{DD}/daudau-nu-tocvang-01.mp4"         # 19.0s
 DAU_DAU3   = f"{DD}/daudau-bopmui-nu-01.mp4"         #  8.2s
 CHONG_MAT  = f"{DD}/chongmat-vintuong-nam-01.mp4"
-VAI_GAY    = f"{B}/Footage Dilim Quay/VAI GÁY (1).mp4"   # 9.7s
+VAI_GAY    = f"{B}/Footage Dilim Quay/dilimquay-vaigay-ong-01.mp4"   # 9.7s
 NGU_NGON   = f"{B}/06 Ngủ- Ngon- mất ngủ/ngungon-chiso-suckhoe-01.mp4"        # anh doi ten 04/08
 
 # --- FOLDER 01 don ngay 04/08/2026 -----------------------------------------
