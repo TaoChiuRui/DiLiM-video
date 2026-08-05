@@ -405,6 +405,57 @@ VERTICAL = {CUC_MAU2, DISCLAIMER,
 # Chi them vao day neu gap watermark that su khong dung duoc.
 WATERMARK = {}
 
+# --- TU KHOA THEO NHOM: ap cho MOI clip co tien to tuong ung ---
+# Do 05/08/2026: 872 clip moi khai chi co ~7.7 tu khoa (sinh tu ten file), trong
+# khi 176 clip cu co TAGS go tay ~17.4 tu. Diem = tong trong so cac tu TRUNG,
+# nen clip nhieu tu co nhieu co hoi trung hon -> goi y hang 1 den tu clip cu
+# 530/531 lan (99%). Khai them 869 clip ma khong doi duoc gi.
+#
+# Sua bang cach cho ca NHOM huong chung mot bo tu, thay vi go tay 872 lan.
+# Moi clip nhan: tu khoa nhom (bang nay) + mo ta rieng (dich tu ten file).
+TAGS_NHOM = {
+    "daudau":    ["đau đầu", "nhức đầu", "đau nửa đầu", "nặng đầu", "choáng đầu"],
+    "chongmat":  ["chóng mặt", "hoa mắt", "choáng váng", "mất thăng bằng", "quay cuồng"],
+    "matngu":    ["mất ngủ", "khó ngủ", "trằn trọc", "thao thức", "ngủ không sâu"],
+    "ngungon":   ["ngủ ngon", "ngủ sâu", "giấc ngủ", "tỉnh táo"],
+    "metmoi":    ["mệt mỏi", "uể oải", "kiệt sức", "thiếu sức sống", "rã rời"],
+    "xuongkhop": ["xương khớp", "đau khớp", "đau lưng", "đau vai gáy", "thoái hoá",
+                  "cứng khớp", "loãng xương", "tê bì chân tay"],
+    "tieuhoa":   ["tiêu hoá", "đường ruột", "dạ dày", "đau bụng", "đầy hơi",
+                  "táo bón", "lợi khuẩn", "hấp thu"],
+    "noitang":   ["nội tạng", "gan", "phổi", "thận", "dạ dày", "mỡ nội tạng",
+                  "gan nhiễm mỡ", "giải phẫu"],
+    "khambenh":  ["khám bệnh", "bác sĩ", "bệnh viện", "uống thuốc", "toa thuốc",
+                  "xét nghiệm", "tư vấn sức khoẻ", "nhà thuốc"],
+    "dotquy":    ["đột quỵ", "tai biến", "di chứng", "liệt", "cấp cứu"],
+    "machmau":   ["mạch máu", "lòng mạch", "tuần hoàn máu", "lưu thông máu", "hẹp mạch"],
+    "xovua":     ["xơ vữa", "mảng bám", "cholesterol", "tắc mạch", "cặn trong mạch"],
+    "cucmau":    ["cục máu đông", "huyết khối", "đông máu", "tắc nghẽn"],
+    "momau":     ["mỡ máu", "cholesterol", "triglyceride", "máu nhiễm mỡ"],
+    "nao":       ["não", "thiếu máu não", "trí nhớ", "sa sút trí tuệ"],
+    "thankinh":  ["thần kinh", "dây thần kinh", "dẫn truyền", "suy nhược thần kinh"],
+    "tim":       ["tim", "tim mạch", "nhịp tim", "động mạch", "huyết áp"],
+    "theduc":    ["thể dục thể thao", "vận động", "rèn luyện", "đi bộ", "chạy bộ",
+                  "tập luyện", "khoẻ mạnh", "dẻo dai"],
+    "anlanh":    ["ăn uống lành mạnh", "thực phẩm sạch", "rau xanh", "ăn thanh đạm",
+                  "dinh dưỡng", "chế độ ăn"],
+    "doan":      ["đồ ăn", "món ăn", "bữa ăn", "ăn uống", "thực phẩm", "nấu nướng"],
+    "biaruou":   ["bia rượu", "nhậu nhẹt", "uống rượu", "lối sống thiếu lành mạnh"],
+    "vanphong":  ["dân văn phòng", "công sở", "ngồi nhiều", "căng thẳng", "áp lực công việc",
+                  "làm việc máy tính"],
+    "giamcan":   ["giảm cân", "béo phì", "thừa cân", "mỡ bụng", "vòng eo", "ăn kiêng"],
+    "giadinh":   ["gia đình", "con cái", "sum vầy", "quây quần"],
+    "tocda":     ["tóc", "rụng tóc", "da", "làm đẹp", "lão hoá", "nếp nhăn"],
+    "dilimquay": ["DiLiM tự quay", "khách hàng thật", "cầm hộp", "tư vấn"],
+    "natto":     ["nano nattokinase", "nattokinase", "sản phẩm", "hộp"],
+    "rich":      ["rich coenzyme q10", "rich q10", "sản phẩm", "hộp"],
+    "richnatto": ["combo hai hộp", "liệu trình", "trọn bộ", "sản phẩm"],
+    "cothe":     ["cơ thể", "toàn thân", "hệ mạch"],
+    "tebao":     ["tế bào", "cấu trúc tế bào"],
+    "khotho":    ["khó thở", "hụt hơi", "leo cầu thang mệt"],
+    "stress":    ["căng thẳng", "stress", "áp lực"],
+}
+
 # --- TU KHOA -> CLIP: dung cho suggest_clips.py ---
 # Viet bang tieng Viet co dau; suggest_clips.py tu bo dau khi so khop.
 # Cum DAI hon duoc cham diem cao hon (khop "mach mau hep" > khop "mach mau").

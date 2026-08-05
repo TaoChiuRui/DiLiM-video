@@ -87,6 +87,17 @@ def tu_khoa_cua(x, TAGS):
         if os.path.basename(k) == x["file"]:
             for w in v:
                 t |= tu(w)
+    # TU KHOA THEO NHOM — ap theo tien to ten file (xem clips.TAGS_NHOM).
+    # Do 05/08/2026: khong co bang nay thi 872 clip moi chi ~7.7 tu khoa so voi
+    # 17.4 cua clip cu, nen hang 1 den tu clip cu 530/531 lan. Khai them 869
+    # clip ma khong doi duoc gi.
+    try:
+        import clips as _C
+        _pre = x["file"].split("-")[0]
+        for w in getattr(_C, "TAGS_NHOM", {}).get(_pre, ()):
+            t |= tu(w)
+    except Exception:
+        pass
     t |= {w for w in x.get("tu_khoa_hoc", [])}
     # TANG 3: mo ta bang chu — thu duy nhat cho biet clip QUAY CAI GI.
     # Do 05/08: chi dung tu khoa (TAGS + hoc tu lich su) thi goi y so 1 chi
