@@ -331,13 +331,13 @@ TD_ONGCU_TA   = f"{TDTT}/theduc-ongcu-tata-hlv-01.mp4"              # 19.1s ong 
 # TD_DAYKHANG (download (20).mp4) DA LOAI: giay 25 doi sang phu nu tre trong
 # phong gym, khong con la ba cu. Neu dung thi src_start phai < 18s.
 
-AU_RAU_CHO    = f"{AULM}/RỨNG (67).mp4"                                    # 25.0s quay rau xanh bay ban o cho
-AU_RUONG_CAI  = f"{AULM}/RỨNG (69).mp4"                                    # 12.0s ruong cai xanh, mua roi
-AU_RAUCU_XANH = f"{AULM}/5857694-uhd_3840_2160_25fps (1).mp4"              # 16.7s rau cu qua bay tren nen xanh, flatlay
-AU_BAN_TUVAN  = f"{AULM}/OĂDAWD.mp4"                                       # 21.2s ban rau cu + nuoc cam + thuoc do — tu van dinh duong
-AU_AN_SALAD   = f"{AULM}/Thiết kế chưa có tên - 2024-12-28T154710.251.mp4" #  9.5s nguoi ngoi an salad
-AU_ONGCU_NUOC = f"{AULM}/Thiết kế chưa có tên - 2026-05-07T160729.244.mp4" # 10.6s ong cu A Dong uong nuoc, ngoi ghe
-AU_MAM_LANH   = f"{AULM}/download (89).mp4"                                #  7.6s mam do an lanh manh: salad, trai cay, hat
+AU_RAU_CHO    = f"{AULM}/anlanh-rau-quaycho-01.mp4"                                    # 25.0s quay rau xanh bay ban o cho
+AU_RUONG_CAI  = f"{AULM}/anlanh-cai-muaroi-01.mp4"                                    # 12.0s ruong cai xanh, mua roi
+AU_RAUCU_XANH = f"{AULM}/anlanh-raucu-nenxanh-01.mp4"              # 16.7s rau cu qua bay tren nen xanh, flatlay
+AU_BAN_TUVAN  = f"{AULM}/anlanh-ban-tuvan-dinhduong-01.mp4"                                       # 21.2s ban rau cu + nuoc cam + thuoc do — tu van dinh duong
+AU_AN_SALAD   = f"{AULM}/anlanh-nu-ansalad-01.mp4" #  9.5s nguoi ngoi an salad
+AU_ONGCU_NUOC = f"{AULM}/anlanh-ongcu-uongnuoc-01.mp4" # 10.6s ong cu A Dong uong nuoc, ngoi ghe
+AU_MAM_LANH   = f"{AULM}/anlanh-mam-lanhmanh-01.mp4"                                #  7.6s mam do an lanh manh: salad, trai cay, hat
 
 # --- HO CLIP: dung cho buoc chong lap (4b_vary.py) ---
 # Khi mot y bi noi lai nhieu lan trong bai, xoay vong trong ho thay vi lap
