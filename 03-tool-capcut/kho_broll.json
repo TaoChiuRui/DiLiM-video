@@ -8762,6 +8762,960 @@
   "mo_ta": "đồ ăn món ăn phin cà phê"
  },
  {
+  "file": "doan-phomai-thitnguoi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-phomai-thitnguoi-01.mp4",
+  "dai": 12.27,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.3
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.3,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn phô mai thịt nguội"
+ },
+ {
+  "file": "doan-quay-banhmi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-quay-banhmi-01.mp4",
+  "dai": 5.77,
+  "w": 1920,
+  "h": 1080,
+  "fps": 60.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn quầy bánh mì"
+ },
+ {
+  "file": "doan-quay-duongpho-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-quay-duongpho-01.jpg",
+  "anh": true,
+  "mo_ta": {}
+ },
+ {
+  "file": "doan-raucai-xanh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-raucai-xanh-01.mp4",
+  "dai": 8.23,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn rau cải màu xanh"
+ },
+ {
+  "file": "doan-raumuong-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-raumuong-01.jpg",
+  "anh": true,
+  "mo_ta": {}
+ },
+ {
+  "file": "doan-rongbien-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-rongbien-01.mp4",
+  "dai": 12.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn rong biển"
+ },
+ {
+  "file": "doan-rot-caphe-hat-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-rot-caphe-hat-01.mp4",
+  "dai": 20.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   19.6
+  ],
+  "mo_ta": "đồ ăn món ăn rót cà phê hạt"
+ },
+ {
+  "file": "doan-rot-caphe-hat-02.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-rot-caphe-hat-02.mp4",
+  "dai": 20.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   19.6
+  ],
+  "mo_ta": "đồ ăn món ăn rót cà phê hạt"
+ },
+ {
+  "file": "doan-rot-caphe-nensang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-rot-caphe-nensang-01.mp4",
+  "dai": 19.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    19.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 19.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn rót cà phê nensang"
+ },
+ {
+  "file": "doan-rot-caphe-tach-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-rot-caphe-tach-01.mp4",
+  "dai": 8.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn rót cà phê tách"
+ },
+ {
+  "file": "doan-rot-caphe-tach-02.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-rot-caphe-tach-02.mp4",
+  "dai": 22.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 14,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    22.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 22.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   21.7
+  ],
+  "mo_ta": "đồ ăn món ăn rót cà phê tách"
+ },
+ {
+  "file": "doan-rot-caphe-tren-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-rot-caphe-tren-01.mp4",
+  "dai": 21.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 14,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    21.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 21.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn rót cà phê trên"
+ },
+ {
+  "file": "doan-salad-traicay-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-salad-traicay-01.mp4",
+  "dai": 17.87,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    17.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 17.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn salad trái cây"
+ },
+ {
+  "file": "doan-sashimi-cahoi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-sashimi-cahoi-01.mp4",
+  "dai": 12.8,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn sashimi cá hồi"
+ },
+ {
+  "file": "doan-sashimi-gap-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-sashimi-gap-01.mp4",
+  "dai": 8.93,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn sashimi gắp"
+ },
+ {
+  "file": "doan-sua-chuoi-doc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-sua-chuoi-doc-01.mp4",
+  "dai": 36.04,
+  "w": 1080,
+  "h": 1700,
+  "fps": 59.94,
+  "doc": true,
+  "so_frame_soi": 24,
+  "vung_chu": [
+   [
+    0.0,
+    4.5
+   ],
+   [
+    6.0,
+    10.5
+   ],
+   [
+    21.0,
+    36.0
+   ]
+  ],
+  "vung_den": [],
+  "vung_cam": [
+   [
+    0.0,
+    4.5
+   ],
+   [
+    6.0,
+    10.5
+   ],
+   [
+    21.0,
+    36.0
+   ]
+  ],
+  "doan_dung_duoc": [
+   [
+    4.5,
+    6.0
+   ],
+   [
+    10.5,
+    21.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.5,
+  "chu_doc_duoc": {
+   "Banana | Milk | % REAL | NA MILK | 100% REAL | BANANA MILK | DATE": 0.0,
+   "Banana | Milk | 100% REAL | BANANA MILA | 100% REAL | BANANA MILK": 1.5,
+   "EJIF": 7.5,
+   "100% REAL | BANANA MILK": 22.5,
+   "600L": 24.0,
+   "100% REAL | BANANA MILK | 100% REAL | BANANA MILR | DATE": 27.0,
+   "100% REAL | BANANA MILA": 30.0,
+   "00% REAL | NANA MILA": 33.0,
+   "00% REAL | VANA MILK": 34.5
+  },
+  "doi_canh": [
+   2.1,
+   3.85,
+   4.9,
+   5.46,
+   28.13,
+   29.7
+  ],
+  "mo_ta": "đồ ăn món ăn sữa chuối khung dọc"
+ },
+ {
+  "file": "doan-suachua-granola-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-suachua-granola-01.jpg",
+  "anh": true,
+  "mo_ta": {}
+ },
+ {
+  "file": "doan-suachua-hop-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-suachua-hop-01.mp4",
+  "dai": 10.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn sữa chua hộp sản phẩm"
+ },
+ {
+  "file": "doan-suachua-hu-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-suachua-hu-01.mp4",
+  "dai": 13.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn sữa chua hũ"
+ },
+ {
+  "file": "doan-sushi-cuon-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-sushi-cuon-01.mp4",
+  "dai": 5.02,
+  "w": 1920,
+  "h": 1080,
+  "fps": 60.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn sushi cuon"
+ },
+ {
+  "file": "doan-sushi-khay-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-sushi-khay-01.mp4",
+  "dai": 24.54,
+  "w": 1920,
+  "h": 1080,
+  "fps": 60.0,
+  "doc": false,
+  "so_frame_soi": 16,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    24.5
+   ]
+  ],
+  "dai_doan_dai_nhat": 24.5,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   11.65,
+   23.28
+  ],
+  "mo_ta": "đồ ăn món ăn sushi khay"
+ },
+ {
+  "file": "doan-tach-caphe-thia-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-tach-caphe-thia-01.mp4",
+  "dai": 26.13,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 17,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    26.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 26.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn tách cà phê thìa"
+ },
+ {
+  "file": "doan-tay-chen-traxanh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-tay-chen-traxanh-01.mp4",
+  "dai": 16.93,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn tay chén trà xanh"
+ },
+ {
+  "file": "doan-tay-tach-canh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-tay-tach-canh-01.mp4",
+  "dai": 36.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 24,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    36.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 36.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   35.97
+  ],
+  "mo_ta": "đồ ăn món ăn tay tách canh"
+ },
+ {
+  "file": "doan-tay-tach-caphe-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-tay-tach-caphe-01.mp4",
+  "dai": 62.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 41,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    62.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 62.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   48.0
+  ],
+  "mo_ta": "đồ ăn món ăn tay tách cà phê"
+ },
+ {
+  "file": "doan-tay-vien-uong-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-tay-vien-uong-01.mp4",
+  "dai": 11.69,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 7,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    11.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 11.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn tay viên thuốc uống"
+ },
+ {
+  "file": "doan-tebao-mo-trang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-tebao-mo-trang-01.mp4",
+  "dai": 13.43,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn tế bào mỡ màu trắng"
+ },
+ {
+  "file": "doan-thitbo-xao-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-thitbo-xao-01.mp4",
+  "dai": 40.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 26,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    40.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 40.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   4.8
+  ],
+  "mo_ta": "đồ ăn món ăn thịt bò xao"
+ },
+ {
+  "file": "doan-thitnguoi-lat-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-thitnguoi-lat-01.mp4",
+  "dai": 12.2,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn thịt nguội lát"
+ },
+ {
+  "file": "doan-thitnuong-chao-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-thitnuong-chao-01.mp4",
+  "dai": 10.86,
+  "w": 1920,
+  "h": 1080,
+  "fps": 50.0,
+  "doc": false,
+  "so_frame_soi": 7,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn thitnuong chảo"
+ },
+ {
+  "file": "doan-thucpham-dam-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-thucpham-dam-01.mp4",
+  "dai": 13.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn thucpham dam"
+ },
+ {
+  "file": "doan-toi-hanh-carot-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-toi-hanh-carot-01.mp4",
+  "dai": 27.67,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 18,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    27.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 27.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn tối hanh cà rốt"
+ },
+ {
+  "file": "doan-toi-thai-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-toi-thai-01.mp4",
+  "dai": 9.81,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    9.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 9.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn tối thái cắt"
+ },
+ {
+  "file": "doan-tra-gung-tach-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-tra-gung-tach-01.mp4",
+  "dai": 12.17,
+  "w": 1920,
+  "h": 1080,
+  "fps": 60.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn trà gừng tách"
+ },
+ {
+  "file": "doan-traicay-3d-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-traicay-3d-01.mp4",
+  "dai": 20.13,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn trái cây mô hình 3D"
+ },
+ {
+  "file": "doan-traxanh-ly-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-traxanh-ly-01.mp4",
+  "dai": 18.07,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn trà xanh ly cốc"
+ },
+ {
+  "file": "doan-trung-longdao-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-trung-longdao-01.mp4",
+  "dai": 18.7,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn trứng longdao"
+ },
+ {
+  "file": "doan-trung-luoc-dia-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-trung-luoc-dia-01.mp4",
+  "dai": 9.7,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    9.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 9.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn trứng lược đĩa"
+ },
+ {
+  "file": "doan-viennang-3d-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-viennang-3d-01.mp4",
+  "dai": 12.1,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn viên nang mô hình 3D"
+ },
+ {
+  "file": "doan-vogao-thung-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-vogao-thung-01.mp4",
+  "dai": 27.18,
+  "w": 1920,
+  "h": 1080,
+  "fps": 60.0,
+  "doc": false,
+  "so_frame_soi": 18,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    27.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 27.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn vogao thùng"
+ },
+ {
+  "file": "doan-xucxich-nuong-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-xucxich-nuong-01.mp4",
+  "dai": 14.3,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.3
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.3,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "đồ ăn món ăn xúc xích nướng"
+ },
+ {
   "file": "dotquy-anh-meo-mieng-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-meo-mieng-01.png",
   "anh": true,
