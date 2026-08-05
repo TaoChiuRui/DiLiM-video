@@ -36,8 +36,12 @@ Thiếu thứ 2 thì công cụ **vẫn chạy, vẫn ra project CapCut — như
 
 Bấm  Apple  → *About This Mac*. Dòng **Chip** phải là **Apple M1/M2/M3/M4…**
 
-Nếu là **Intel** hoặc **Windows**: bước phiên âm sẽ không chạy được (nó dùng MLX, framework
-riêng của Apple). Vẫn dùng được nhưng phải đổi engine phiên âm — xem `CAI-DAT.md` mục 2.
+**Mac Intel:** chỉ bước phiên âm không chạy (nó dùng MLX, framework riêng của Apple).
+Đổi engine là xong — xem `CAI-DAT.md` mục 2.
+
+**Windows:** hỏng **5 chỗ**, không phải một. Bộ này viết cho macOS và **chưa từng chạy trên
+Windows lần nào**. Có hướng dẫn port sẵn ở [`CAI-DAT-WINDOWS.md`](CAI-DAT-WINDOWS.md) — viết để
+đưa thẳng cho Claude Code — nhưng vẫn cần người mở CapCut kiểm bằng mắt sau mỗi bước.
 
 ---
 

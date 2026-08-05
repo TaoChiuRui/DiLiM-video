@@ -52,6 +52,8 @@ file duy nhất mỗi job phải viết tay, để lại làm ví dụ thật ch
 
 MLX là framework của Apple, **không có trên Intel Mac và Windows**. Máy khác phải đổi engine phiên âm.
 
+> **Windows thì không chỉ có chỗ này.** Hỏng 5 chỗ — xem [`CAI-DAT-WINDOWS.md`](CAI-DAT-WINDOWS.md).
+
 Các bước sau **không quan tâm engine nào** — chúng chỉ cần file JSON có `segments[].words[].start`.
 Thay bằng `openai-whisper` hoặc `faster-whisper` cũng được, miễn giữ đúng định dạng đó. Chỗ cần sửa
 là `1_transcribe.py`, đã ghi comment ngay tại dòng gọi.
