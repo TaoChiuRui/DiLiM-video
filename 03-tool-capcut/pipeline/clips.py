@@ -10,7 +10,9 @@ QUY UOC TEN SAN PHAM (anh doi ten 04/08/2026):
 """
 import os
 
-IMG_EXT = (".jpg", ".jpeg", ".png", ".JPG", ".PNG")
+# .webp them 05/08/2026: kho co 1 file .webp, thieu duoi nay thi bo soi coi no
+# la VIDEO roi OCR thất bại, clip khong bao gio vao kho.
+IMG_EXT = (".jpg", ".jpeg", ".png", ".webp", ".JPG", ".PNG", ".WEBP")
 
 # Kho B-roll. Mac dinh la o T7 cua anh Thanh; may khac / o mount ten khac thi
 # dat bien moi truong DILIM_FOOTAGE, KHONG sua dong nay:

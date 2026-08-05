@@ -362,6 +362,14 @@ def main():
                       open(KHO, "w", encoding="utf-8"),
                       ensure_ascii=False, indent=1)
 
+    # GHI LAN CUOI — bat buoc. Lenh `json.dump` trong vong lap chi chay o nhanh
+    # VIDEO; nhanh ANH `continue` truoc do nen anh chi nam trong bo nho roi mat.
+    # Vap 05/08/2026: bao "1048 clip" ma file chi co 1046, thieu dung 1 .webp va
+    # 1 .jpg. Ghi trong vong lap van giu — do la thu cho phep chay tiep sau khi
+    # o T7 rot giua chung.
+    json.dump(sorted(kho.values(), key=lambda x: x["file"]),
+              open(KHO, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
     print(f"\n-> {KHO}  ({len(kho)} clip, moi {n_moi}, {time.time()-t0:.0f}s)")
     co = [x for x in kho.values() if x.get("vung_chu")]
     print(f"clip CO CHU chay vao hinh: {len(co)}/{len(kho)}")
