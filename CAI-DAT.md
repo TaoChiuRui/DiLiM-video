@@ -101,7 +101,26 @@ Không tìm thấy thì nó in ra **đã thử những đường nào**; khớp 
 
 ---
 
-## 6. Chỗ còn phụ thuộc máy anh Thành
+## 6. Hai thư mục vốn là repo của người khác
+
+`01-tool-cat-video/` và `03-tool-capcut/VectCutAPI/` là **bản clone từ upstream**, không phải
+code nhà mình:
+
+| Thư mục | Upstream | Commit khi lấy về |
+|---|---|---|
+| `01-tool-cat-video/` | `github.com/browser-use/video-use` | `92c2b34` |
+| `03-tool-capcut/VectCutAPI/` | `github.com/sun-guannan/VectCutAPI` | `c12b8e3` |
+
+`.git` của chúng đã **đổi tên thành `.git_upstream`** (không xoá) và bị ignore.
+
+**Vì sao phải làm vậy:** để nguyên `.git` thì git cha coi cả thư mục là *gitlink* — commit chỉ
+ghi một con trỏ, không ghi nội dung. Người nhận clone về sẽ thấy **thư mục trống rỗng**.
+Đã vấp đúng lỗi này ngày 05/08/2026: **52 file SFX mà tool 3 cần lặng lẽ không vào commit**,
+trong khi `git check-ignore` vẫn khẳng định chúng không bị chặn. Mất một lúc mới ra.
+
+Muốn nối lại với upstream thì đổi tên ngược về `.git`.
+
+## 7. Chỗ còn phụ thuộc máy anh Thành
 
 Biết trước để khỏi mất công dò:
 
@@ -114,7 +133,7 @@ Biết trước để khỏi mất công dò:
 
 ---
 
-## 7. Còn thiếu, biết rồi mà chưa làm
+## 8. Còn thiếu, biết rồi mà chưa làm
 
 Danh sách đầy đủ ở `03-tool-capcut/VERSION.md` mục **Còn thiếu**. Hai cái ảnh hưởng người dùng mới nhiều nhất:
 
