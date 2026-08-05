@@ -219,8 +219,8 @@ ANDU_XERAC2  = f"{VM}/andu-xerac-nhintren-01.mp4"    # 26.6s nhin tu tren xuong
 NATTO1     = f"{B}/03 Rich_Natto_product/natto-01.mp4"      # 4.9s
 NATTO2     = f"{B}/03 Rich_Natto_product/natto-02.mp4"      # 4.0s
 RICHNATTO  = f"{B}/03 Rich_Natto_product/richnatto-01.mp4"  # 8.1s
-NATTO_2HOP = f"{B}/Natto Xám/natto-2hop.jpg"                # anh, 2 hop tren tho go
-MEN_GAO    = f"{B}/Natto Xám/men gạo đỏ.mp4"                # 28.9s
+NATTO_2HOP = f"{B}/Natto Xám/natto-anh-2hop-01.jpg"                # anh, 2 hop tren tho go
+MEN_GAO    = f"{B}/Natto Xám/mengaodo-hat-01.mp4"                # 28.9s
 # rich-* la Rich Coenzyme Q10 — SAN PHAM KHAC, dung nham la sai bai.
 RICH1      = f"{B}/03 Rich_Natto_product/rich-01.mp4"       # 3.6s hop RICH hong
 RICH2      = f"{B}/03 Rich_Natto_product/rich-02.mp4"       # 2.0s — NGAN, chi 2s
@@ -253,8 +253,8 @@ DQ_CAPCUU   = f"{DQ}/dotquy-capcuu-bangca-01.mp4"    # 11.4s e-kip day bang ca
 DQ_NAMVIEN  = f"{DQ}/dotquy-namvien-truyendich-01.mp4"  # 14.0s nam vien truyen dich
 
 # --- ket bai ---
-DISCLAIMER = f"{B}/05 Finish part/SP này k phải là thuốc.mp4"   # DOC 1080x1920 — la clip TOAN KHUNG cuoi bai, khong phai B-roll dai
-LOGO       = f"{B}/05 Finish part/dilim logo .png"
+DISCLAIMER = f"{B}/05 Finish part/disclaimer-khongphaithuoc-01.mp4"   # DOC 1080x1920 — la clip TOAN KHUNG cuoi bai, khong phai B-roll dai
+LOGO       = f"{B}/05 Finish part/dilim-logo-01.png"
 
 
 # Clip co the/chu o dau -> phai bat dau sau moc nay.
