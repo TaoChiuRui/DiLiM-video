@@ -1,0 +1,9 @@
+# Pipeline text + B-roll (Tính Media)
+pillow>=10.0          # ve caption PNG (caption_style.py)
+faster-whisper>=1.0   # transcribe word-level
+
+# Khong cai bang pip — phai co san trong PATH:
+#   ffmpeg + ffprobe   (render, do SFX, trich frame preview)
+#
+# Tuy chon:
+#   openpyxl           # chi can neu xuat bang duyet ra .xlsx (mac dinh dung HTML)

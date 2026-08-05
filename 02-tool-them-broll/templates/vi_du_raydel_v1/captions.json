@@ -1,0 +1,164 @@
+[
+ {
+  "from": 0,
+  "durationInFrames": 156,
+  "text": "ĐANG BỊ *MỠ MÁU CAO*",
+  "variant": "warning"
+ },
+ {
+  "from": 156,
+  "durationInFrames": 138,
+  "text": "HOẶC MỆT MỎI\n*KHÔNG RÕ NGUYÊN NHÂN*",
+  "variant": "warning"
+ },
+ {
+  "from": 328,
+  "durationInFrames": 164,
+  "text": "*RAYDEL POLICOSANOL*",
+  "variant": "product"
+ },
+ {
+  "from": 492,
+  "durationInFrames": 150,
+  "text": "SẢN PHẨM CỦA *ÚC*\nNGUYÊN LIỆU TỪ *CUBA*",
+  "variant": "positive"
+ },
+ {
+  "from": 690,
+  "durationInFrames": 138,
+  "text": "BÁN CHẠY\n*TOP 1 TẠI ÚC*",
+  "variant": "product"
+ },
+ {
+  "from": 828,
+  "durationInFrames": 148,
+  "text": "TOP 1 TẠI HÀN QUỐC\n*5 NĂM LIỀN*",
+  "variant": "product"
+ },
+ {
+  "from": 976,
+  "durationInFrames": 122,
+  "text": "GIẢM *MỠ XẤU* TRONG MÁU",
+  "variant": "positive"
+ },
+ {
+  "from": 1098,
+  "durationInFrames": 119,
+  "text": "TĂNG *MỠ TỐT* TRONG MÁU",
+  "variant": "positive"
+ },
+ {
+  "from": 1306,
+  "durationInFrames": 207,
+  "text": "CHỈ GIẢM MỠ XẤU\nTHÌ *KHÔNG BỀN VỮNG*",
+  "variant": "warning"
+ },
+ {
+  "from": 1513,
+  "durationInFrames": 304,
+  "text": "VỪA GIẢM *MỠ XẤU*\nVỪA TĂNG *MỠ TỐT*",
+  "variant": "positive"
+ },
+ {
+  "from": 1825,
+  "durationInFrames": 312,
+  "text": "*RICH COENZYME Q10*\nDẠNG KHỬ CỦA *AFC NHẬT BẢN*",
+  "variant": "product"
+ },
+ {
+  "from": 2142,
+  "durationInFrames": 319,
+  "text": "TĂNG CƯỜNG\n*NĂNG LƯỢNG TẾ BÀO*",
+  "variant": "positive"
+ },
+ {
+  "from": 2474,
+  "durationInFrames": 202,
+  "text": "*90%* Q10 NGOÀI KIA\nLÀ *DẠNG OXY HÓA*",
+  "variant": "warning"
+ },
+ {
+  "from": 2676,
+  "durationInFrames": 199,
+  "text": "ĐÂY LÀ *DẠNG KHỬ*\nDÙNG ĐƯỢC *NGAY*",
+  "variant": "positive"
+ },
+ {
+  "from": 2875,
+  "durationInFrames": 215,
+  "text": "CÒN CÓ *ASTAXANTHIN*\nTỪ *TẢO ĐỎ NHẬT BẢN*",
+  "variant": "product"
+ },
+ {
+  "from": 3090,
+  "durationInFrames": 240,
+  "text": "CHỐNG OXY HÓA\n*TẾ BÀO MỠ*",
+  "variant": "positive"
+ },
+ {
+  "from": 3330,
+  "durationInFrames": 283,
+  "text": "BẢO VỆ THÀNH MẠCH\n*TRƠN LÁNG, BỀN CHẮC*",
+  "variant": "positive"
+ },
+ {
+  "from": 3620,
+  "durationInFrames": 287,
+  "text": "GIẢM *MỠ XẤU*\nTĂNG *MỠ TỐT*",
+  "variant": "positive"
+ },
+ {
+  "from": 3923,
+  "durationInFrames": 150,
+  "text": "TĂNG *NĂNG LƯỢNG TẾ BÀO*",
+  "variant": "positive"
+ },
+ {
+  "from": 4073,
+  "durationInFrames": 102,
+  "text": "LÀM SẠCH *LÒNG MẠCH*",
+  "variant": "positive"
+ },
+ {
+  "from": 4175,
+  "durationInFrames": 144,
+  "text": "HỖ TRỢ TÌNH TRẠNG\n*MỆT MỎI KHÔNG RÕ NGUYÊN NHÂN*",
+  "variant": "positive"
+ },
+ {
+  "from": 4319,
+  "durationInFrames": 72,
+  "text": "*ĐAU ĐẦU — VAI GÁY*",
+  "variant": "warning"
+ },
+ {
+  "from": 4391,
+  "durationInFrames": 41,
+  "text": "*CHÓNG MẶT — MẤT NGỦ*",
+  "variant": "warning"
+ },
+ {
+  "from": 4432,
+  "durationInFrames": 32,
+  "text": "*TÊ BÌ TAY CHÂN*",
+  "variant": "warning"
+ },
+ {
+  "from": 4464,
+  "durationInFrames": 36,
+  "text": "*RỐI LOẠN TIỀN ĐÌNH*",
+  "variant": "warning"
+ },
+ {
+  "from": 4500,
+  "durationInFrames": 163,
+  "text": "PHÒNG NGỪA\nNGUY CƠ *ĐỘT QUỴ*",
+  "variant": "positive"
+ },
+ {
+  "from": 4687,
+  "durationInFrames": 214,
+  "text": "BỘ ĐÔI *CHÍNH HÃNG*\nTỪ SƠN & *DILIM SUPPLEMENT*",
+  "variant": "product"
+ }
+]

@@ -1,0 +1,85 @@
+{
+  "_doc": [
+    "Tu dien sua loi nghe cua whisper cho kich ban DiLiM.",
+    "Gom tay tu 2 job ngay 04/08/2026 (natto-hoat-huyet, magie-canxi-combo-2).",
+    "",
+    "chac_chan = TU DONG SUA. Chi bo vao day nhung cum KHONG TON TAI trong",
+    "            tieng Viet, hoac khong the mang nghia nao khac trong ngu canh",
+    "            ban thuc pham chuc nang. Sua nham la khong the.",
+    "can_kiem  = CHI CANH BAO, khong tu sua. Nhung cum CO THAT trong tieng Viet",
+    "            nhung o day gan nhu chac la nghe nham. Doi tu dong la lieu.",
+    "",
+    "Them tu moi: cu them vao day, khong can sua code.",
+    "make_plan_draft.py doc file nay moi lan chay."
+  ],
+
+  "chac_chan": {
+    "sơ vữa": "xơ vữa",
+    "bản sơ vữa": "mảng xơ vữa",
+    "maze": "magie",
+    "frevin": "fibrin",
+    "coenzyme cream 10": "coenzyme Q10",
+    "coenzyme cream": "coenzyme Q10",
+    "nato kinase": "nattokinase",
+    "natto kinase": "nattokinase",
+    "nato": "natto",
+    "chết xuất": "chiết xuất",
+    "cỏ trường thọt": "cỏ trường thọ",
+    "tróng mặt": "chóng mặt",
+    "bất ngủ": "mất ngủ",
+    "cục ngủ đông": "cục máu đông",
+    "mảnh máu": "mạch máu",
+    "tền đình": "tiền đình",
+    "tềnh đình": "tiền đình",
+    "tuyển hoàn": "tuần hoàn",
+    "gốc dễ": "gốc rễ",
+    "lớp vỏ bỏng": "lớp vỏ bọc",
+    "vỏ bỏng": "vỏ bọc",
+    "châm trích": "châm chích",
+    "kèm cho rút": "kèm chuột rút",
+    "biết hết thương": "bịt vết thương",
+    "chọn mụn một năm": "trọn một năm",
+    "chọn mụn": "trọn",
+    "đủ mấy hai tháng": "đủ mười hai tháng",
+    "để lên để ý": "để lưu ý",
+    "chất sụt tiêu đen": "chiết xuất tiêu đen",
+    "sụt tiêu đen": "chiết xuất tiêu đen",
+    "cái lười đó": "cái lưới đó",
+    "thông ấm": "thông ống"
+  },
+
+  "can_kiem": {
+    "biết tay": {
+      "dung": "đứt tay",
+      "vi_sao": "'biết tay' la cum co that (doa nat). O bai Fibrin thi anh dang noi 've thuong khi dut tay'."
+    },
+    "lau cầu thang": {
+      "dung": "leo cầu thang",
+      "vi_sao": "'lau cau thang' co that. Nhung ngu canh la dau hieu tim yeu -> gan nhu chac la 'leo'."
+    },
+    "bể bỏ": {
+      "dung": "bơ phờ",
+      "vi_sao": "'be bo' khong co nghia; doan la 'bo pho' nhung chua chac — nghe lai doan do."
+    },
+    "khuyến cáo thấp": {
+      "dung": "huyết áp thấp",
+      "vi_sao": "doan tu ngu canh (liet ke chong chi dinh: chong dong mau / ... / sap phau thuat)."
+    },
+    "Bến Thành": {
+      "dung": "bên Thành",
+      "vi_sao": "Ben Thanh la ten cho that. O day anh xung 'ben Thanh' (ben minh)."
+    },
+    "Biên Thành": {
+      "dung": "bên Thành",
+      "vi_sao": "nhu tren."
+    },
+    "mảng của dây thần kinh": {
+      "dung": "màng của dây thần kinh",
+      "vi_sao": "'mang' vs 'mang' — nghe lai, ngu canh noi ve lop vo boc day than kinh."
+    },
+    "thầy nói cho anh chị": {
+      "dung": "Thành nói cho anh chị",
+      "vi_sao": "anh xung ten 'Thanh', whisper hay nghe thanh 'thay'."
+    }
+  }
+}

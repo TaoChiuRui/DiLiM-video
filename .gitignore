@@ -1,0 +1,55 @@
+# ============================================================
+#  DiLiM-video — cai gi VAO git, cai gi KHONG
+#  Nguyen tac: chi code + tai lieu + kien thuc tich luy.
+#  Video, render, footage, thu vien tai ve -> khong bao gio.
+#  Do 05/08/2026: theo bo loc nay repo con ~21 MB / 453 file.
+# ============================================================
+
+# ---- 1. JOB DA DUNG (15,8 GB) ---------------------------------------------
+# Moi job co final.mp4, captions_png/, capcut_draft_v2/ vai tram MB.
+# NHUNG giu lai 2 file NGUOI VIET TAY cua tung job — chung la vi du that,
+# tong cong 121 KB, va la thu kho day nhat cho nguoi moi.
+04-du-an/**
+!04-du-an/*/
+!04-du-an/*/cuts.json
+!04-du-an/*/plan.py
+
+# ---- 2. FOOTAGE ------------------------------------------------------------
+# Kho B-roll KHONG nam trong repo — no o o ngoai, tro toi bang DILIM_FOOTAGE.
+# Thu muc duoi la cho do footage moi vao + ban ghi khi don kho.
+05-footage-moi/
+
+# ---- 3. SAN PHAM CU CUA TOOL 1 (~700 MB) -----------------------------------
+# Tool 1 la duong lui, khong dung nua. `queue/` la ban render cu cua no.
+01-tool-cat-video/queue/
+
+# ---- 4. THU VIEN TAI VE ----------------------------------------------------
+node_modules/
+.venv/
+venv/
+*.egg-info/
+# HAI thu muc nay von la REPO LONG NHAU (clone tu upstream). De nguyen `.git`
+# thi git cha chi ghi mot "gitlink" rong — NGUOI NHAN CLONE VE SE THAY THU MUC
+# TRONG RUONG. Da bat duoc dung loi nay 05/08/2026: 52 file SFX ma tool 3 can
+# lang le khong vao commit, `git check-ignore` van bao "khong bi chan".
+# Cach xu: doi ten `.git` -> `.git_upstream` (KHONG xoa), roi ignore no.
+# Nguon goc ghi trong CAI-DAT.md de con doi chieu voi upstream sau nay.
+03-tool-capcut/VectCutAPI/.git_upstream/
+01-tool-cat-video/.git_upstream/
+
+# ---- 5. RAC CUA MAY --------------------------------------------------------
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+
+# ---- 6. JOB CU CUA TOOL 2 --------------------------------------------------
+# 6,3 MB asset cua 3 job cu, khong phai code.
+02-tool-them-broll/pipeline/jobs/
+
+# ---- KHONG chan theo duoi file (*.mp4, *.wav...) ---------------------------
+# Da thu 05/08/2026 va BO: thu vien SFX ma tool 3 can la 52 file .wav trong
+# `01-tool-cat-video/library/audio/0. SOUND TEXT/`, con font Anton la .ttf.
+# Chan theo duoi roi mo ngoai le bang `!` de ra mot mo luat danh nhau, va
+# git khong he mo lai file nam trong thu muc da bi loai. Chan theo THU MUC
+# nhu tren vua du vua doc hieu duoc.

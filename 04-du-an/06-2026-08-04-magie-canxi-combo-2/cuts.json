@@ -1,0 +1,12 @@
+[
+ {"t0": 0.00,   "t1": 0.96,   "why": "im lang dau file truoc chu 'Te'"},
+ {"t0": 123.86, "t1": 130.18, "why": "LAP — 'Vi luc di, co can nhieu mau hon / ma cai duong mach mau tuyen hoan hep' noi lung. Take sau (130.18) noi tron: '...ma cai ong hep ay thi cung cap mau khong kip'."},
+ {"t0": 158.24, "t1": 164.50, "why": "LAP — 'may khong toi du cac chi xa'. Take sau go gon hon: 'mau ngoai vi toi khong du'."},
+ {"t0": 168.52, "t1": 176.02, "why": "LAP — 'Voi truong hop do, ben Thanh co bo doi...' roi vap 'Thu nhat / Thu hai / Thu ba / Thu ba'. Take sau (176.02) vao thang: 'Voi nhung truong hop bi te lien quan den mach mau...'."},
+ {"t0": 209.20, "t1": 214.50, "why": "LAP — 'Cho nay Thanh phai noi ki mot chut nhe' noi hai lan. Giu lan sau."},
+ {"t0": 235.94, "t1": 239.40, "why": "LAP — cau hoi 'Te bao nao can nhieu nang luong nhat?' hoi truoc mot lan roi hoi lai co dan ('Vay thi cho Thanh hoi'). Giu lan sau."},
+ {"t0": 304.98, "t1": 313.00, "why": "LAP — 'hai san pham nay, mot ben thong am, mot ben tang ap dap cho may bom'. Take sau (313.00) noi ro hon: 'tang cai nang luong cho cai may bom'."},
+ {"t0": 366.40, "t1": 384.24, "why": "LAP + SAI SO — lan dau bao gia 'tron mot nam la 28 trieu 790.000' va KHONG nhac khuyen mai. Take sau (384.24) moi dung: mua ca 6 hop thi tang moi loai 1 hop, gia 31 trieu 080.000. Bo hoan toan lan dau."},
+ {"t0": 426.28, "t1": 428.92, "why": "LAP — 'Nen anh chi hay de lai ten va so dien thoai ben duoi' noi truoc mot lan thieu ve dan. Giu lan sau co 'muon duoc tu van'."},
+ {"t0": 447.50, "t1": null,   "why": "duoi bai: sau chu 'benh' cua disclaimer chi con im lang (-57 dB)"}
+]

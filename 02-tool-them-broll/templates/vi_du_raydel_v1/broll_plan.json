@@ -1,0 +1,242 @@
+[
+ {
+  "from": 78,
+  "durationInFrames": 78,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\mỡ-máu-cao,mỡ-máu,mỡ-trong-máu.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 156,
+  "durationInFrames": 172,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\met-moi,met-moi-khong-ro-nguyen-nhan.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 328,
+  "durationInFrames": 164,
+  "path": "D:\\download\\Footage B-roll\\Product Broll\\Raydel Policosanol\\Video\\Raydel policosanol.mp4",
+  "is_image": false,
+  "src_start_s": 11.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 492,
+  "durationInFrames": 288,
+  "path": "D:\\download\\Footage B-roll\\Product Broll\\Raydel Policosanol\\Video\\Viện nghiên cứu ở cuba+úc.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 780,
+  "durationInFrames": 276,
+  "path": "D:\\download\\Footage B-roll\\Product Broll\\Raydel Policosanol\\Ảnh\\Raydel Policosanol.JPG",
+  "is_image": true,
+  "src_start_s": 0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 1056,
+  "durationInFrames": 250,
+  "path": "D:\\download\\Footage B-roll\\Product Broll\\Raydel Policosanol\\Video\\kết quả nhiên cứu giảm mỡ xấu và tăng mỡ tốt.mp4",
+  "is_image": false,
+  "src_start_s": 0.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 1306,
+  "durationInFrames": 296,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\mo-mau,hinh-thanh-xo-vua-3.mp4",
+  "is_image": false,
+  "src_start_s": 0.1,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 1602,
+  "durationInFrames": 223,
+  "path": "D:\\download\\Footage B-roll\\Product Broll\\Raydel Policosanol\\Video\\giảm mỡ xấu tăng mỡ tốt.mp4",
+  "is_image": false,
+  "src_start_s": 0.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 1825,
+  "durationInFrames": 317,
+  "path": "D:\\download\\Footage B-roll\\Product Broll\\Rich Coenzyme Q10\\Video\\IMG_4200.JPG01692522.mp4",
+  "is_image": false,
+  "src_start_s": 0.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 2142,
+  "durationInFrames": 332,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\nang-luong-te-bao-1,nang-luong-ben-trong,san-xuat-nang-luong-atp.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 2474,
+  "durationInFrames": 202,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\Coenzyme Q10 -mau-cam.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 2676,
+  "durationInFrames": 342,
+  "path": "D:\\download\\Footage B-roll\\Product Broll\\Rich Coenzyme Q10\\Video\\IMG_4200.JPG01692522.mp4",
+  "is_image": false,
+  "src_start_s": 5.2,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 3018,
+  "durationInFrames": 72,
+  "path": "D:\\download\\Footage B-roll\\Lộn Xộn Xà bần\\tao_do_nhat_ban_co_tac_dung_gi_va_mot_so_dieu_can_luu_y_khi_su_dung_tao_do_nhat_ban_0_bdc2715375.jpg",
+  "is_image": true,
+  "src_start_s": 0.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 3090,
+  "durationInFrames": 240,
+  "path": "D:\\download\\Footage B-roll\\Lộn Xộn Xà bần\\download - 2026-06-10T133449.710.mp4",
+  "is_image": false,
+  "src_start_s": 0.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 3330,
+  "durationInFrames": 290,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\mach-mau-dan-hoi,on-dinh-xo-vua,thanh-mach-dan-hoi-tot.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 3620,
+  "durationInFrames": 364,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\mach-mau-thong-thoang-1,on-dinh-xo-vua.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 3984,
+  "durationInFrames": 115,
+  "path": "D:\\download\\Footage B-roll\\Mạch Máu - Thần Kinh - TẾ BÀO\\nang-luong-te-bao-3,nang-luong-ben-trong.mp4",
+  "is_image": false,
+  "src_start_s": 0.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 4099,
+  "durationInFrames": 153,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\he-tuan-hoan,tuan-hoan,he-mach-mau.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 4252,
+  "durationInFrames": 67,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\kem-tap-trung,met-moi,thieu-nang-luong.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 4319,
+  "durationInFrames": 72,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\dau-moi-vai-gay-1,dau-co-vai-gay.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 4391,
+  "durationInFrames": 41,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\Mat-ngủ-1,ngu-khong-sau-giac.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 4432,
+  "durationInFrames": 68,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\dau-dau-2,chong-mat,Roi-loan-tien-dinh.mp4",
+  "is_image": false,
+  "src_start_s": 0.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 4500,
+  "durationInFrames": 187,
+  "path": "D:\\download\\Footage B-roll\\Đã Chuẩn Hóa\\dot-quy-1.mp4",
+  "is_image": false,
+  "src_start_s": 1.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ },
+ {
+  "from": 4687,
+  "durationInFrames": 633,
+  "path": "D:\\download\\Footage B-roll\\Product Broll\\Ảnh Combo Sản Phẩm\\Combo Raydel policosanol + Rich Coenzyme Q10.jpg",
+  "is_image": true,
+  "src_start_s": 0.0,
+  "xfade_prev": 0,
+  "crop_bias": 0.5,
+  "key_black": false
+ }
+]

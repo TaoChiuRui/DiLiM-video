@@ -1,0 +1,8629 @@
+[
+ {
+  "file": "SP này k phải là thuốc.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/05 Finish part/SP này k phải là thuốc.mp4",
+  "dai": 3.02,
+  "w": 1080,
+  "h": 1920,
+  "fps": 30.0,
+  "doc": true,
+  "so_frame_soi": 2,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    3.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 3.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "disclaimer chữ vàng nền xanh: sản phẩm này không phải là thuốc, không thay thế thuốc chữa bệnh — CLIP KẾT BÀI",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "VAI GÁY (1).mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Footage Dilim Quay/VAI GÁY (1).mp4",
+  "dai": 9.74,
+  "w": 1920,
+  "h": 1080,
+  "fps": 29.97,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    9.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 9.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam trung niên bóp vai, nhăn mặt ngoài vườn — đau mỏi vai gáy",
+  "da_dung": 10,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 4,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 41,
+    "chu": "ĐAU ĐẦU ĐAU MỎI CỔ VAI GÁY",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 2,
+    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 45,
+    "chu": "ĐAU MỎI VAI GÁY TÊ BÌ TAY CHÂN",
+    "variant": "warning",
+    "src_start": 3.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 2,
+    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 40,
+    "chu": "ĐAU MỎI VAI GÁY TÊ BÌ TAY CHÂN",
+    "variant": "warning",
+    "src_start": 6.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 2,
+    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 2,
+    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 16,
+    "chu": "NÊN PHỚT LỜ NÓ",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 4,
+    "chu": "ĐAU MỎI VAI GÁY TÊ BÌ CHÂN TAY",
+    "variant": "warning",
+    "src_start": 0.5
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 53,
+    "chu": "ĐAU ĐẦU, CHÓNG MẶT VAI GÁY, TÊ BÌ CHÂN TAY",
+    "variant": "warning",
+    "src_start": 0.5
+   }
+  ],
+  "tu_khoa_hoc": [
+   "au",
+   "bi",
+   "chan",
+   "chong",
+   "gay",
+   "lo",
+   "mat",
+   "moi",
+   "phot",
+   "tay",
+   "te",
+   "vai"
+  ]
+ },
+ {
+  "file": "andu-ongnuoc-chay-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/07 Video minh họa/andu-ongnuoc-chay-01.mp4",
+  "dai": 7.8,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    7.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 7.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ống cống đá cổ, nước chảy mạnh qua, rêu xanh — ẩn dụ ĐƯỜNG ỐNG THÔNG",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 16,
+    "chu": "VIỆC CẦN LÀM KHÔNG PHẢI BƠM MÀ LÀ PHẢI LÀM SẠCH CÁI ỐNG",
+    "variant": "positive",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bom",
+   "can",
+   "khong",
+   "ong",
+   "phai",
+   "sach",
+   "viec"
+  ]
+ },
+ {
+  "file": "andu-xerac-do-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/07 Video minh họa/andu-xerac-do-01.mp4",
+  "dai": 44.97,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 29,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    45.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 45.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   18.4
+  ],
+  "mo_ta": "xe ben đổ rác ở bãi rác, chim bay — ẩn dụ ĐỔ RÁC, dọn rác",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "andu-xerac-nhintren-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/07 Video minh họa/andu-xerac-nhintren-01.mp4",
+  "dai": 26.57,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 17,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    26.6
+   ]
+  ],
+  "dai_doan_dai_nhat": 26.6,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bãi rác nhìn từ trên cao, xe rác — ẩn dụ rác thải tích tụ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "chongmat-bep-nu-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/chongmat-bep-nu-01.mp4",
+  "dai": 14.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ trẻ trong bếp ôm đầu, vịn tường, choáng — chóng mặt khi đứng lên",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "chongmat-nu-tuatuong-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/chongmat-nu-tuatuong-01.mp4",
+  "dai": 18.27,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.3
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.3,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ tựa tường, tay che trán, mắt nhắm — chóng mặt, hoa mắt",
+  "da_dung": 2,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 3,
+    "chu": "CHÓNG MẶT, BUỒN NÔN HAY LÀ MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 62,
+    "chu": "RỐI LOẠN TIỀN ĐÌNH",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "buon",
+   "chong",
+   "inh",
+   "loan",
+   "mat",
+   "ngu",
+   "non",
+   "tien"
+  ]
+ },
+ {
+  "file": "chongmat-tiendinh-ongcu-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/chongmat-tiendinh-ongcu-01.mp4",
+  "dai": 18.6,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.6
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.6,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ông cụ tóc bạc ôm đầu hai tay trong phòng khách — chóng mặt tiền đình",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "chongmat-vintuong-nam-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/chongmat-vintuong-nam-01.mp4",
+  "dai": 9.81,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    9.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 9.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam trung niên vest ôm trán, vịn tường — choáng váng, mất thăng bằng",
+  "da_dung": 2,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1773"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 5,
+    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 14,
+    "chu": "BÁO HIỆU BẰNG ĐAU ĐẦU HOA MẮT, CHÓNG MẶT",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "au",
+   "bang",
+   "bao",
+   "bi",
+   "chan",
+   "chong",
+   "gay",
+   "hieu",
+   "hoa",
+   "mat",
+   "moi",
+   "tay",
+   "te",
+   "vai"
+  ]
+ },
+ {
+  "file": "coq10-cau-vang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/coq10-cau-vang-01.mp4",
+  "dai": 14.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "quả cầu phân tử CoQ10 vàng cam quay, nền vàng — Coenzyme Q10",
+  "da_dung": 8,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 4,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 50,
+    "chu": "COENZYME Q10 LÀ XÚC TÁC BẮT BUỘC Ở KHÂU CUỐI",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 51,
+    "chu": "ĐỂ TẠO RA NĂNG LƯỢNG",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 63,
+    "chu": "Q10 CÓ 2 DẠNG OXY HOÁ VÀ DẠNG KHỬ",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 64,
+    "chu": "DẠNG OXY HOÁ PHẢI CHUYỂN ĐỔI MỚI DÙNG ĐƯỢC",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 50,
+    "chu": "COENZYME Q10 LÀ XÚC TÁC BẮT BUỘC Ở KHÂU CUỐI",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 51,
+    "chu": "ĐỂ TẠO RA NĂNG LƯỢNG",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 63,
+    "chu": "Q10 CÓ 2 DẠNG OXY HOÁ VÀ DẠNG KHỬ",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 64,
+    "chu": "DẠNG OXY HOÁ PHẢI CHUYỂN ĐỔI MỚI DÙNG ĐƯỢC",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bat",
+   "buoc",
+   "chuyen",
+   "coenzyme",
+   "cuoi",
+   "dung",
+   "hoa",
+   "khau",
+   "khu",
+   "luong",
+   "moi",
+   "nang",
+   "oi",
+   "oxy",
+   "phai",
+   "q10",
+   "tac",
+   "tao",
+   "uoc",
+   "xuc"
+  ]
+ },
+ {
+  "file": "coq10-cau-xanh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/coq10-cau-xanh-01.mp4",
+  "dai": 14.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 4,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "quả cầu phân tử CoQ10 xanh dương quay, mạng lưới — Coenzyme Q10",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 47,
+    "chu": "THỨ HAI LÀ RICH COQ10 LO PHẦN MÁY BƠM",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 56,
+    "chu": "SAU 40 TUỔI TỔNG HỢP Q10 GIẢM DẦN",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 67,
+    "chu": "DẠNG KHỬ CƠ THỂ DÙNG ĐƯỢC NGAY",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 47,
+    "chu": "THỨ HAI LÀ RICH COQ10 LO PHẦN MÁY BƠM",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 56,
+    "chu": "SAU 40 TUỔI TỔNG HỢP Q10 GIẢM DẦN",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 67,
+    "chu": "DẠNG KHỬ CƠ THỂ DÙNG ĐƯỢC NGAY",
+    "variant": "positive",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "40",
+   "bom",
+   "coq10",
+   "dan",
+   "dung",
+   "giam",
+   "hai",
+   "hop",
+   "khu",
+   "lo",
+   "may",
+   "ngay",
+   "phan",
+   "q10",
+   "rich",
+   "sau",
+   "the",
+   "thu",
+   "tong",
+   "tuoi",
+   "uoc"
+  ]
+ },
+ {
+  "file": "cothe-hemach-do-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cothe-hemach-do-01.mp4",
+  "dai": 15.03,
+  "w": 3840,
+  "h": 2160,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "cơ thể người trong suốt, hệ mạch đỏ hồng toàn thân — tuần hoàn toàn cơ thể",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 3,
+  "co_ban_doi_chieu": 5,
+  "job": [
+   "03-2026-06-28-dscf0894",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 29,
+    "chu": "NUÔI DƯỠNG LẠI HỆ THẦN KINH",
+    "variant": "positive",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 30,
+    "chu": "KHI TRỤC THẦN KINH ĐƯỢC NUÔI DƯỠNG",
+    "variant": "positive",
+    "src_start": 0.0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 38,
+    "chu": "SỜ VÀO MÁT HƠN PHẦN CÒN LẠI CỦA CƠ THỂ",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 38,
+    "chu": "SỜ VÀO MÁT HƠN PHẦN CÒN LẠI CỦA CƠ THỂ",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 36,
+    "chu": "RẤT TỐT CHO CƠ THỂ",
+    "variant": "positive",
+    "src_start": 1.0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 51,
+    "chu": "HẤP THU, CHUYỂN HÓA ĐƯỢC TỐT HƠN",
+    "variant": "positive",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "chuyen",
+   "con",
+   "duong",
+   "hap",
+   "he",
+   "hoa",
+   "kinh",
+   "mat",
+   "nuoi",
+   "phan",
+   "so",
+   "than",
+   "the",
+   "thu",
+   "tot",
+   "truc",
+   "uoc",
+   "vao"
+  ]
+ },
+ {
+  "file": "cothe-hemach-longnguc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cothe-hemach-longnguc-01.mp4",
+  "dai": 24.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 16,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    24.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 24.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "cơ thể trong suốt nhìn rõ tim và hệ động tĩnh mạch xanh đỏ — tim và mạch",
+  "da_dung": 3,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 26,
+    "chu": "CƠ THỂ TỰ TIÊU ĐƯỢC FIBRIN NHƯNG SAU TUỔI 40",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 39,
+    "chu": "MÁU NGOẠI VI TỚI KHÔNG ĐỦ",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 39,
+    "chu": "MÁU NGOẠI VI TỚI KHÔNG ĐỦ",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "40",
+   "fibrin",
+   "khong",
+   "mau",
+   "ngoai",
+   "sau",
+   "the",
+   "tieu",
+   "toi",
+   "tu",
+   "tuoi",
+   "uoc"
+  ]
+ },
+ {
+  "file": "cothe-tieuhoa-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cothe-tieuhoa-01.mp4",
+  "dai": 14.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "cơ thể trong suốt, đường tiêu hoá cam nổi bật — đường ruột, tiêu hoá, hấp thu",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 4,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 65,
+    "chu": "NGƯỜI TRUNG NIÊN HOẶC ĐƯỜNG RUỘT KÉM",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 66,
+    "chu": "KHẢ NĂNG CHUYỂN HOÁ KÉM",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 65,
+    "chu": "NGƯỜI TRUNG NIÊN HOẶC ĐƯỜNG RUỘT KÉM",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 66,
+    "chu": "KHẢ NĂNG CHUYỂN HOÁ KÉM",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 18,
+    "chu": "ĐÓ LÀ CÁI NỀN TẢNG ĐỂ TRAO ĐỔI CHẤT",
+    "variant": "positive",
+    "src_start": 1.0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 48,
+    "chu": "KHẢ NĂNG HẤP THU CÀNG BỊ CHẬM ĐI",
+    "variant": "warning",
+    "src_start": 8.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bi",
+   "cang",
+   "cham",
+   "chat",
+   "chuyen",
+   "hap",
+   "hoa",
+   "kem",
+   "kha",
+   "nang",
+   "nguoi",
+   "nien",
+   "oi",
+   "ruot",
+   "tang",
+   "thu",
+   "trao",
+   "trung",
+   "uong"
+  ]
+ },
+ {
+  "file": "cucmau-anh-khoi-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cucmau-anh-khoi-01.jpg",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "cucmau-hinhthanh-doc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cucmau-hinhthanh-doc-01.mp4",
+  "dai": 16.74,
+  "w": 1080,
+  "h": 1920,
+  "fps": 30.0,
+  "doc": true,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "DỌC. cục máu đông đỏ hình thành trong lòng mạch",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "cucmau-khoi-fibrin-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cucmau-khoi-fibrin-01.mp4",
+  "dai": 50.74,
+  "w": 1920,
+  "h": 1080,
+  "fps": 24.0,
+  "doc": false,
+  "so_frame_soi": 33,
+  "vung_chu": [
+   [
+    13.9,
+    39.9
+   ],
+   [
+    44.6,
+    49.2
+   ]
+  ],
+  "vung_den": [
+   [
+    46.5,
+    49.3
+   ]
+  ],
+  "vung_cam": [
+   [
+    13.9,
+    39.9
+   ],
+   [
+    44.6,
+    49.3
+   ]
+  ],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.9
+   ],
+   [
+    39.9,
+    44.6
+   ],
+   [
+    49.3,
+    50.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.9,
+  "chu_doc_duoc": {
+   "PLATELET": 15.4,
+   "RED BLOOD | CELL": 23.1,
+   "RED BLOOD | CELL | Hells": 26.1,
+   "FIBRI": 30.8,
+   "FIBRIN": 32.3,
+   "FIBRIN | 2020 O All Rights Reservec": 35.4,
+   "2020 C AlL Pights Reserved": 46.1
+  },
+  "doi_canh": [],
+  "mo_ta": "khối hồng cầu kết cụm thành cục máu đông, nền hồng — cục máu đông",
+  "da_dung": 20,
+  "con_lai_sau_khi_anh_sua": 4,
+  "co_ban_doi_chieu": 8,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 12,
+    "chu": "CỤC MÁU ĐÔNG",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 22,
+    "chu": "LÀM TAN CỤC MÁU ĐÔNG",
+    "variant": "positive",
+    "src_start": 20.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 13,
+    "chu": "LÀ NHỮNG CỤC MÁU ĐÔNG",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 21,
+    "chu": "NATTOKINASE HỖ TRỢ LÀM TAN CỤC MÁU ĐÔNG",
+    "variant": "positive",
+    "src_start": 20.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 17,
+    "chu": "VÀ CỤC MÁU ĐÔNG",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 28,
+    "chu": "ĐẦU TIÊN LÀM SẠCH CỤC MÁU ĐÔNG",
+    "variant": "positive",
+    "src_start": 20.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 35,
+    "chu": "LÀM TAN CỤC MÁU ĐÔNG",
+    "variant": "positive",
+    "src_start": 35.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 17,
+    "chu": "ĐẦU TIÊN PHẢI LÀM SẠCH CỤC MÁU ĐÔNG",
+    "variant": "positive",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 24,
+    "chu": "ENZYME NATTO HỖ TRỢ LÀM TAN CỤC MÁU ĐÔNG",
+    "variant": "positive",
+    "src_start": 20.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 22,
+    "chu": "LÀM SẠCH CỤC MÁU ĐÔNG",
+    "variant": "positive",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 27,
+    "chu": "LÀM TAN CỤC MÁU ĐÔNG",
+    "variant": "positive",
+    "src_start": 8.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 36,
+    "chu": "LÀM SẠCH CỤC MÁU ĐÔNG VÀ XƠ VỮA",
+    "variant": "positive",
+    "src_start": 35.0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 9,
+    "chu": "CÒN CỤC MÁU ĐÔNG HAI THỨ LÀM MẠCH MÁU HẸP",
+    "variant": "warning",
+    "src_start": 8
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 19,
+    "chu": "KHI ANH CHỊ ĐỨT TAY FIBRIN ĐAN LẠI THÀNH LƯỚI",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 20,
+    "chu": "GIỮ TIỂU CẦU LẠI BỊT VẾT THƯƠNG LẠI",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 31,
+    "chu": "NHIỆM VỤ CỦA NÓ LÀ PHÂN GIẢI NHỮNG SỢI FIBRIN",
+    "variant": "positive",
+    "src_start": 40
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 43,
+    "chu": "ENZYME NÀY PHÂN GIẢI SỢI FIBRIN",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 44,
+    "chu": "SỢI ĐANG GIỮ TẾ BÀO MÁU THÀNH CỤC TRONG LÒNG MẠCH",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 43,
+    "chu": "ENZYME NÀY PHÂN GIẢI SỢI FIBRIN",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 44,
+    "chu": "SỢI ĐANG GIỮ TẾ BÀO MÁU THÀNH CỤC TRONG LÒNG MẠCH",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "an",
+   "ang",
+   "anh",
+   "au",
+   "bao",
+   "bit",
+   "cau",
+   "con",
+   "cuc",
+   "enzyme",
+   "fibrin",
+   "giai",
+   "giu",
+   "hai",
+   "hep",
+   "ho",
+   "long",
+   "luoi",
+   "mach",
+   "mau",
+   "natto",
+   "nattokinase",
+   "nhiem",
+   "ong",
+   "phai",
+   "phan",
+   "sach",
+   "soi",
+   "tan",
+   "tay",
+   "te",
+   "thanh",
+   "thu",
+   "thuong",
+   "tien",
+   "tieu",
+   "tro",
+   "ut",
+   "vet",
+   "vu"
+  ]
+ },
+ {
+  "file": "cucmau-khoi-trongmach-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cucmau-khoi-trongmach-01.mp4",
+  "dai": 20.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "cục máu đông lớn trong lòng mạch, hồng cầu vây quanh — huyết khối",
+  "da_dung": 3,
+  "con_lai_sau_khi_anh_sua": 3,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 17,
+    "chu": "CỤC MÁU ĐÔNG NÓ HÌNH THÀNH THẾ NÀO?",
+    "variant": "yellow",
+    "src_start": 8
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 24,
+    "chu": "GIỮ TẾ BÀO MÁU LẠI TẠO THÀNH NHỮNG CỤC",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 45,
+    "chu": "LÝ DO: CỤC MÁU ĐÔNG DỄ HÌNH THÀNH NHẤT",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bao",
+   "cuc",
+   "de",
+   "giu",
+   "hinh",
+   "ly",
+   "mau",
+   "nao",
+   "nhat",
+   "ong",
+   "tao",
+   "te",
+   "thanh",
+   "the"
+  ]
+ },
+ {
+  "file": "cucmau-tacmach-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cucmau-tacmach-01.mp4",
+  "dai": 24.01,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 16,
+  "vung_chu": [
+   [
+    12.0,
+    22.5
+   ]
+  ],
+  "vung_den": [
+   [
+    20.0,
+    22.6
+   ],
+   [
+    0.0,
+    1.5
+   ]
+  ],
+  "vung_cam": [
+   [
+    0.0,
+    1.5
+   ],
+   [
+    12.0,
+    22.6
+   ]
+  ],
+  "doan_dung_duoc": [
+   [
+    1.5,
+    12.0
+   ],
+   [
+    22.6,
+    24.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.5,
+  "chu_doc_duoc": {
+   "NOTLYHINY": 13.5,
+   "OLLYHINY": 15.0,
+   "OILYWINY": 19.5
+  },
+  "doi_canh": [],
+  "mo_ta": "lòng mạch màu cam lửa, hồng cầu bị cuốn — mạch bị tắc, viêm",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 9,
+    "chu": "BẮT ĐẦU THIẾU OXY THIẾU DƯỠNG CHẤT",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 11,
+    "chu": "MÁU KHÔNG LƯU THÔNG ĐƯỢC",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 8,
+    "chu": "NÓ BỊ TẮC NGHẼN NÓ BỊ VỠ RA",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 23,
+    "chu": "LƯỚI FIBRIN LẠI ĐAN NGAY TRONG LÒNG MẠCH",
+    "variant": "warning",
+    "src_start": 4.0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 83,
+    "chu": "THÌ MẠCH MÁU TỔN THƯƠNG ÁCH TẮC CÀNG NHIỀU HƠN",
+    "variant": "warning",
+    "src_start": 4
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 83,
+    "chu": "THÌ MẠCH MÁU TỔN THƯƠNG ÁCH TẮC CÀNG NHIỀU HƠN",
+    "variant": "warning",
+    "src_start": 4
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ach",
+   "an",
+   "au",
+   "bat",
+   "bi",
+   "cang",
+   "chat",
+   "duong",
+   "fibrin",
+   "khong",
+   "long",
+   "luoi",
+   "luu",
+   "mach",
+   "mau",
+   "ngay",
+   "nghen",
+   "nhieu",
+   "oxy",
+   "tac",
+   "thieu",
+   "thong",
+   "thuong",
+   "ton",
+   "uoc",
+   "vo"
+  ]
+ },
+ {
+  "file": "da-bemat-tebao-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/da-bemat-tebao-01.mp4",
+  "dai": 7.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 4,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    7.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 7.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bề mặt tế bào da phóng đại, màu hồng nhạt — da, tế bào",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "da-lopcat-momo-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/da-lopcat-momo-01.mp4",
+  "dai": 5.03,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "da cắt lớp, các lớp mỡ dưới da tròn — mô mỡ dưới da",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-bacu-omdau-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-bacu-omdau-01.mp4",
+  "dai": 10.37,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bà cụ tóc bạc ôm hai tai nhăn nhó — đau đầu người già",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 4,
+    "chu": "UỐNG HOÀI KHÔNG ĐỠ CỨ THI THOẢNG LÀ BỊ LẠI",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bi",
+   "cu",
+   "hoai",
+   "khong",
+   "thoang",
+   "uong"
+  ]
+ },
+ {
+  "file": "daudau-bacu-tachnen-01.png",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-bacu-tachnen-01.png",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-bopmui-nu-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-bopmui-nu-01.mp4",
+  "dai": 8.17,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ trung niên bỏ kính, bóp sống mũi — mỏi mắt, đau đầu",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 42,
+    "chu": "RỐI LOẠN TIỀN ĐÌNH MÃI KHÔNG KHỎI",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 10,
+    "chu": "TÊ BÌ TAY CHÂN LÂU NGÀY",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 46,
+    "chu": "HAY RỐI LOẠN TIỀN ĐÌNH MÃI KHÔNG KHỎI",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 3,
+    "chu": "RỐI LOẠN TIỀN ĐÌNH",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 3,
+    "chu": "RỐI LOẠN TIỀN ĐÌNH",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 15,
+    "chu": "TA THẤY LÀ BÌNH THƯỜNG",
+    "variant": "yellow",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bi",
+   "binh",
+   "chan",
+   "inh",
+   "khoi",
+   "khong",
+   "lau",
+   "loan",
+   "mai",
+   "ngay",
+   "ta",
+   "tay",
+   "te",
+   "thay",
+   "thuong",
+   "tien"
+  ]
+ },
+ {
+  "file": "daudau-giangduong-sinhvien-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-giangduong-sinhvien-01.mp4",
+  "dai": 10.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ sinh viên giảng đường ôm đầu — căng thẳng học hành",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-nam-giuong-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-nam-giuong-01.mp4",
+  "dai": 18.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam nằm giường dụi mắt, nhăn nhó — đau đầu ban đêm",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-nam-giuong-02.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-nam-giuong-02.mp4",
+  "dai": 14.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam nằm giường mờ nhoè (RUNG NHOÈ 2/3 khung — hạn chế dùng)",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-nam-giuong-03.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-nam-giuong-03.mp4",
+  "dai": 20.03,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam nằm nghiêng trên gối trắng, mệt — khó ngủ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-nam-giuong-dem-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-nam-giuong-dem-01.mp4",
+  "dai": 18.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam trung niên ngồi giường đêm, đèn ngủ, xoa thái dương — đau đầu ban đêm",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-nu-tocvang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-nu-tocvang-01.mp4",
+  "dai": 19.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 25.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    19.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 19.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ tóc vàng bịt mũi nhăn mặt — đau đầu, khó chịu",
+  "da_dung": 5,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 6,
+    "chu": "TRIỆU CHỨNG KÉO DÀI LÂU NGÀY",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 9,
+    "chu": "MẤT NGỦ, ĐAU ĐẦU ĐAU MỎI CỔ VAI GÁY",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 4,
+    "chu": "VÌ SAO ĐAU ĐẦU, MẤT NGỦ",
+    "variant": "yellow",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 6,
+    "chu": "ĐAU ĐẦU, MẤT NGỦ CŨNG KHÔNG TỰ NHIÊN MÀ CÓ",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 3,
+    "chu": "MÀ VÌ ĐÃ PHỚT LỜ QUÁ LÂU",
+    "variant": "warning",
+    "src_start": 2.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "au",
+   "chung",
+   "dai",
+   "gay",
+   "keo",
+   "khong",
+   "lau",
+   "lo",
+   "mat",
+   "moi",
+   "ngay",
+   "ngu",
+   "nhien",
+   "phot",
+   "sao",
+   "trieu",
+   "tu",
+   "vai"
+  ]
+ },
+ {
+  "file": "daudau-nu-trungnien-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-nu-trungnien-01.mp4",
+  "dai": 15.83,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ trung niên châu Á áo xanh xoa thái dương — đau đầu",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 62,
+    "chu": "NẾU AI GẶP ĐAU ĐẦU, CHÓNG MẶT MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ai",
+   "au",
+   "chong",
+   "gap",
+   "mat",
+   "neu",
+   "ngu"
+  ]
+ },
+ {
+  "file": "daudau-ongcu-ngoaitroi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-ongcu-ngoaitroi-01.mp4",
+  "dai": 6.4,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 4,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    6.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 6.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ông cụ râu bạc ôm đầu ngoài trời — đau đầu người cao tuổi",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-ongcu-omtran-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-ongcu-omtran-01.mp4",
+  "dai": 19.7,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    19.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 19.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ông cụ châu Á ôm trán, mắt nhắm — đau đầu",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 3,
+    "chu": "ĐAU ĐẦU, CHÓNG MẶT",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "au",
+   "chong",
+   "mat"
+  ]
+ },
+ {
+  "file": "daudau-ongcu-omtran-02.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-ongcu-omtran-02.mp4",
+  "dai": 18.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ông cụ châu Á cận cảnh nhăn nhó ôm đầu — đau đầu dữ",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 60,
+    "chu": "HỖ TRỢ CẢI THIỆN ĐAU ĐẦU, MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "au",
+   "ho",
+   "mat",
+   "ngu",
+   "thien",
+   "tro"
+  ]
+ },
+ {
+  "file": "daudau-vanphong-nu-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-vanphong-nu-01.mp4",
+  "dai": 27.03,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 18,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    27.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 27.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ vest văn phòng bịt hai tai, bàn giấy — căng thẳng, đau đầu công việc",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-vanphong-nu-02.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-vanphong-nu-02.mp4",
+  "dai": 22.83,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 15,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    22.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 22.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ văn phòng xoa hai thái dương, đồng nghiệp phía sau — stress",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-vanphong-nu-03.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-vanphong-nu-03.mp4",
+  "dai": 20.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ áo vàng đeo thẻ, ngả đầu mệt — kiệt sức văn phòng",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "daudau-vungdau-do-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-vungdau-do-01.jpg",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dilim logo .png",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/05 Finish part/dilim logo .png",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dna-chuoi-xoan-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/dna-chuoi-xoan-01.mp4",
+  "dai": 8.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "chuỗi xoắn kép DNA xanh tím quay — DNA, di truyền, tế bào",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-anh-meo-mieng-01.png",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-meo-mieng-01.png",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-anh-nga-bacu-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-nga-bacu-01.jpg",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-anh-nga-bacu-02.png",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-nga-bacu-02.png",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-anh-nga-duong-01.png",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-nga-duong-01.png",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-anh-phuchoi-tay-01.png",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-phuchoi-tay-01.png",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-anh-tapdi-khung-01.png",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-tapdi-khung-01.png",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-capcuu-bangca-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-capcuu-bangca-01.mp4",
+  "dai": 11.37,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 7,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    11.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 11.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "kíp bác sĩ đẩy cáng cấp cứu trong bệnh viện — CẤP CỨU, đột quỵ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-namvien-truyendich-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-namvien-truyendich-01.mp4",
+  "dai": 14.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bệnh nhân nữ nằm viện truyền dịch — nằm viện, biến chứng",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-nga-guc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-nga-guc-01.mp4",
+  "dai": 17.7,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    17.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 17.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ đỡ bà cụ ngã ngồi bệt xuống sàn — NGÃ, đột quỵ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-omnguc-canh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-omnguc-canh-01.mp4",
+  "dai": 16.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bàn tay người già đặt trên ngực người nằm — chăm sóc người bệnh",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-omnguc-ongcu-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-omnguc-ongcu-01.mp4",
+  "dai": 17.83,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    17.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 17.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ông cụ đeo kính ôm ngực nhăn nhó — đau ngực, nhồi máu",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "dotquy-omnguc-sofa-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-omnguc-sofa-01.mp4",
+  "dai": 15.47,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.5
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.5,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam trung niên ôm ngực trên sofa đỏ — đau tim, đột quỵ",
+  "da_dung": 9,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 6,
+    "chu": "LẠI RẤT DỄ GÂY ĐỘT QUỴ, TAI BIẾN?",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 27,
+    "chu": "ĐỂ PHÒNG NGỪA ĐỘT QUỴ, TAI BIẾN",
+    "variant": "warning",
+    "src_start": 6.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 4,
+    "chu": "LẠI GÂY ĐỘT QUỴ, TAI BIẾN?",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 5,
+    "chu": "ĐỘT QUỴ KHÔNG TỰ NHIÊN MÀ CÓ",
+    "variant": "warning",
+    "src_start": 6.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 1,
+    "chu": "KHÔNG AI ĐỘT QUỴ CHỈ VÌ ĐAU ĐẦU, MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 9,
+    "chu": "MỚI GÂY ĐỘT QUỴ, TAI BIẾN",
+    "variant": "warning",
+    "src_start": 6.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 18,
+    "chu": "VÀ GÂY ĐỘT QUỴ",
+    "variant": "warning",
+    "src_start": 10.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 35,
+    "chu": "ĐỂ PHÒNG NGỪA ĐỘT QUỴ",
+    "variant": "warning",
+    "src_start": 3.0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 15,
+    "chu": "BƠM ÁP SUẤT MẠNH NHIỀU KHI CÒN GÂY NGUY HIỂM",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ai",
+   "ap",
+   "au",
+   "bien",
+   "bom",
+   "con",
+   "de",
+   "gay",
+   "hiem",
+   "khong",
+   "manh",
+   "mat",
+   "moi",
+   "ngu",
+   "ngua",
+   "nguy",
+   "nhien",
+   "nhieu",
+   "ot",
+   "phong",
+   "quy",
+   "suat",
+   "tai",
+   "tu"
+  ]
+ },
+ {
+  "file": "dotquy-tebi-runtay-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-tebi-runtay-01.mp4",
+  "dai": 34.77,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 23,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    34.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 34.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bàn tay nữ áo hồng xoa bóp cổ tay — TÊ TAY, tê bì, run tay",
+  "da_dung": 19,
+  "con_lai_sau_khi_anh_sua": 8,
+  "co_ban_doi_chieu": 10,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 1,
+    "chu": "TÊ TAY, TÊ CHÂN TÌM TRÊN MẠNG",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 6,
+    "chu": "TÊ TAY, TÊ CHÂN KHÔNG CHỈ MỘT NGUYÊN NHÂN",
+    "variant": "warning",
+    "src_start": 18
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 14,
+    "chu": "NÊN THẤY TÊ, GIẬT GIẬT CHÂM CHÍCH",
+    "variant": "warning",
+    "src_start": 28
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 15,
+    "chu": "TÊ ĐỐI XỨNG HAI BÊN ĐẦU NGÓN TAY, CHUỘT RÚT",
+    "variant": "warning",
+    "src_start": 28
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 25,
+    "chu": "CÓ NGƯỜI UỐNG CANXI MÃI MÀ VẪN TÊ",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 35,
+    "chu": "CÒN TÊ DO THIẾU CHẤT ĐI HAY NGHỈ VẪN BỊ",
+    "variant": "warning",
+    "src_start": 18
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 78,
+    "chu": "MÀ VẪN TÊ TAY",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 79,
+    "chu": "HOẶC LẠNH TAY, LẠNH CHÂN THÌ PHẢI LƯU Ý",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 92,
+    "chu": "TIỂU ĐƯỜNG GÂY TÊ THEO NHIỀU CÁCH",
+    "variant": "warning",
+    "src_start": 8
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 1,
+    "chu": "TÊ TAY, TÊ CHÂN TÌM TRÊN MẠNG",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 6,
+    "chu": "TÊ TAY, TÊ CHÂN KHÔNG CHỈ MỘT NGUYÊN NHÂN",
+    "variant": "warning",
+    "src_start": 18
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 14,
+    "chu": "NÊN THẤY TÊ, GIẬT GIẬT CHÂM CHÍCH",
+    "variant": "warning",
+    "src_start": 28
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 15,
+    "chu": "TÊ ĐỐI XỨNG HAI BÊN ĐẦU NGÓN TAY, CHUỘT RÚT",
+    "variant": "warning",
+    "src_start": 28
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 25,
+    "chu": "CÓ NGƯỜI UỐNG CANXI MÃI MÀ VẪN TÊ",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 35,
+    "chu": "CÒN TÊ DO THIẾU CHẤT ĐI HAY NGHỈ VẪN BỊ",
+    "variant": "warning",
+    "src_start": 18
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 78,
+    "chu": "MÀ VẪN TÊ TAY",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 79,
+    "chu": "HOẶC LẠNH TAY, LẠNH CHÂN THÌ PHẢI LƯU Ý",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 92,
+    "chu": "TIỂU ĐƯỜNG GÂY TÊ THEO NHIỀU CÁCH",
+    "variant": "warning",
+    "src_start": 8
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 61,
+    "chu": "ĐAU MỎI VAI GÁY TÊ BÌ CHÂN TAY",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "au",
+   "ben",
+   "bi",
+   "cach",
+   "canxi",
+   "cham",
+   "chan",
+   "chat",
+   "chich",
+   "chuot",
+   "con",
+   "gay",
+   "giat",
+   "hai",
+   "khong",
+   "lanh",
+   "luu",
+   "mai",
+   "mang",
+   "moi",
+   "nghi",
+   "ngon",
+   "nguoi",
+   "nguyen",
+   "nhan",
+   "nhieu",
+   "oi",
+   "phai",
+   "rut",
+   "tay",
+   "te",
+   "thay",
+   "theo",
+   "thieu",
+   "tieu",
+   "tim",
+   "tren",
+   "uong",
+   "vai",
+   "van"
+  ]
+ },
+ {
+  "file": "dotquy-xelan-dichung-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-xelan-dichung-01.mp4",
+  "dai": 33.6,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 22,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    33.6
+   ]
+  ],
+  "dai_doan_dai_nhat": 33.6,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bà cụ ngồi xe lăn nhìn ra cửa sổ — di chứng sau đột quỵ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "khotho-leothang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/khotho-leothang-01.mp4",
+  "dai": 13.67,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam leo cầu thang vịn tay vịn, thở dốc — KHÓ THỞ khi leo cầu thang",
+  "da_dung": 8,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 4,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 28,
+    "chu": "NẾU ĐI BỘ MỘT LÚC",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 29,
+    "chu": "CHÂN CÓ MỎI HAY ĐAU THÊM?",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 58,
+    "chu": "CHỈ NHẬN RA KHI LEO CẦU THANG MỆT HƠN XƯA",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 59,
+    "chu": "TAY CHÂN LẠNH HƠN XƯA HƠI BỊ HỤT HƠI",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 28,
+    "chu": "NẾU ĐI BỘ MỘT LÚC",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 29,
+    "chu": "CHÂN CÓ MỎI HAY ĐAU THÊM?",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 58,
+    "chu": "CHỈ NHẬN RA KHI LEO CẦU THANG MỆT HƠN XƯA",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 59,
+    "chu": "TAY CHÂN LẠNH HƠN XƯA HƠI BỊ HỤT HƠI",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "au",
+   "bi",
+   "bo",
+   "cau",
+   "chan",
+   "hoi",
+   "hut",
+   "lanh",
+   "leo",
+   "luc",
+   "met",
+   "moi",
+   "neu",
+   "nhan",
+   "tay",
+   "thang",
+   "xua"
+  ]
+ },
+ {
+  "file": "machmau-anddu-ongdong-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-anddu-ongdong-01.mp4",
+  "dai": 12.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bó ống đồng vàng xếp chồng — ẩn dụ ĐƯỜNG ỐNG, lòng ống",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 24,
+    "chu": "NHƯNG KHÔNG SỬA ĐƯỢC ỐNG",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 42,
+    "chu": "LO CÁI ĐƯỜNG ỐNG TỨC LÀ MẠCH MÁU",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 71,
+    "chu": "MỘT BÊN THÔNG ỐNG MỘT BÊN TIẾP SỨC CHO BƠM",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 24,
+    "chu": "NHƯNG KHÔNG SỬA ĐƯỢC ỐNG",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 42,
+    "chu": "LO CÁI ĐƯỜNG ỐNG TỨC LÀ MẠCH MÁU",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 71,
+    "chu": "MỘT BÊN THÔNG ỐNG MỘT BÊN TIẾP SỨC CHO BƠM",
+    "variant": "product",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ben",
+   "bom",
+   "khong",
+   "lo",
+   "mach",
+   "mau",
+   "ong",
+   "sua",
+   "suc",
+   "thong",
+   "tiep",
+   "tuc",
+   "uoc",
+   "uong"
+  ]
+ },
+ {
+  "file": "machmau-catdoc-tim-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-catdoc-tim-01.mp4",
+  "dai": 13.93,
+  "w": 3840,
+  "h": 2160,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch máu cắt dọc cạnh quả tim, hồng cầu chảy — mạch máu và tim",
+  "da_dung": 14,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 4,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 5,
+    "chu": "MÀ NẰM Ở LƯU THÔNG MÁU",
+    "variant": "positive",
+    "src_start": 1.0
+   },
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 29,
+    "chu": "MÁU LƯU THÔNG DỄ DÀNG HƠN",
+    "variant": "positive",
+    "src_start": 6.0
+   },
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 39,
+    "chu": "HỆ THỐNG MẠCH MÁU ĐƯỢC PHỤC HỒI",
+    "variant": "positive",
+    "src_start": 9.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 8,
+    "chu": "MÀ LÀ LƯU THÔNG MẠCH MÁU",
+    "variant": "positive",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 35,
+    "chu": "HỆ THỐNG MẠCH MÁU TRONG CƠ THỂ RẤT DÀI",
+    "variant": "positive",
+    "src_start": 9.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 7,
+    "chu": "ĐẦU TIÊN NÓ ĐẾN TỪ MẠCH MÁU LÂU NGÀY",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 7,
+    "chu": "GỐC RỄ LÀ MẠCH MÁU LÂU NGÀY",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 19,
+    "chu": "GIÚP MẠCH MÁU THÔNG THOÁNG",
+    "variant": "positive",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 5,
+    "chu": "MẠCH MÁU LÂU NGÀY",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 23,
+    "chu": "GIÚP MẠCH MÁU THÔNG THOÁNG",
+    "variant": "positive",
+    "src_start": 6.0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 32,
+    "chu": "NGHIÊNG VỀ MẠCH MÁU CHỨ KHÔNG PHẢI THIẾU CHẤT",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 80,
+    "chu": "CÓ VẤN ĐỀ VỀ MẠCH MÁU?",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 32,
+    "chu": "NGHIÊNG VỀ MẠCH MÁU CHỨ KHÔNG PHẢI THIẾU CHẤT",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 80,
+    "chu": "CÓ VẤN ĐỀ VỀ MẠCH MÁU?",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "au",
+   "chat",
+   "chu",
+   "dai",
+   "de",
+   "en",
+   "giup",
+   "goc",
+   "he",
+   "hoi",
+   "khong",
+   "lau",
+   "luu",
+   "mach",
+   "mau",
+   "nam",
+   "ngay",
+   "nghieng",
+   "phai",
+   "phuc",
+   "re",
+   "the",
+   "thieu",
+   "thoang",
+   "thong",
+   "tien",
+   "tu",
+   "uoc",
+   "van"
+  ]
+ },
+ {
+  "file": "machmau-hep-mangvang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-hep-mangvang-01.mp4",
+  "dai": 10.23,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch cắt dọc, thành vàng dày, hồng cầu chui qua khe hẹp — HẸP MẠCH",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 10,
+    "chu": "THÌ THÚC MẠNH CỠ NÀO MÁU CŨNG KHÔNG QUA ĐƯỢC",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "khong",
+   "manh",
+   "mau",
+   "nao",
+   "thuc",
+   "uoc"
+  ]
+ },
+ {
+  "file": "machmau-hep-momau-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-hep-momau-01.mp4",
+  "dai": 23.67,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 15,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    23.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 23.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch máu bị mỡ vàng bám hai bên làm hẹp lòng — hẹp do mỡ",
+  "da_dung": 15,
+  "con_lai_sau_khi_anh_sua": 3,
+  "co_ban_doi_chieu": 6,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 7,
+    "chu": "MẠCH MÁU ĐANG GẶP VẤN ĐỀ",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 14,
+    "chu": "MÁU KHÔNG LƯU THÔNG",
+    "variant": "warning",
+    "src_start": 8.0
+   },
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 17,
+    "chu": "CŨNG KHÔNG ĐƯA MÁU ĐI ĐƯỢC",
+    "variant": "warning",
+    "src_start": 15.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 6,
+    "chu": "KHÔNG XỬ LÝ ĐƯỢC TẬN GỐC RỄ",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 16,
+    "chu": "MÁU KHÔNG LƯU THÔNG ĐƯỢC BÌNH THƯỜNG",
+    "variant": "warning",
+    "src_start": 8.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 33,
+    "chu": "ĐỂ LÀM SẠCH MẠCH MÁU MỘT CÁCH TOÀN DIỆN",
+    "variant": "positive",
+    "src_start": 12.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 8,
+    "chu": "MẠCH MÁU BẮT ĐẦU LƯU THÔNG KÉM",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 18,
+    "chu": "LÀM MẠCH MÁU HẸP LẠI",
+    "variant": "warning",
+    "src_start": 15.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 25,
+    "chu": "CHỈ CẢI THIỆN LÚC ĐẤY",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 10,
+    "chu": "LÀM HẸP MẠCH MÁU",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 7,
+    "chu": "ĐỘT QUỴ LÀ DO MẠCH MÁU LÂU NGÀY",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 25,
+    "chu": "NẰM SẴN Ở ĐÓ CẢN TRỞ LƯU THÔNG MÁU",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 63,
+    "chu": "MÀ LIÊN QUAN ĐẾN MẠCH MÁU ĐANG BỊ LƯU THÔNG KÉM",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 73,
+    "chu": "TĂNG ÁP LÊN THÀNH MẠCH PHẢI CÓ ĐỦ CẢ HAI",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 73,
+    "chu": "TĂNG ÁP LÊN THÀNH MẠCH PHẢI CÓ ĐỦ CẢ HAI",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ang",
+   "ap",
+   "au",
+   "ay",
+   "bat",
+   "bi",
+   "binh",
+   "ca",
+   "cach",
+   "can",
+   "dien",
+   "en",
+   "gap",
+   "goc",
+   "hai",
+   "hep",
+   "kem",
+   "khong",
+   "lau",
+   "len",
+   "lien",
+   "luc",
+   "luu",
+   "ly",
+   "mach",
+   "mau",
+   "nam",
+   "ngay",
+   "ot",
+   "phai",
+   "quan",
+   "quy",
+   "re",
+   "sach",
+   "san",
+   "tan",
+   "tang",
+   "thanh",
+   "thien",
+   "thong"
+  ]
+ },
+ {
+  "file": "machmau-hep-that-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-hep-that-01.mp4",
+  "dai": 15.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "lòng mạch thắt hẹp lại, hồng cầu dồn — mạch máu thắt hẹp",
+  "da_dung": 4,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 22,
+    "chu": "MỘT BÊN LÀ DÂY BỊ MÒN VỎ MỘT BÊN LÀ ỐNG BỊ HẸP",
+    "variant": "warning",
+    "src_start": 7
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 33,
+    "chu": "LÚC ĐI, CƠ CẦN NHIỀU MÁU ỐNG HẸP THÌ CẤP KHÔNG KỊP",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 22,
+    "chu": "MỘT BÊN LÀ DÂY BỊ MÒN VỎ MỘT BÊN LÀ ỐNG BỊ HẸP",
+    "variant": "warning",
+    "src_start": 7
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 33,
+    "chu": "LÚC ĐI, CƠ CẦN NHIỀU MÁU ỐNG HẸP THÌ CẤP KHÔNG KỊP",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ben",
+   "bi",
+   "can",
+   "cap",
+   "day",
+   "hep",
+   "khong",
+   "kip",
+   "luc",
+   "mau",
+   "mon",
+   "nhieu",
+   "ong",
+   "vo"
+  ]
+ },
+ {
+  "file": "machmau-hetoanthan-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-hetoanthan-01.mp4",
+  "dai": 5.03,
+  "w": 3840,
+  "h": 2160,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "sơ đồ hệ mạch toàn thân với tim ở giữa, nền trắng — hệ tuần hoàn",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1773",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 10,
+    "chu": "RÁC RƯỞI TRONG MẠCH MÁU",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 31,
+    "chu": "MÁU TỰ LƯU THÔNG TRƠN TRU, DỄ DÀNG",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 30,
+    "chu": "GIÚP THÔNG THOÁNG MẠCH MÁU",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 46,
+    "chu": "ĐỂ LÀM SẠCH HOÀN TOÀN MẠCH MÁU",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 19,
+    "chu": "ĐỂ GIẢI QUYẾT GỐC RỄ VẤN ĐỀ",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 19,
+    "chu": "CŨNG NHƯ TUẦN HOÀN MÁU ĐƯỢC TỐT HƠN, ĐÚNG KHÔNG?",
+    "variant": "positive",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "de",
+   "giai",
+   "giup",
+   "goc",
+   "hoan",
+   "khong",
+   "luu",
+   "mach",
+   "mau",
+   "nhu",
+   "quyet",
+   "rac",
+   "re",
+   "ruoi",
+   "sach",
+   "thoang",
+   "thong",
+   "toan",
+   "tot",
+   "tron",
+   "tru",
+   "tu",
+   "tuan",
+   "ung",
+   "uoc",
+   "van"
+  ]
+ },
+ {
+  "file": "machmau-kinhlup-soi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-kinhlup-soi-01.mp4",
+  "dai": 13.97,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "kính lúp soi vào thành mạch, vi khuẩn/mảng bám — soi kỹ lòng mạch",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "machmau-longmach-nhindoc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-longmach-nhindoc-01.mp4",
+  "dai": 15.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nhìn dọc trong lòng mạch đỏ trơn, thông thoáng — LÒNG MẠCH THÔNG",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 4,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 33,
+    "chu": "FIBRIN ĐƯỢC TIÊU ĐI LÒNG MẠCH THOÁNG DẦN",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 34,
+    "chu": "MÁU TỰ LƯU THÔNG KHÔNG CẦN BƠM ÁP LỰC",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 45,
+    "chu": "GỠ ĐƯỢC CÁI LƯỚI ĐÓ RA LÒNG MẠCH THÔNG THOÁNG",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 46,
+    "chu": "MÁU ĐI TỚI NƠI CẦN TỚI",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 45,
+    "chu": "GỠ ĐƯỢC CÁI LƯỚI ĐÓ RA LÒNG MẠCH THÔNG THOÁNG",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 46,
+    "chu": "MÁU ĐI TỚI NƠI CẦN TỚI",
+    "variant": "positive",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ap",
+   "bom",
+   "can",
+   "dan",
+   "fibrin",
+   "go",
+   "khong",
+   "long",
+   "luc",
+   "luoi",
+   "luu",
+   "mach",
+   "mau",
+   "noi",
+   "thoang",
+   "thong",
+   "tieu",
+   "toi",
+   "tu",
+   "uoc"
+  ]
+ },
+ {
+  "file": "machmau-tinhmach-duoida-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/machmau-tinhmach-duoida-01.mp4",
+  "dai": 14.93,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "tĩnh mạch xanh nổi dưới da, cục máu đen bên trong — huyết khối tĩnh mạch",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "matngu-ngoiday-doc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/matngu-ngoiday-doc-01.mp4",
+  "dai": 11.63,
+  "w": 1080,
+  "h": 1920,
+  "fps": 30.0,
+  "doc": true,
+  "so_frame_soi": 7,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    11.6
+   ]
+  ],
+  "dai_doan_dai_nhat": 11.6,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "DỌC. nữ ngồi dậy giữa đêm bên cửa sổ — mất ngủ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "matngu-nu-ngoiday-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/matngu-nu-ngoiday-01.mp4",
+  "dai": 17.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    17.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 17.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ ngồi trên giường đêm, đèn ngủ, thẫn thờ — mất ngủ",
+  "da_dung": 12,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 4,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 1,
+    "chu": "MẤT NGỦ, ĐAU ĐẦU ĐAU MỎI VAI GÁY",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 32,
+    "chu": "CÔ CHÚ MẤT NGỦ LÂU NĂM",
+    "variant": "warning",
+    "src_start": 8.0
+   },
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 40,
+    "chu": "AI ĐANG GẶP MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 12.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 1,
+    "chu": "CÔ BỊ MẤT NGỦ ĐAU ĐẦU",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 27,
+    "chu": "CÔ CHÚ MẤT NGỦ LÂU NĂM VÔ CÙNG MỆT MỎI",
+    "variant": "warning",
+    "src_start": 8.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 39,
+    "chu": "ĐAU ĐẦU, MẤT NGỦ GIẢM 20–30%",
+    "variant": "positive",
+    "src_start": 12.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 44,
+    "chu": "AI ĐANG GẶP MẤT NGỦ, ĐAU ĐẦU",
+    "variant": "warning",
+    "src_start": 4.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 1,
+    "chu": "CÔ CHÚ ĐANG BỊ ĐAU ĐẦU MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 39,
+    "chu": "CÔ CHÚ NÀO ĐANG BỊ ĐAU ĐẦU, MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 8.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 1,
+    "chu": "VÌ SAO ĐAU ĐẦU MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 14,
+    "chu": "MỚI GÂY ĐAU ĐẦU MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 8.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 4,
+    "chu": "CÁC BIỂU HIỆN BÁO TRƯỚC",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "20",
+   "30",
+   "ai",
+   "ang",
+   "au",
+   "bao",
+   "bi",
+   "bieu",
+   "chu",
+   "gap",
+   "gay",
+   "giam",
+   "hien",
+   "lau",
+   "mat",
+   "met",
+   "moi",
+   "nam",
+   "nao",
+   "ngu",
+   "sao",
+   "truoc",
+   "vai",
+   "vo"
+  ]
+ },
+ {
+  "file": "matngu-nu-tranroc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/matngu-nu-tranroc-01.mp4",
+  "dai": 26.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 17,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    26.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 26.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ nằm mở mắt trần trọc trên giường — mất ngủ, trằn trọc",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "matngu-nu-tro-minh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/matngu-nu-tro-minh-01.mp4",
+  "dai": 24.7,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 16,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    24.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 24.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ trở mình trên giường, đồng hồ báo thức — trằn trọc, tỉnh giấc",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "matngu-ongcu-dem-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/matngu-ongcu-dem-01.mp4",
+  "dai": 20.2,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ông cụ ngồi trầm ngâm trong đêm, đèn vàng — mất ngủ người già",
+  "da_dung": 2,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 20,
+    "chu": "NGAY CẢ NGƯỜI BỊ MẤT NGỦ",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 21,
+    "chu": "TÌM ĐẾN THỊNH MÀ KHÔNG THIỀN ĐỊNH ĐƯỢC",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bi",
+   "ca",
+   "en",
+   "inh",
+   "khong",
+   "mat",
+   "ngay",
+   "ngu",
+   "nguoi",
+   "thien",
+   "thinh",
+   "tim",
+   "uoc"
+  ]
+ },
+ {
+  "file": "mau-bachcau-trang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/mau-bachcau-trang-01.mp4",
+  "dai": 10.03,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "bạch cầu trắng và hồng cầu trong mạch hồng — bạch cầu, miễn dịch",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "mau-chay-4k-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/mau-chay-4k-01.mp4",
+  "dai": 20.0,
+  "w": 3840,
+  "h": 2160,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "lòng mạch tối, dòng máu chảy xiết — máu chảy trong mạch",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 7,
+    "chu": "CHƯA ĐỦ VIỆC ANH CHỊ ĐANG CẦN HOẠT HUYẾT THÚC MÁU MẠNH",
+    "variant": "yellow",
+    "src_start": 5
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ang",
+   "anh",
+   "can",
+   "chua",
+   "hoat",
+   "huyet",
+   "manh",
+   "mau",
+   "thuc",
+   "viec"
+  ]
+ },
+ {
+  "file": "mau-chay-longmach-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/mau-chay-longmach-01.mp4",
+  "dai": 10.2,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "lòng mạch cam sáng, hạt mỡ vàng trôi — mỡ trong máu chảy",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "mau-hongcau-bachcau-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/mau-hongcau-bachcau-01.mp4",
+  "dai": 10.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hồng cầu và bạch cầu trắng trôi trong mạch đỏ — tế bào máu",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 3,
+  "co_ban_doi_chieu": 4,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 18,
+    "chu": "TRONG MÁU CÓ MỘT CHẤT TÊN LÀ FIBRIN",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 39,
+    "chu": "MÁU BỚT ĐẶC, BỚT NHỚT CHẢY DỄ DÀNG HƠN",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 16,
+    "chu": "CÒN MỘT KIỂU TÊ NỮA KHI MÁU KHÔNG ĐỦ OXY",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 17,
+    "chu": "OXY KHÔNG TỚI ĐƯỢC NƠI CẦN",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 16,
+    "chu": "CÒN MỘT KIỂU TÊ NỮA KHI MÁU KHÔNG ĐỦ OXY",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 17,
+    "chu": "OXY KHÔNG TỚI ĐƯỢC NƠI CẦN",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ac",
+   "bot",
+   "can",
+   "chat",
+   "chay",
+   "con",
+   "de",
+   "fibrin",
+   "khong",
+   "kieu",
+   "mau",
+   "nhot",
+   "noi",
+   "oxy",
+   "te",
+   "ten",
+   "toi",
+   "uoc"
+  ]
+ },
+ {
+  "file": "mau-hongcau-machxanh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/mau-hongcau-machxanh-01.mp4",
+  "dai": 5.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hồng cầu chảy trong mạch nền xanh dương — dòng máu, lưu thông",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "mau-hongcau-nentoi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/mau-hongcau-nentoi-01.mp4",
+  "dai": 7.2,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 4,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    7.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 7.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hồng cầu đỏ sẫm nền tối, dày đặc — máu đặc",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "mau-hongcau-troi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/mau-hongcau-troi-01.mp4",
+  "dai": 19.97,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hồng cầu trôi chậm quanh khối sáng — máu lưu thông chậm",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "men gạo đỏ.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Natto Xám/men gạo đỏ.mp4",
+  "dai": 28.87,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 19,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    28.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 28.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "gạo lứt đỏ đổ đống, nền trắng — MEN GẠO ĐỎ, nguyên liệu",
+  "da_dung": 7,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 25,
+    "chu": "CÒN CÓ MEN GẠO ĐỎ",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 23,
+    "chu": "CÒN CÓ MEN GẠO ĐỎ",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 36,
+    "chu": "MEN GẠO ĐỎ VÀ CỎ TRƯỜNG THỌ",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 28,
+    "chu": "KẾT HỢP MEN GẠO ĐỎ VÀ CỎ TRƯỜNG THỌ",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 28,
+    "chu": "KẾT HỢP MEN GẠO ĐỎ VÀ CỎ TRƯỜNG THỌ",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 37,
+    "chu": "TRONG HỘP NATTO CÒN 2 THỨ NỮA MÀ MỌI NGƯỜI ÍT KHI ĐỂ Ý",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 38,
+    "chu": "MEN GẠO ĐỎ VÀ CỎ TRƯỜNG THỌ GIÚP GIẢM MỠ MÁU",
+    "variant": "product",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "con",
+   "gao",
+   "giam",
+   "giup",
+   "hop",
+   "it",
+   "ket",
+   "mau",
+   "men",
+   "mo",
+   "moi",
+   "natto",
+   "nguoi",
+   "tho",
+   "thu",
+   "truong"
+  ]
+ },
+ {
+  "file": "metmoi-bopmui-4k-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-bopmui-4k-01.mp4",
+  "dai": 24.68,
+  "w": 3840,
+  "h": 2160,
+  "fps": 25.0,
+  "doc": false,
+  "so_frame_soi": 16,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    24.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 24.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam trẻ da màu cúi mặt mệt mỏi — mệt mỏi, kiệt sức",
+  "da_dung": 2,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 60,
+    "chu": "LÚC NÀO CŨNG MỆT MỎI DÙ NGỦ ĐỦ 8 TIẾNG",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 60,
+    "chu": "LÚC NÀO CŨNG MỆT MỎI DÙ NGỦ ĐỦ 8 TIẾNG",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "du",
+   "luc",
+   "met",
+   "moi",
+   "nao",
+   "ngu",
+   "tieng"
+  ]
+ },
+ {
+  "file": "metmoi-bopmui-dem-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-bopmui-dem-01.mp4",
+  "dai": 11.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 7,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    11.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 11.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam bịt mặt trong phòng tối — kiệt sức, suy sụp",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 8,
+    "chu": "NẾU CÔ CHÚ ANH CHỊ VẪN CÒN THỨC KHUYA",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "anh",
+   "chu",
+   "con",
+   "khuya",
+   "neu",
+   "thuc",
+   "van"
+  ]
+ },
+ {
+  "file": "metmoi-bopmui-laptop-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-bopmui-laptop-01.mp4",
+  "dai": 5.12,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam trung niên châu Á bóp sống mũi trước laptop — mỏi mắt, mệt",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-chemat-nam-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-chemat-nam-01.mp4",
+  "dai": 13.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam hai tay che kín mặt — bế tắc, kiệt sức",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-chemat-ongcu-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-chemat-ongcu-01.mp4",
+  "dai": 15.07,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ông cụ hai tay dụi mắt — mệt mỏi người già",
+  "da_dung": 3,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 9,
+    "chu": "VẪN CÒN KHÔNG CHĂM SÓC SỨC KHỎE",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 10,
+    "chu": "VẪN CÒN KHÔNG THỂ DỤC THỂ THAO",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 47,
+    "chu": "TẠI VÌ CÀNG LỚN TUỔI",
+    "variant": "warning",
+    "src_start": 6.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "cang",
+   "cham",
+   "con",
+   "duc",
+   "khoe",
+   "khong",
+   "lon",
+   "soc",
+   "suc",
+   "tai",
+   "thao",
+   "the",
+   "tuoi",
+   "van"
+  ]
+ },
+ {
+  "file": "metmoi-chemat-vanphong-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-chemat-vanphong-01.mp4",
+  "dai": 18.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam văn phòng che mặt trước laptop — quá tải công việc",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-duimat-sofa-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-duimat-sofa-01.mp4",
+  "dai": 16.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam xoa hai thái dương trên ghế đỏ — đau đầu, stress",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-duimat-vanphong-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-duimat-vanphong-01.mp4",
+  "dai": 11.93,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 7,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    11.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 11.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam vest bỏ kính dụi mắt bàn làm việc — mỏi mắt",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-guc-ban-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-guc-ban-01.mp4",
+  "dai": 14.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam gục đầu xuống bàn trước laptop — kiệt sức",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-guc-banphim-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-guc-banphim-01.mp4",
+  "dai": 8.2,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam gục mặt xuống bàn phím — quá tải",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-guc-toi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-guc-toi-01.mp4",
+  "dai": 44.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 29,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    44.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 44.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   31.0
+  ],
+  "mo_ta": "nam ngồi trong phòng tối ánh xanh, mệt — suy sụp (TÔNG TỐI, lệch style DiLiM)",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-ngap-maytinh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-ngap-maytinh-01.mp4",
+  "dai": 31.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 20,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    31.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 31.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ ngáp uể oải trước màn hình máy tính — buồn ngủ ban ngày",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-ngugat-cuaso-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-ngugat-cuaso-01.mp4",
+  "dai": 12.52,
+  "w": 1920,
+  "h": 1080,
+  "fps": 60.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.5
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.5,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ ngủ gật bên cửa sổ tàu/xe — ngủ gật, thiếu ngủ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "metmoi-ongcu-xelan-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/metmoi-ongcu-xelan-01.mp4",
+  "dai": 8.8,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "ông cụ ngồi xe lăn cạnh cửa sổ, buồn — suy nhược, sức khoẻ giảm",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 44,
+    "chu": "CƠ THỂ SẼ NGÀY CÀNG TEO TÓP LẠI",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "cang",
+   "ngay",
+   "teo",
+   "the",
+   "top"
+  ]
+ },
+ {
+  "file": "momau-4k-longmach-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/momau-4k-longmach-01.mp4",
+  "dai": 8.3,
+  "w": 3840,
+  "h": 2160,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.3
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.3,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "4K. lòng mạch cam, hạt mỡ và cặn trôi — mỡ máu, cặn trong máu",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "momau-can-dongmau-dai-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/momau-can-dongmau-dai-01.mp4",
+  "dai": 57.7,
+  "w": 1920,
+  "h": 1080,
+  "fps": 25.0,
+  "doc": false,
+  "so_frame_soi": 38,
+  "vung_chu": [
+   [
+    0.0,
+    6.1
+   ],
+   [
+    13.7,
+    39.5
+   ]
+  ],
+  "vung_den": [],
+  "vung_cam": [
+   [
+    0.0,
+    6.1
+   ],
+   [
+    13.7,
+    39.5
+   ]
+  ],
+  "doan_dung_duoc": [
+   [
+    6.1,
+    13.7
+   ],
+   [
+    39.5,
+    57.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.2,
+  "chu_doc_duoc": {
+   "Platelet": 1.5,
+   "After platelet activation, ADP is not only released from its | intrace": 15.2,
+   "but also further activates platelets, amplifying this | process": 19.7,
+   "Atherosclerotic plaque disruption and thrombus formation": 24.3,
+   "Distal embolization of thrombus in acute myocardial | infarction": 31.9
+  },
+  "doi_canh": [],
+  "mo_ta": "lòng mạch đỏ nhạt trơn, dòng chảy — máu chảy chậm",
+  "da_dung": 3,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 8,
+    "chu": "MẠCH MÁU CÓ QUÁ NHIỀU RÁC RƯỞI",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 19,
+    "chu": "KHÔNG ĐƯA MÁU ĐI ĐƯỢC",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 16,
+    "chu": "KHÔNG CẢI THIỆN ĐƯỢC GỐC RỄ VẤN ĐỀ",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "goc",
+   "khong",
+   "mach",
+   "mau",
+   "nhieu",
+   "rac",
+   "re",
+   "ruoi",
+   "thien",
+   "ua",
+   "uoc",
+   "van"
+  ]
+ },
+ {
+  "file": "momau-catdoc-vang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/momau-catdoc-vang-01.mp4",
+  "dai": 8.37,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch cắt dọc, mỡ vàng bám dày hai thành, hồng cầu chen — XƠ VỮA do mỡ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "momau-day-hongcau-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/momau-day-hongcau-01.mp4",
+  "dai": 12.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch cắt ngang, mỡ vàng dày, hồng cầu chật kín — máu đặc nhiều mỡ",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 22,
+    "chu": "MÁU NHIỀU MỠ, CHẢY CHẬM THÀNH MẠCH CÓ MẢNG XƠ VỮA",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "cham",
+   "chay",
+   "mach",
+   "mang",
+   "mau",
+   "mo",
+   "nhieu",
+   "thanh",
+   "vua",
+   "xo"
+  ]
+ },
+ {
+  "file": "momau-hatvang-mach-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/momau-hatvang-mach-01.mp4",
+  "dai": 5.03,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch đỏ với các hạt mỡ vàng bám thành — mỡ bám thành mạch",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "momau-hatvang-xoay-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/momau-hatvang-xoay-01.mp4",
+  "dai": 8.93,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hạt mỡ vàng tròn trôi trong lòng mạch hồng — MỠ MÁU",
+  "da_dung": 11,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 14,
+    "chu": "MẠCH MÁU LÂU NGÀY CÓ MẢNG MỠ XẤU",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 29,
+    "chu": "SẠCH MẢNG MỠ XẤU TRONG THÀNH MẠCH",
+    "variant": "positive",
+    "src_start": 3.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 37,
+    "chu": "LÀM SẠCH MỠ XẤU TRONG THÀNH MẠCH",
+    "variant": "positive",
+    "src_start": 3.69
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 8,
+    "chu": "CÓ NHỮNG MẢNG MỠ XẤU",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 29,
+    "chu": "GIẢM MỠ XẤU TRONG THÀNH MẠCH",
+    "variant": "positive",
+    "src_start": 3.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 10,
+    "chu": "MẠCH MÁU LÂU NGÀY CÓ MẢNG MỠ XẤU",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 20,
+    "chu": "LÀM SẠCH MẢNG MỠ XẤU TRONG THÀNH MẠCH",
+    "variant": "positive",
+    "src_start": 3.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 29,
+    "chu": "GIẢM MỠ XẤU VÀ XƠ VỮA THÀNH MẠCH",
+    "variant": "positive",
+    "src_start": 3.41
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 40,
+    "chu": "ĐÂY LÀ XỬ LÝ NGUYÊN NHÂN LÀM FIBRIN DỄ ĐAN LẠI",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 82,
+    "chu": "NHƯ TIỂU ĐƯỜNG, MỠ MÁU",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 82,
+    "chu": "NHƯ TIỂU ĐƯỜNG, MỠ MÁU",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "an",
+   "ay",
+   "de",
+   "fibrin",
+   "giam",
+   "lau",
+   "ly",
+   "mach",
+   "mang",
+   "mau",
+   "mo",
+   "ngay",
+   "nguyen",
+   "nhan",
+   "nhu",
+   "sach",
+   "thanh",
+   "tieu",
+   "uong",
+   "vua",
+   "xau",
+   "xo",
+   "xu"
+  ]
+ },
+ {
+  "file": "momau-tinhthe-vang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/momau-tinhthe-vang-01.mp4",
+  "dai": 8.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "tinh thể mỡ vàng lẫn hồng cầu, nền tối — cholesterol trong máu",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-cam-ruc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-cam-ruc-01.mp4",
+  "dai": 10.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não cam rực phát sáng, mạng lưới thần kinh — não hoạt động",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-giaiphau-nau-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-giaiphau-nau-01.mp4",
+  "dai": 8.27,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.3
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.3,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não nâu giải phẫu trên que, nền trắng — não giải phẫu",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-hong-xoay-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-hong-xoay-01.mp4",
+  "dai": 16.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não hồng xoay, nền tím — não, thần kinh",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-quet-eeg-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-quet-eeg-01.mp4",
+  "dai": 11.2,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 7,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    11.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 11.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "quét điện não EEG, vùng đỏ, nhãn P3/T5/Cz — đo điện não",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-tiaset-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-tiaset-01.mp4",
+  "dai": 8.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não tím phát sáng, tia sáng vàng nổ ở giữa — xung thần kinh, đột quỵ não",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-tim-nenden-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-tim-nenden-01.mp4",
+  "dai": 15.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não xanh tím nền ĐEN, mạch máu não nổi — não và mạch máu não",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-tim-nentrang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-tim-nentrang-01.mp4",
+  "dai": 15.02,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não xanh tím nền TRẮNG — não, sạch nền dễ ghép",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-tinhieu-dai-trang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-tinhieu-dai-trang-01.mp4",
+  "dai": 12.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não xanh, dải sáng trắng quét ngang — tín hiệu truyền qua não",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "nao-xanh-manh-vo-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-xanh-manh-vo-01.mp4",
+  "dai": 15.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não xanh nhỏ giữa các mảnh trắng bay — não tổn thương, mảnh vỡ",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [
+   "04-2026-08-04-img1770"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 12,
+    "chu": "NHƯNG CẦN TỚI 20% OXY",
+    "variant": "yellow",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "20",
+   "can",
+   "oxy",
+   "toi"
+  ]
+ },
+ {
+  "file": "nao-xanh-phatsang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/nao-xanh-phatsang-01.mp4",
+  "dai": 25.02,
+  "w": 1920,
+  "h": 1080,
+  "fps": 23.98,
+  "doc": false,
+  "so_frame_soi": 16,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    25.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 25.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "não xanh dương phát sáng nền đen — não, tế bào não",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 10,
+    "chu": "NUÔI DƯỠNG TẾ BÀO NÃO",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 11,
+    "chu": "NÃO CHỈ CHIẾM 2% CƠ THỂ",
+    "variant": "yellow",
+    "src_start": 8.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 12,
+    "chu": "THIẾU OXY THIẾU DƯỠNG CHẤT",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 13,
+    "chu": "CUNG CẤP CHO NÃO",
+    "variant": "warning",
+    "src_start": 6.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 13,
+    "chu": "MÁU KHÔNG LÊN ĐƯỢC NÃO",
+    "variant": "warning",
+    "src_start": 2.0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 1,
+    "chu": "UỐNG HOẠT HUYẾT DƯỠNG NÃO MÃI MÀ KHÔNG ĐỠ",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bao",
+   "cap",
+   "chat",
+   "chiem",
+   "duong",
+   "hoat",
+   "huyet",
+   "khong",
+   "len",
+   "mai",
+   "mau",
+   "nao",
+   "nuoi",
+   "oxy",
+   "te",
+   "the",
+   "thieu",
+   "uoc",
+   "uong"
+  ]
+ },
+ {
+  "file": "natto-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/natto-01.mp4",
+  "dai": 4.93,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    4.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 4.9,
+  "chu_doc_duoc": {
+   "60,000 гus)": 1.6,
+   "120 KXU | MADEIN JAPAN": 3.3
+  },
+  "doi_canh": [],
+  "mo_ta": "hộp NANO ナットウキナーゼ PREMIUM đứng giữa lá xanh — SẢN PHẨM Nattokinase",
+  "da_dung": 15,
+  "con_lai_sau_khi_anh_sua": 5,
+  "co_ban_doi_chieu": 7,
+  "job": [
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 28,
+    "chu": "CÒN CÓ ĐẦY ĐỦ VITAMIN NHÓM B",
+    "variant": "product",
+    "src_start": 0.5
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 32,
+    "chu": "HIẾU KHUYÊN CÔ CHÚ DÙNG NANO NATTOKINASE",
+    "variant": "product",
+    "src_start": 0.5
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 44,
+    "chu": "MỖI NGÀY 38.000Đ CHƯA BẰNG MỘT BÁT PHỞ",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 23,
+    "chu": "NỘI ĐỊA NHẬT",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 24,
+    "chu": "HIẾU KHUYÊN CÔ CHÚ DÙNG NANO NATTOKINASE",
+    "variant": "product",
+    "src_start": 0.5
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 32,
+    "chu": "MỘT HỘP 120 VIÊN DÙNG ĐƯỢC 2 THÁNG",
+    "variant": "product",
+    "src_start": 0.75
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 39,
+    "chu": "TẶNG THÊM 1 HỘP 2.290.000Đ",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 30,
+    "chu": "THEO CÁCH CỦA NGƯỜI NHẬT",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 43,
+    "chu": "TRƯỚC KHI THẤY HẾT CHÓNG MẶT CÁCH DÙNG: 2 VIÊN 1 NGÀY",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 55,
+    "chu": "ĐỦ LIỆU TRÌNH 12 THÁNG LÀ 6 HỘP",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 58,
+    "chu": "CHO TRỌN 1 NĂM MỖI NGÀY KHOẢNG 32 NGHÌN ĐỒNG",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 41,
+    "chu": "ĐI ĐÚNG HAI CHỖ THỨ NHẤT LÀ NATTOKINASE",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 85,
+    "chu": "MỖI HỘP 120 VIÊN DÙNG ĐƯỢC 2 THÁNG",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 41,
+    "chu": "ĐI ĐÚNG HAI CHỖ THỨ NHẤT LÀ NATTOKINASE",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 85,
+    "chu": "MỖI HỘP 120 VIÊN DÙNG ĐƯỢC 2 THÁNG",
+    "variant": "product",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "000",
+   "12",
+   "120",
+   "290",
+   "32",
+   "38",
+   "ay",
+   "bang",
+   "bat",
+   "cach",
+   "chong",
+   "chu",
+   "chua",
+   "con",
+   "dung",
+   "hai",
+   "het",
+   "hieu",
+   "hop",
+   "ia",
+   "khoang",
+   "khuyen",
+   "lieu",
+   "mat",
+   "moi",
+   "nam",
+   "nano",
+   "nattokinase",
+   "ngay",
+   "nghin",
+   "nguoi",
+   "nhat",
+   "nhom",
+   "noi",
+   "ong",
+   "pho",
+   "tang",
+   "thang",
+   "thay",
+   "theo"
+  ]
+ },
+ {
+  "file": "natto-02.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/natto-02.mp4",
+  "dai": 4.02,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 2,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    4.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 4.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hộp NANO Nattokinase góc nghiêng, lá xanh — SẢN PHẨM Nattokinase",
+  "da_dung": 5,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 33,
+    "chu": "60.000 FU CỦA NỘI ĐỊA NHẬT",
+    "variant": "product",
+    "src_start": 0.22
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 25,
+    "chu": "MÓN ĂN TRUYỀN THỐNG CỦA NGƯỜI NHẬT",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 25,
+    "chu": "60.000 FU CỦA NHẬT",
+    "variant": "product",
+    "src_start": 0.4
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 38,
+    "chu": "13.740.000Đ MỘT NĂM",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 32,
+    "chu": "HÀM LƯỢNG Ở ĐÂY LÀ TẬN 60.000 FU / GRAM",
+    "variant": "product",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "000",
+   "13",
+   "60",
+   "740",
+   "an",
+   "ay",
+   "fu",
+   "gram",
+   "ham",
+   "ia",
+   "luong",
+   "mon",
+   "nam",
+   "nguoi",
+   "nhat",
+   "noi",
+   "tan",
+   "thong",
+   "truyen"
+  ]
+ },
+ {
+  "file": "ngungon-chiso-suckhoe-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-chiso-suckhoe-01.mp4",
+  "dai": 12.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam trung niên ngủ, đồ hoạ chỉ số sức khoẻ 88 và nhịp tim — ngủ ngon, theo dõi sức khoẻ",
+  "da_dung": 5,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1773"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 37,
+    "chu": "GIẤC NGỦ SÂU HƠN DỄ DÀNG HƠN",
+    "variant": "positive",
+    "src_start": 2.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 31,
+    "chu": "NGỦ SÂU LÀ ĐIỀU HIỂN NHIÊN, DỄ DÀNG",
+    "variant": "positive",
+    "src_start": 2.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 40,
+    "chu": "TRONG 5 ĐẾN 15 NGÀY ĐẦU",
+    "variant": "positive",
+    "src_start": 8.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 45,
+    "chu": "SAU 15–20 NGÀY NGỦ NGON, ĐẦU NHẸ HƠN",
+    "variant": "positive",
+    "src_start": 2.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 34,
+    "chu": "SAU 15–20 NGÀY ĐẦU NHẸ, NGỦ NGON",
+    "variant": "positive",
+    "src_start": 2.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "15",
+   "20",
+   "au",
+   "de",
+   "en",
+   "giac",
+   "hien",
+   "ieu",
+   "ngay",
+   "ngon",
+   "ngu",
+   "nhe",
+   "nhien",
+   "sau"
+  ]
+ },
+ {
+  "file": "ngungon-dongho-doc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-dongho-doc-01.mp4",
+  "dai": 14.0,
+  "w": 1080,
+  "h": 1920,
+  "fps": 30.0,
+  "doc": true,
+  "so_frame_soi": 9,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    14.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 14.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "DỌC. nữ ngủ, đồng hồ báo thức trên bàn — giấc ngủ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "ngungon-nam-canmat-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-nam-canmat-01.mp4",
+  "dai": 15.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam trung niên nhắm mắt ngủ say gối trắng — NGỦ NGON",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 42,
+    "chu": "BẢO VỆ SỢI TRỤC THẦN KINH NHIỀU ANH CHỊ NGỦ SÂU HƠN",
+    "variant": "positive",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "anh",
+   "bao",
+   "kinh",
+   "ngu",
+   "nhieu",
+   "sau",
+   "soi",
+   "than",
+   "truc"
+  ]
+ },
+ {
+  "file": "ngungon-nam-nhintren-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-nam-nhintren-01.mp4",
+  "dai": 13.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam ngủ nhìn từ trên xuống, phòng sáng — ngủ ngon",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 46,
+    "chu": "TỪ NỬA ĐÊM TỚI SÁNG SỚM",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "em",
+   "sang",
+   "som",
+   "toi",
+   "tu"
+  ]
+ },
+ {
+  "file": "ngungon-nu-anham-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-nu-anham-01.mp4",
+  "dai": 18.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 12,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    18.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 18.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ ngủ nghiêng, ánh đèn ấm — ngủ ngon",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "ngungon-nu-dendem-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-nu-dendem-01.mp4",
+  "dai": 16.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam ngủ nghiêng, đèn ngủ ấm bên cạnh — ngủ ngon ban đêm",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 44,
+    "chu": "UỐNG SAU BỮA TỐI HOẶC TRƯỚC KHI ĐI NGỦ",
+    "variant": "product",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bua",
+   "ngu",
+   "sau",
+   "toi",
+   "truoc",
+   "uong"
+  ]
+ },
+ {
+  "file": "ngungon-nu-nhintren-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-nu-nhintren-01.mp4",
+  "dai": 23.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 15,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    23.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 23.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ ngủ nhìn từ trên, đèn tròn — giấc ngủ sâu",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "ngungon-vuonvai-cuaso-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-vuonvai-cuaso-01.mp4",
+  "dai": 8.9,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ vươn vai bên cửa sổ nắng sớm — tỉnh dậy khoẻ khoắn",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "ngungon-vuonvai-giuong-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/06 Ngủ- Ngon- mất ngủ/ngungon-vuonvai-giuong-01.mp4",
+  "dai": 9.88,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    9.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 9.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ vươn vai trên giường buổi sáng — tỉnh dậy sảng khoái",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "phantu-cautruc-xanh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/phantu-cautruc-xanh-01.mp4",
+  "dai": 5.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "cấu trúc phân tử xanh lơ, nền tối — phân tử, hoạt chất",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "phantu-mohinh-denrang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/phantu-mohinh-denrang-01.mp4",
+  "dai": 5.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mô hình phân tử đen trắng quay — cấu trúc hoá học",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "rich-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/rich-01.mp4",
+  "dai": 3.62,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 2,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    3.6
+   ]
+  ],
+  "dai_doan_dai_nhat": 3.6,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hộp RICH hồng (CoQ10) giữa lá xanh — SẢN PHẨM Rich CoQ10",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "rich-02.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/rich-02.mp4",
+  "dai": 2.04,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 1,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    2.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 2.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hộp RICH hồng cận cảnh, lá xanh — SẢN PHẨM Rich CoQ10",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "rich-03.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/rich-03.mp4",
+  "dai": 3.09,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 2,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    3.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 3.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hộp RICH hồng nghiêng, lá — SẢN PHẨM Rich CoQ10",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "richnatto-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-01.mp4",
+  "dai": 8.08,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.1,
+  "chu_doc_duoc": {
+   "RICH": 1.6
+  },
+  "doi_canh": [],
+  "mo_ta": "hộp RICH hồng và hộp NATTO xám đứng cạnh nhau trong cỏ — BỘ ĐÔI hai sản phẩm",
+  "da_dung": 30,
+  "con_lai_sau_khi_anh_sua": 11,
+  "co_ban_doi_chieu": 16,
+  "job": [
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 38,
+    "chu": "KHI DÙNG SẢN PHẨM",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 41,
+    "chu": "ĐỂ LẠI TÊN + SỐ ĐIỆN THOẠI DƯỚI VIDEO",
+    "variant": "cta",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 48,
+    "chu": "DUY TRÌ LIỆU TRÌNH 1 NĂM",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 50,
+    "chu": "DÙNG LUÔN MỘT NĂM ĐƯỢC 14 THÁNG",
+    "variant": "product",
+    "src_start": 1.3
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 26,
+    "chu": "HÀNG NGHÌN NĂM TRƯỚC",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 27,
+    "chu": "DÙNG NANO NATTOKINASE",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 31,
+    "chu": "DÙNG NGAY NANO NATTOKINASE 60.000 FU",
+    "variant": "product",
+    "src_start": 1.0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 37,
+    "chu": "DUY TRÌ ĐỦ 12 THÁNG GỒM 6 HỘP",
+    "variant": "product",
+    "src_start": 1.26
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 41,
+    "chu": "HÀNG CHÍNH HÃNG NỘI ĐỊA NHẬT",
+    "variant": "cta",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 40,
+    "chu": "TÊ LIÊN QUAN MẠCH MÁU BÊN THÀNH CÓ MỘT BỘ ĐÔI",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 62,
+    "chu": "Q10 BÊN THÀNH LÀ DẠNG KHỬ",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 70,
+    "chu": "HIỂU ĐƠN GIẢN",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 84,
+    "chu": "LIỆU TRÌNH: MỖI THỨ 2 VIÊN 1 NGÀY",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 86,
+    "chu": "ĐỦ 12 THÁNG LÀ 6 HỘP MỖI LOẠI",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 88,
+    "chu": "GIÁ TRỌN BỘ",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 40,
+    "chu": "TÊ LIÊN QUAN MẠCH MÁU BÊN THÀNH CÓ MỘT BỘ ĐÔI",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 62,
+    "chu": "Q10 BÊN THÀNH LÀ DẠNG KHỬ",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 70,
+    "chu": "HIỂU ĐƠN GIẢN",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 84,
+    "chu": "LIỆU TRÌNH: MỖI THỨ 2 VIÊN 1 NGÀY",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 86,
+    "chu": "ĐỦ 12 THÁNG LÀ 6 HỘP MỖI LOẠI",
+    "variant": "product",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "000",
+   "12",
+   "14",
+   "60",
+   "anh",
+   "ba",
+   "ben",
+   "bo",
+   "cam",
+   "can",
+   "chinh",
+   "chu",
+   "dong",
+   "dung",
+   "duoi",
+   "duy",
+   "en",
+   "fu",
+   "gia",
+   "gian",
+   "giup",
+   "gom",
+   "hang",
+   "he",
+   "hieu",
+   "ho",
+   "hop",
+   "ia",
+   "ien",
+   "ieu",
+   "khu",
+   "lien",
+   "lieu",
+   "loai",
+   "luon",
+   "mach",
+   "mau",
+   "moi",
+   "muon",
+   "nam"
+  ]
+ },
+ {
+  "file": "richnatto-anh-nenxanh-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-nenxanh-01.jpg",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "richnatto-anh-treco-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-01.jpg",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 3,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 87,
+    "chu": "MUA CẢ 6 HỘP TẶNG MỖI LOẠI 1 HỘP",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 89,
+    "chu": "GIÁ LÀ 31 TRIỆU 080 NGHÌN",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 97,
+    "chu": "0862 745 495",
+    "variant": "cta",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 87,
+    "chu": "MUA CẢ 6 HỘP TẶNG MỖI LOẠI 1 HỘP",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 89,
+    "chu": "GIÁ LÀ 31 TRIỆU 080 NGHÌN",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 97,
+    "chu": "0862 745 495",
+    "variant": "cta",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "080",
+   "0862",
+   "31",
+   "495",
+   "745",
+   "ca",
+   "gia",
+   "hop",
+   "loai",
+   "moi",
+   "mua",
+   "nghin",
+   "tang",
+   "trieu"
+  ]
+ },
+ {
+  "file": "sot-so-tran-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/sot-so-tran-01.mp4",
+  "dai": 10.2,
+  "w": 1920,
+  "h": 1080,
+  "fps": 25.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nữ nằm đắp chăn, người khác sờ trán — sốt, chăm sóc người ốm",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "stress-vanphong-nam-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/stress-vanphong-nam-01.mp4",
+  "dai": 22.83,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 15,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    22.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 22.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "nam vest ngả ghế văn phòng ôm đầu — căng thẳng, quá tải",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 29,
+    "chu": "DÙ BẬN RỘN CỠ NÀO",
+    "variant": "yellow",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ban",
+   "du",
+   "nao",
+   "ron"
+  ]
+ },
+ {
+  "file": "taodo-thanhphan-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/taodo-thanhphan-01.mp4",
+  "dai": 13.17,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "tảo đỏ dưới nước, ánh xanh lục — TẢO ĐỎ, nguồn astaxanthin",
+  "da_dung": 2,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 68,
+    "chu": "CÒN CÓ ASTAXANTHIN CHỐNG OXY HOÁ",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 68,
+    "chu": "CÒN CÓ ASTAXANTHIN CHỐNG OXY HOÁ",
+    "variant": "product",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "astaxanthin",
+   "chong",
+   "con",
+   "hoa",
+   "oxy"
+  ]
+ },
+ {
+  "file": "tebao-cautruc-nhan-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tebao-cautruc-nhan-01.mp4",
+  "dai": 13.37,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "tế bào cắt ngang thấy nhân và ty thể, nền đen — TẾ BÀO, ty thể, năng lượng",
+  "da_dung": 4,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 49,
+    "chu": "TRONG MỖI TẾ BÀO CÓ BỘ PHẬN SINH NĂNG LƯỢNG",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 52,
+    "chu": "KHÔNG CÓ NÓ, TẾ BÀO KHÓ TẠO RA NĂNG LƯỢNG",
+    "variant": "warning",
+    "src_start": 6
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 49,
+    "chu": "TRONG MỖI TẾ BÀO CÓ BỘ PHẬN SINH NĂNG LƯỢNG",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 52,
+    "chu": "KHÔNG CÓ NÓ, TẾ BÀO KHÓ TẠO RA NĂNG LƯỢNG",
+    "variant": "warning",
+    "src_start": 6
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bao",
+   "bo",
+   "kho",
+   "khong",
+   "luong",
+   "moi",
+   "nang",
+   "phan",
+   "sinh",
+   "tao",
+   "te"
+  ]
+ },
+ {
+  "file": "thankinh-diennao-dantruyen-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/thankinh-diennao-dantruyen-01.mp4",
+  "dai": 20.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạng lưới điện não xanh, chấm sáng dẫn truyền — dẫn truyền thần kinh",
+  "da_dung": 5,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 41,
+    "chu": "THỨ 2 LÀ VITAMIN NHÓM B GIÚP ỔN ĐỊNH HỆ THẦN KINH",
+    "variant": "product",
+    "src_start": 8
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 12,
+    "chu": "THIẾU THÌ LỚP VỎ MỎNG ĐI DÂY NHẠY QUÁ MỨC",
+    "variant": "warning",
+    "src_start": 8
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 13,
+    "chu": "TỰ PHÁT TÍN HIỆU DÙ KHÔNG AI CHẠM VÀO",
+    "variant": "warning",
+    "src_start": 8
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 12,
+    "chu": "THIẾU THÌ LỚP VỎ MỎNG ĐI DÂY NHẠY QUÁ MỨC",
+    "variant": "warning",
+    "src_start": 8
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 13,
+    "chu": "TỰ PHÁT TÍN HIỆU DÙ KHÔNG AI CHẠM VÀO",
+    "variant": "warning",
+    "src_start": 8
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ai",
+   "cham",
+   "day",
+   "du",
+   "giup",
+   "he",
+   "hieu",
+   "inh",
+   "khong",
+   "kinh",
+   "lop",
+   "mong",
+   "muc",
+   "nhay",
+   "nhom",
+   "on",
+   "phat",
+   "than",
+   "thieu",
+   "thu",
+   "tin",
+   "tu",
+   "vao",
+   "vitamin",
+   "vo"
+  ]
+ },
+ {
+  "file": "thankinh-neuron-tim-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/thankinh-neuron-tim-01.mp4",
+  "dai": 6.38,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 4,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    6.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 6.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạng neuron tím xanh dày đặc — tế bào thần kinh",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "thankinh-neuron-xanh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/thankinh-neuron-xanh-01.mp4",
+  "dai": 16.73,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "neuron xanh và sợi trục, nền xanh đậm — SỢI TRỤC THẦN KINH",
+  "da_dung": 11,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 7,
+  "job": [
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 42,
+    "chu": "LÀM HỆ TUẦN HOÀN TƯƠI MỚI LẠI",
+    "variant": "positive",
+    "src_start": 1.5
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 43,
+    "chu": "VẪN PHẢI ĐỦ 6–12 THÁNG",
+    "variant": "product",
+    "src_start": 6.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 48,
+    "chu": "HOẶC ĐỂ LẠI TÊN + SỐ ĐIỆN THOẠI",
+    "variant": "cta",
+    "src_start": 0.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 49,
+    "chu": "ĐỂ THÀNH HỖ TRỢ KỊP THỜI",
+    "variant": "cta",
+    "src_start": 0.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 13,
+    "chu": "ĐỂ NUÔI TẾ BÀO NÃO VÀ HỆ THẦN KINH",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 9,
+    "chu": "MÀNG CỦA DÂY THẦN KINH",
+    "variant": "product",
+    "src_start": 8
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 18,
+    "chu": "DÂY THẦN KINH TIÊU THỤ RẤT NHIỀU OXY",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 19,
+    "chu": "THIẾU MỘT CHÚT LÀ BÁO NGAY",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 9,
+    "chu": "MÀNG CỦA DÂY THẦN KINH",
+    "variant": "product",
+    "src_start": 8
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 18,
+    "chu": "DÂY THẦN KINH TIÊU THỤ RẤT NHIỀU OXY",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 19,
+    "chu": "THIẾU MỘT CHÚT LÀ BÁO NGAY",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "12",
+   "bao",
+   "chut",
+   "day",
+   "he",
+   "ho",
+   "hoan",
+   "ien",
+   "kinh",
+   "kip",
+   "mang",
+   "moi",
+   "nao",
+   "ngay",
+   "nhieu",
+   "nuoi",
+   "oxy",
+   "phai",
+   "so",
+   "te",
+   "ten",
+   "than",
+   "thang",
+   "thanh",
+   "thieu",
+   "thoai",
+   "thoi",
+   "thu",
+   "tieu",
+   "tro",
+   "tuan",
+   "tuoi",
+   "van"
+  ]
+ },
+ {
+  "file": "thankinh-synapse-dantruyen-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/thankinh-synapse-dantruyen-01.mp4",
+  "dai": 13.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "synapse tím phóng đại, chất dẫn truyền vàng — khớp thần kinh",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "thankinh-toanthan-vang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/thankinh-toanthan-vang-01.mp4",
+  "dai": 5.01,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "hệ thần kinh toàn thân màu vàng nền đen — hệ thần kinh toàn thân",
+  "da_dung": 3,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 23,
+    "chu": "CANXI + MAGIE SỬA ĐƯỢC CÁI DÂY",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 23,
+    "chu": "CANXI + MAGIE SỬA ĐƯỢC CÁI DÂY",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 52,
+    "chu": "TỪ ĐẤY HỖ TRỢ CẢI THIỆN",
+    "variant": "positive",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ay",
+   "canxi",
+   "day",
+   "ho",
+   "magie",
+   "sua",
+   "thien",
+   "tro",
+   "tu",
+   "uoc"
+  ]
+ },
+ {
+  "file": "thankinh-xung-bungsang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/thankinh-xung-bungsang-01.mp4",
+  "dai": 30.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 20,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    30.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 30.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   4.53,
+   11.23,
+   12.07,
+   13.43
+  ],
+  "mo_ta": "xung thần kinh bùng sáng trắng hồng — xung điện thần kinh",
+  "da_dung": 5,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do",
+   "07-2026-08-03-dji0485"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 10,
+    "chu": "DÂY THẦN KINH NHƯ DÂY ĐIỆN CÓ LỚP VỎ BỌC",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 11,
+    "chu": "CANXI + MAGIE LÀ LỚP VỎ ĐÓ ĐỦ THÌ TÍN HIỆU CHẠY ĐÚNG",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 10,
+    "chu": "DÂY THẦN KINH NHƯ DÂY ĐIỆN CÓ LỚP VỎ BỌC",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 11,
+    "chu": "CANXI + MAGIE LÀ LỚP VỎ ĐÓ ĐỦ THÌ TÍN HIỆU CHẠY ĐÚNG",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "07-2026-08-03-dji0485",
+    "idx": 63,
+    "chu": "KỂ CẢ SUY NHƯỢC THẦN KINH",
+    "variant": "warning",
+    "src_start": 1.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "boc",
+   "ca",
+   "canxi",
+   "chay",
+   "day",
+   "hieu",
+   "ien",
+   "ke",
+   "kinh",
+   "lop",
+   "magie",
+   "nhu",
+   "nhuoc",
+   "suy",
+   "than",
+   "tin",
+   "ung",
+   "vo"
+  ]
+ },
+ {
+  "file": "tim-dap-nento-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-dap-nento-01.mp4",
+  "dai": 20.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "tim đỏ đập nền TỐI — TIM ĐẬP",
+  "da_dung": 4,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 54,
+    "chu": "TẾ BÀO CƠ TIM",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 55,
+    "chu": "TIM ĐẬP KHÔNG NGHỈ SUỐT CẢ ĐỜI",
+    "variant": "yellow",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 54,
+    "chu": "TẾ BÀO CƠ TIM",
+    "variant": "product",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 55,
+    "chu": "TIM ĐẬP KHÔNG NGHỈ SUỐT CẢ ĐỜI",
+    "variant": "yellow",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ap",
+   "bao",
+   "ca",
+   "khong",
+   "nghi",
+   "oi",
+   "suot",
+   "te",
+   "tim"
+  ]
+ },
+ {
+  "file": "tim-do-xoay-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-do-xoay-01.mp4",
+  "dai": 20.4,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 13,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    20.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 20.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [
+   0.23
+  ],
+  "mo_ta": "tim đỏ xoay nền TRẮNG — tim, máy bơm",
+  "da_dung": 2,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 72,
+    "chu": "THÔNG ỐNG MÀ BƠM YẾU BƠM KHOẺ MÀ ỐNG TẮC",
+    "variant": "warning",
+    "src_start": 8
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 72,
+    "chu": "THÔNG ỐNG MÀ BƠM YẾU BƠM KHOẺ MÀ ỐNG TẮC",
+    "variant": "warning",
+    "src_start": 8
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bom",
+   "khoe",
+   "ong",
+   "tac",
+   "thong",
+   "yeu"
+  ]
+ },
+ {
+  "file": "tim-dongmachchu-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-dongmachchu-01.mp4",
+  "dai": 16.93,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.9
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.9,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "tim và động mạch chủ, mạch xanh đỏ, nền xanh — TIM VÀ ĐỘNG MẠCH CHỦ, máy bơm",
+  "da_dung": 2,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "06-2026-08-04-magie-canxi-combo-2",
+   "06b-test-toc-do"
+  ],
+  "frontlink": [
+   {
+    "job": "06-2026-08-04-magie-canxi-combo-2",
+    "idx": 57,
+    "chu": "TIM BƠM YẾU ĐI MÀ ÍT NGƯỜI NHẬN RA",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "06b-test-toc-do",
+    "idx": 57,
+    "chu": "TIM BƠM YẾU ĐI MÀ ÍT NGƯỜI NHẬN RA",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "bom",
+   "it",
+   "nguoi",
+   "nhan",
+   "tim",
+   "yeu"
+  ]
+ },
+ {
+  "file": "tim-giaiphau-nentoi-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-giaiphau-nentoi-01.mp4",
+  "dai": 16.7,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 11,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    16.7
+   ]
+  ],
+  "dai_doan_dai_nhat": 16.7,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "tim giải phẫu đỏ nền nâu tối — tim",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "tim-mau-ve-tim-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-mau-ve-tim-01.mp4",
+  "dai": 10.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 6,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    10.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 10.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch máu dọc có hồng cầu bên cạnh quả tim — máu về tim",
+  "da_dung": 6,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773"
+  ],
+  "frontlink": [
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 26,
+    "chu": "MÁU BỚT ĐẶC CHẢY TRƠN TRU HƠN",
+    "variant": "positive",
+    "src_start": 0.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 31,
+    "chu": "VÀ PHÒNG NGỪA ĐỘT QUỴ, TAI BIẾN",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 38,
+    "chu": "MẠCH MÁU THÔNG THOÁNG PHÒNG ĐỘT QUỴ",
+    "variant": "positive",
+    "src_start": 4.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 47,
+    "chu": "PHỤC HỒI LÂU DÀI PHÒNG ĐỘT QUỴ",
+    "variant": "positive",
+    "src_start": 4.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 30,
+    "chu": "MẠCH MÁU THÔNG THOÁNG PHÒNG NGỪA ĐỘT QUỴ",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 30,
+    "chu": "MẠCH MÁU THÔNG THOÁNG PHÒNG ĐỘT QUỴ, TAI BIẾN",
+    "variant": "positive",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ac",
+   "bien",
+   "bot",
+   "chay",
+   "dai",
+   "hoi",
+   "lau",
+   "mach",
+   "mau",
+   "ngua",
+   "ot",
+   "phong",
+   "phuc",
+   "quy",
+   "tai",
+   "thoang",
+   "thong",
+   "tron",
+   "tru"
+  ]
+ },
+ {
+  "file": "tim-maudac-mat-nuoc-doc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-maudac-mat-nuoc-doc-01.mp4",
+  "dai": 12.1,
+  "w": 1080,
+  "h": 1920,
+  "fps": 24.0,
+  "doc": true,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "DỌC. tim cắt mở, cơ tim đỏ sẫm — mất nước, máu đặc",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "tim-mohinh-nhipdien-doc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-mohinh-nhipdien-doc-01.mp4",
+  "dai": 21.2,
+  "w": 720,
+  "h": 1280,
+  "fps": 24.0,
+  "doc": true,
+  "so_frame_soi": 14,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    21.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 21.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "DỌC. mô hình tim cắt, đường dẫn điện tim vàng — nhịp điện tim",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "tim-nhoimau-cotim-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-nhoimau-cotim-01.mp4",
+  "dai": 33.77,
+  "w": 3840,
+  "h": 2160,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 22,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    33.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 33.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "người mặc áo sọc ôm ngực, vùng tim đỏ rực — NHỒI MÁU CƠ TIM",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "tim-vongxanh-xoay-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/tim-vongxanh-xoay-01.mp4",
+  "dai": 8.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 5,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    8.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 8.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "tim đỏ với vòng sáng xanh xoay quanh — tim khoẻ, bảo vệ tim",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "xovua-anh-manghep-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-anh-manghep-01.jpg",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "xovua-anh-tacmach-01.jpg",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-anh-tacmach-01.jpg",
+  "anh": true,
+  "mo_ta": {},
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "xovua-catmo-mangvang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-catmo-mangvang-01.mp4",
+  "dai": 12.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch cắt mở lộ mảng vàng bên trong, cạnh tim — xơ vữa trong mạch",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "xovua-cholesterol-doc-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-cholesterol-doc-01.mp4",
+  "dai": 15.05,
+  "w": 1080,
+  "h": 1920,
+  "fps": 25.0,
+  "doc": true,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.1,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "DỌC. mảng cholesterol vàng nhạt bám thành mạch — cholesterol",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "xovua-hinhthanh-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-hinhthanh-01.mp4",
+  "dai": 13.44,
+  "w": 768,
+  "h": 432,
+  "fps": 25.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.4
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.4,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch đỏ, mảng vàng nhỏ bắt đầu hình thành hai bên — QUÁ TRÌNH HÌNH THÀNH xơ vữa (768x432, độ phân giải thấp)",
+  "da_dung": 3,
+  "con_lai_sau_khi_anh_sua": 2,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 28,
+    "chu": "ĐAN VÀO NHANH, GỠ RA CHẬM NÓ CỨ TÍCH TỤ THEO NĂM THÁNG",
+    "variant": "warning",
+    "src_start": 6
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 50,
+    "chu": "MẠCH MÁU XẤU ĐI NÓ CẦN NHIỀU NĂM",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 51,
+    "chu": "KHÔNG CÁCH NÀO LÀM SẠCH TRONG VÀI TUẦN",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "an",
+   "cach",
+   "can",
+   "cham",
+   "cu",
+   "go",
+   "khong",
+   "mach",
+   "mau",
+   "nam",
+   "nao",
+   "nhanh",
+   "nhieu",
+   "sach",
+   "thang",
+   "theo",
+   "tich",
+   "tu",
+   "tuan",
+   "vai",
+   "vao",
+   "xau"
+  ]
+ },
+ {
+  "file": "xovua-mangbam-day-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-mangbam-day-01.mp4",
+  "dai": 12.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch cắt dọc, mảng vàng dày kín hai bên, hồng cầu chen giữa — xơ vữa dày",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [
+   "04-2026-08-04-img1773"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 17,
+    "chu": "MẠCH MÁU DẦN DÀY LÊN GÂY TẮC MẠCH",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "dan",
+   "day",
+   "gay",
+   "len",
+   "mach",
+   "mau",
+   "tac"
+  ]
+ },
+ {
+  "file": "xovua-mangbam-vang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-mangbam-vang-01.mp4",
+  "dai": 29.77,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 19,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    29.8
+   ]
+  ],
+  "dai_doan_dai_nhat": 29.8,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch đỏ nền mô nâu, mảng vàng lớn chắn giữa — mảng bám làm hẹp",
+  "da_dung": 7,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 3,
+  "job": [
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1771",
+   "04-2026-08-04-img1773",
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 11,
+    "chu": "MẠCH MÁU ĐÃ CÓ RẤT NHIỀU RÁC RƯỞI",
+    "variant": "warning",
+    "src_start": 15.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 12,
+    "chu": "RÁC RƯỞI Ở ĐÂY LÀ GÌ?",
+    "variant": "yellow",
+    "src_start": 0.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 15,
+    "chu": "BÁM Ở THÀNH MẠCH DÀY LÊN TỪNG NGÀY",
+    "variant": "warning",
+    "src_start": 5.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 9,
+    "chu": "CÓ XƠ VỮA VÀ CỤC MÁU ĐÔNG",
+    "variant": "warning",
+    "src_start": 15.0
+   },
+   {
+    "job": "04-2026-08-04-img1771",
+    "idx": 18,
+    "chu": "VÀ LÀM SẠCH XƠ VỮA TRONG THÀNH MẠCH",
+    "variant": "positive",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 11,
+    "chu": "DÀY LÊN TỪNG NGÀY",
+    "variant": "warning",
+    "src_start": 5.0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 8,
+    "chu": "NHƯNG NẾU LÒNG MẠCH CÒN NHIỀU MẢNG XƠ VỮA",
+    "variant": "warning",
+    "src_start": 15
+   }
+  ],
+  "tu_khoa_hoc": [
+   "ay",
+   "bam",
+   "con",
+   "cuc",
+   "day",
+   "gi",
+   "len",
+   "long",
+   "mach",
+   "mang",
+   "mau",
+   "neu",
+   "ngay",
+   "nhieu",
+   "ong",
+   "rac",
+   "ruoi",
+   "sach",
+   "thanh",
+   "tung",
+   "vua",
+   "xo"
+  ]
+ },
+ {
+  "file": "xovua-mangbam-vang-02.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-mangbam-vang-02.mp4",
+  "dai": 12.0,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    12.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 12.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch cắt dọc mảng vàng dày, hồng cầu — xơ vữa (bản 2)",
+  "da_dung": 3,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 2,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 13,
+    "chu": "LÀM TẮC, LÀM BÍT LÀM NGHẼN MẠCH MÁU",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 15,
+    "chu": "MẠCH MÁU BỊ TẮC BỊ KẸT, BỊ BÍT",
+    "variant": "warning",
+    "src_start": 1.0
+   },
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 14,
+    "chu": "CÓ MẢNG XƠ VỮA LÂU NĂM ỐNG MẤT ĐỘ ĐÀN HỒI",
+    "variant": "warning",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "an",
+   "bi",
+   "bit",
+   "hoi",
+   "ket",
+   "lau",
+   "mach",
+   "mang",
+   "mat",
+   "mau",
+   "nam",
+   "nghen",
+   "ong",
+   "tac",
+   "vua",
+   "xo"
+  ]
+ },
+ {
+  "file": "xovua-mangmo-4k-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-mangmo-4k-01.mp4",
+  "dai": 15.0,
+  "w": 3840,
+  "h": 2160,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 10,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    15.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 15.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "4K. mạch đỏ, mảng vàng mỏng, hồng cầu chảy — xơ vữa nhẹ",
+  "da_dung": 0,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [],
+  "frontlink": [],
+  "tu_khoa_hoc": []
+ },
+ {
+  "file": "xovua-mangmo-trang-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-mangmo-trang-01.mp4",
+  "dai": 13.2,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 8,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    13.2
+   ]
+  ],
+  "dai_doan_dai_nhat": 13.2,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "mạch đỏ nền TRẮNG, hai mảng mỡ trắng ngà — mảng mỡ, nền sạch",
+  "da_dung": 5,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894",
+   "04-2026-08-04-img1770",
+   "04-2026-08-04-img1773"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 11,
+    "chu": "MẢNG XƠ VỮA",
+    "variant": "warning",
+    "src_start": 3.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 14,
+    "chu": "LÀ NHỮNG MẢNG XƠ VỮA",
+    "variant": "warning",
+    "src_start": 3.0
+   },
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 16,
+    "chu": "HÌNH THÀNH MẢNG XƠ VỮA",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 12,
+    "chu": "LÀM HẸP MẠCH MÁU",
+    "variant": "warning",
+    "src_start": 0
+   },
+   {
+    "job": "04-2026-08-04-img1773",
+    "idx": 21,
+    "chu": "VÀ CÁC MẢNG XƠ VỮA",
+    "variant": "positive",
+    "src_start": 3.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "hep",
+   "hinh",
+   "mach",
+   "mang",
+   "mau",
+   "thanh",
+   "vua",
+   "xo"
+  ]
+ },
+ {
+  "file": "xovua-mohinh-mach-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-mohinh-mach-01.mp4",
+  "dai": 51.22,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 34,
+  "vung_chu": [
+   [
+    0.0,
+    9.0
+   ],
+   [
+    31.6,
+    51.2
+   ]
+  ],
+  "vung_den": [
+   [
+    38.6,
+    45.3
+   ],
+   [
+    0.0,
+    1.5
+   ],
+   [
+    30.1,
+    33.1
+   ],
+   [
+    43.7,
+    46.7
+   ]
+  ],
+  "vung_cam": [
+   [
+    0.0,
+    9.0
+   ],
+   [
+    30.1,
+    51.2
+   ]
+  ],
+  "doan_dung_duoc": [
+   [
+    9.0,
+    30.1
+   ]
+  ],
+  "dai_doan_dai_nhat": 21.1,
+  "chu_doc_duoc": {
+   "Buildup of plaque in the arteries can lead to | peripheral arterial di": 1.5,
+   "If you have the signs and | symptoms of Peripheral Arterial | Disease,": 33.1,
+   "To Learn More Visit | Sporeorod by | LIMBS": 39.2,
+   "To Learn More Visit | Sporeorod by | TLIMBS": 40.7,
+   "To Learn More Visit | Sporsorod by | LIMBS": 43.7,
+   "This video animation is for informational purposes | only and may not ": 46.7
+  },
+  "doi_canh": [
+   6.67,
+   31.63
+  ],
+  "mo_ta": "mô hình mạch cắt lộ mảng xơ vữa nâu, nền trắng — mô hình giải phẫu mạch",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 0,
+  "job": [
+   "04-2026-08-04-img1770"
+  ],
+  "frontlink": [
+   {
+    "job": "04-2026-08-04-img1770",
+    "idx": 26,
+    "chu": "KHÔNG CẢI THIỆN ĐƯỢC GỐC RỄ VẤN ĐỀ",
+    "variant": "warning",
+    "src_start": 6.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "goc",
+   "khong",
+   "re",
+   "thien",
+   "uoc",
+   "van"
+  ]
+ },
+ {
+  "file": "xovua-quatrinh-dai-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-quatrinh-dai-01.mp4",
+  "dai": 117.49,
+  "w": 1280,
+  "h": 720,
+  "fps": 25.0,
+  "doc": false,
+  "so_frame_soi": 78,
+  "vung_chu": [
+   [
+    0.0,
+    7.5
+   ],
+   [
+    10.6,
+    15.1
+   ],
+   [
+    21.1,
+    31.6
+   ],
+   [
+    40.7,
+    48.2
+   ],
+   [
+    54.2,
+    58.7
+   ],
+   [
+    61.8,
+    73.8
+   ],
+   [
+    75.3,
+    82.8
+   ],
+   [
+    84.4,
+    96.4
+   ],
+   [
+    99.4,
+    106.9
+   ],
+   [
+    107.0,
+    116.0
+   ]
+  ],
+  "vung_den": [],
+  "vung_cam": [
+   [
+    0.0,
+    7.5
+   ],
+   [
+    10.6,
+    15.1
+   ],
+   [
+    21.1,
+    31.6
+   ],
+   [
+    40.7,
+    48.2
+   ],
+   [
+    54.2,
+    58.7
+   ],
+   [
+    61.8,
+    73.8
+   ],
+   [
+    75.3,
+    82.8
+   ],
+   [
+    84.4,
+    96.4
+   ],
+   [
+    99.4,
+    106.9
+   ],
+   [
+    107.0,
+    116.0
+   ]
+  ],
+  "doan_dung_duoc": [
+   [
+    7.5,
+    10.6
+   ],
+   [
+    15.1,
+    21.1
+   ],
+   [
+    31.6,
+    40.7
+   ],
+   [
+    48.2,
+    54.2
+   ],
+   [
+    58.7,
+    61.8
+   ],
+   [
+    73.8,
+    75.3
+   ],
+   [
+    82.8,
+    84.4
+   ],
+   [
+    96.4,
+    99.4
+   ],
+   [
+    116.0,
+    117.5
+   ]
+  ],
+  "dai_doan_dai_nhat": 9.1,
+  "chu_doc_duoc": {
+   "ARTERIOSCLEROSIS": 1.5,
+   "Coronary artery": 12.1,
+   "Tunica externa": 22.6,
+   "Tunica externa | Tunica muscularis": 25.6,
+   "Tunica externa | Tunica interna | Tunica muscularis": 27.1,
+   "Chglesterol (LDL molecules)": 42.2,
+   "Cholesterol (LDL molecules)": 43.7,
+   "Epithelial cells": 55.7,
+   "set o": 63.3,
+   "Tunica | muscularis | Tunica interna": 64.8,
+   "-Tunica | muscularis | Tunica interna": 66.3,
+   "Plaque": 69.3,
+   "Artery wall": 76.8,
+   "Lumen": 79.8,
+   "Arterjosclefosis | (Hardening of the arteries)": 85.9,
+   "Arterfosclerosis | (Hardening of the arteries)": 87.4,
+   "Arteriosclerosis | (Hardening of the arteries)": 88.9,
+   "- Platelet": 100.9,
+   "Fibrin thread": 103.9,
+   "Clot": 108.5,
+   "Thrombus": 111.5
+  },
+  "doi_canh": [
+   106.08
+  ],
+  "mo_ta": "mạch nhìn ngang, hạt mỡ vàng và hồng cầu, có chú thích — quá trình xơ vữa (NHIỀU CHỮ TIẾNG ANH)",
+  "da_dung": 2,
+  "con_lai_sau_khi_anh_sua": 0,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "02-2026-08-03-dilim-video-test",
+   "03-2026-06-28-dscf0894"
+  ],
+  "frontlink": [
+   {
+    "job": "02-2026-08-03-dilim-video-test",
+    "idx": 23,
+    "chu": "LÀM TAN MẢNG XƠ VỮA",
+    "variant": "positive",
+    "src_start": 40.0
+   },
+   {
+    "job": "03-2026-06-28-dscf0894",
+    "idx": 22,
+    "chu": "LÀM TAN MẢNG XƠ VỮA",
+    "variant": "positive",
+    "src_start": 40.0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "mang",
+   "tan",
+   "vua",
+   "xo"
+  ]
+ },
+ {
+  "file": "xovua-sosanh-sach-mo-01.mp4",
+  "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-sosanh-sach-mo-01.mp4",
+  "dai": 5.03,
+  "w": 1920,
+  "h": 1080,
+  "fps": 30.0,
+  "doc": false,
+  "so_frame_soi": 3,
+  "vung_chu": [],
+  "vung_den": [],
+  "vung_cam": [],
+  "doan_dung_duoc": [
+   [
+    0.0,
+    5.0
+   ]
+  ],
+  "dai_doan_dai_nhat": 5.0,
+  "chu_doc_duoc": {},
+  "doi_canh": [],
+  "mo_ta": "SO SÁNH: nửa trái mạch sạch, nửa phải mạch có mảng vàng — SO SÁNH SẠCH/BẨN",
+  "da_dung": 1,
+  "con_lai_sau_khi_anh_sua": 1,
+  "co_ban_doi_chieu": 1,
+  "job": [
+   "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "frontlink": [
+   {
+    "job": "05-2026-08-04-natto-hoat-huyet",
+    "idx": 35,
+    "chu": "THÀNH NÓI LÀM SẠCH MẠCH MÁU CHỨ KHÔNG NÓI HOẠT HUYẾT",
+    "variant": "yellow",
+    "src_start": 0
+   }
+  ],
+  "tu_khoa_hoc": [
+   "chu",
+   "hoat",
+   "huyet",
+   "khong",
+   "mach",
+   "mau",
+   "noi",
+   "sach",
+   "thanh"
+  ]
+ }
+]

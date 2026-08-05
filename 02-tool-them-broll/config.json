@@ -1,0 +1,12 @@
+{
+  "_huong_dan": "Doi may thi chi sua file nay. De trong music_root/jobs_root de dung mac dinh.",
+  "_may": "MacBook cua Thanh — kho nam tren o ngoai T7 for Mac. Cap nhat 2026-08-03.",
+
+  "broll_root": "/Volumes/T7 for Mac/02. Dilim Footage",
+  "music_root": "/Volumes/T7 for Mac/02. Dilim Footage/Nhạc video quảng cáo",
+  "jobs_root": "",
+
+  "whisper_model": "medium",
+  "whisper_device": "cpu",
+  "whisper_compute_type": "int8"
+}
