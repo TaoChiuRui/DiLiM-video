@@ -309,6 +309,15 @@ def main():
         if isinstance(v, str) and os.path.sep in v and os.path.exists(v) \
                 and not k.startswith("_"):
             ds.append(v)
+    # 05/08/2026: soi ca DANH MUC, khong chi hang so trong clips.py.
+    # Truoc do vong tren chi lay `dir(C)` -> 874 clip trong kho khong bao gio
+    # duoc OCR, nen khong co `doan_dung_duoc`, nen `goi_y_broll` de src_start=0
+    # -> dung vao doan co chu tieng Anh / man den.
+    _dm = os.path.join(os.path.dirname(HERE), "danh_muc_kho.json")
+    if os.path.exists(_dm):
+        for m in json.load(open(_dm, encoding="utf-8")):
+            if os.path.exists(m["path"]):
+                ds.append(m["path"])
     ds = sorted(set(ds))
     if a.clip:
         ds = [p for p in ds if a.clip in p]

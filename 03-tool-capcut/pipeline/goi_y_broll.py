@@ -48,10 +48,36 @@ def tu(s):
     return {w for w in norm(s).split() if w and w not in DEM and len(w) > 1}
 
 
+DANH_MUC = os.path.join(os.path.dirname(HERE), "danh_muc_kho.json")
+
+
 def nap():
-    if not os.path.exists(KHO):
-        sys.exit(f"chua co {KHO} — chay xay_kho_broll.py truoc")
-    return json.load(open(KHO, encoding="utf-8"))
+    """Gop HAI nguon, uu tien ban DA SOI.
+
+      kho_broll.json   ~159 clip da OCR — co `doan_dung_duoc` (giay nao sach)
+      danh_muc_kho.json ~1048 clip — chi co `mo_ta` dich tu ten file
+
+    Truoc 05/08/2026 chi doc nguon dau, nen 874 clip trong kho khong bao gio
+    duoc goi y: do 9 job chi xoay quanh 86 clip (8% kho), rieng
+    `richnatto-01.mp4` gong 30 luot. Gop vao thi may THAY het kho.
+
+    DANH DAU `chua_soi=True` cho clip chua OCR — chung KHONG co `doan_dung_duoc`
+    nen `giay_an_toan` tra ve 0.0, tuc src_start=0. Do dung la cho de ra loi
+    "chu tieng Anh / man den" (16 dong sai o 5 job). Vi vay ban goi y in kem
+    canh bao CHUA SOI de nguoi con soi frame truoc khi chot.
+    """
+    kho = []
+    if os.path.exists(KHO):
+        kho = json.load(open(KHO, encoding="utf-8"))
+    da_co = {x["file"] for x in kho}
+    if os.path.exists(DANH_MUC):
+        for m in json.load(open(DANH_MUC, encoding="utf-8")):
+            if m["file"] in da_co:
+                continue
+            kho.append({**m, "chua_soi": True, "doan_dung_duoc": None})
+    if not kho:
+        sys.exit(f"chua co {KHO} lan {DANH_MUC} — chay xay_danh_muc.py --ghi truoc")
+    return kho
 
 
 def tu_khoa_cua(x, TAGS):
@@ -174,6 +200,8 @@ def main():
         for d, t, x, hop in kq:
             ss = giay_an_toan(x, can)
             canh = "" if hop >= can else f"  [doan sach dai nhat chi {hop}s]"
+            if x.get("chua_soi"):
+                canh += "  [CHUA SOI — soi frame truoc khi chot src_start]"
             out.append(f"      {d:5.2f} {x['file'][:38]:38} src_start={ss:<6} "
                        f"({','.join(t[:4])}){canh}")
 
