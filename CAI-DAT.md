@@ -4,19 +4,27 @@
 
 ---
 
-## 1. Gói gì mang đi
+## 1. Bàn giao gồm HAI phần, đi hai đường khác nhau
 
-| Mang | Dung lượng | Vì sao |
+| Phần | Cỡ | Đường đi |
 |---|---:|---|
-| `01-tool-cat-video/` | 17 MB | tool 3 lấy **52 file SFX** từ đây |
-| `02-tool-them-broll/` | 172 KB | tool 3 lấy **engine vẽ caption** + font Anton từ đây |
-| `03-tool-capcut/` | 13 MB | luồng chính |
-| `00-huong-dan/` | 8 KB | luật nội dung |
-| `CLAUDE.md` `README.md` `CAI-DAT.md` | | |
+| **Code + tài liệu + kho kiến thức** | **12,7 MB · 360 file** | git (clone) |
+| **Kho footage B-roll** | ~1.100 file, ổ ngoài | chép ổ cứng — không có cách khác |
 
-**Đừng mang `04-du-an/` (8,2 GB)** — đó là job đã dựng, không phải code. Mang 1–2 job làm mẫu thì được.
+> **Code chỉ là phần nhỏ.** `clips.py` khai 187 clip trỏ vào file cụ thể trong kho footage;
+> `kho_broll.json` là chỉ mục của chính kho đó. **Có code mà không có kho thì pipeline vẫn
+> chạy, vẫn ra project CapCut — nhưng mọi dải B-roll trống trơn.**
 
-**Kho B-roll không nằm trong repo.** Nó ở ổ ngoài (`02. Dilim Footage`, 1.100+ file). Máy mới phải chép hoặc cắm ổ riêng.
+Cái gì **không** vào git (đã cấu hình sẵn trong `.gitignore`):
+`04-du-an/` (15,8 GB job đã dựng) · `node_modules/` (1,3 GB) · `01-tool-cat-video/queue/`
+(~700 MB render cũ) · `.venv/` · `05-footage-moi/`.
+
+Riêng `04-du-an/` **giữ lại `cuts.json` + `plan.py` của 9 job** (17 file, 121 KB) — đó là hai
+file duy nhất mỗi job phải viết tay, để lại làm ví dụ thật cho người mới.
+
+> **Ba thư mục tool phải đi cùng nhau.** Tool 3 gọi thẳng sang tool 1 và tool 2 bằng đường dẫn
+> tương đối (`../../01-tool-cat-video/...`, `../../02-tool-them-broll/...`). Bê mỗi
+> `03-tool-capcut/` sang là gãy ngay bước ⑫ (vẽ caption) và mất hết SFX.
 
 > **Ba thư mục phải đi cùng nhau.** Tool 3 gọi thẳng sang tool 1 và tool 2 bằng đường dẫn tương đối
 > (`../../01-tool-cat-video/...`, `../../02-tool-them-broll/...`). Bê mỗi `03-tool-capcut/` sang là
@@ -129,7 +137,10 @@ Biết trước để khỏi mất công dò:
 - **Tên file trong `clips.py`** gắn với cách anh Thành đặt tên kho. Kho khác thì phải khai lại.
 - **Thông số vị trí** (dải B-roll, caption, logo) là số anh kéo tay trong CapCut rồi đọc ra.
   Khung hình khác 9:16 thì phải đo lại bằng `doc_capcut.py`.
-- **Repo chưa phải git.** Chưa có lịch sử, chưa rollback được. Nên `git init` trước khi giao đi.
+- **Kho kiến thức tự dày lên sẽ phân nhánh.** `kho_caption.json`, `kho_broll.json` và
+  `clips.py` lớn dần mỗi lần chạy `kho_caption.py --gom` / `hoc_lich_su.py`. Hai người chạy
+  trên hai bộ job khác nhau là chúng tách đôi, merge rất khổ. **Chốt trước một người giữ**,
+  hoặc chấp nhận mỗi máy một kho riêng.
 
 ---
 
