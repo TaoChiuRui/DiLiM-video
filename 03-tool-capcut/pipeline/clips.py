@@ -316,18 +316,18 @@ VUNG_CAM = {
 TDTT = f"{B}/Thể dục thể thao"
 AULM = f"{B}/Ăn uống lành mạnh"
 
-TD_ONGBA_PHO  = f"{TDTT}/3192168-uhd_3840_2160_25fps (1).mp4"              # 31.4s ong ba A Dong di bo the duc via he
-TD_ONGCU_VUON = f"{TDTT}/Thiết kế chưa có tên (3).mp4"                     # 19.0s ong cu vuon tay khoi dong, cong vien
-TD_ONGCU_XANH = f"{TDTT}/Thiết kế chưa có tên - 2024-12-09T151408.399.mp4" # 29.9s ong cu rau bac ao xanh chay bo, can canh
-TD_ONGBA_CHAY = f"{TDTT}/Thiết kế chưa có tên - 2024-12-20T115808.557.mp4" # 13.6s hai ong ba chay bo song doi
-TD_SU_KHATTHUC= f"{TDTT}/Thiết kế chưa có tên - 2026-01-06T140054.681.mp4" #  6.0s su chan tran di khat thuc — minh hoa "tinh tan"
-TD_ONGBA_VUI  = f"{TDTT}/Thiết kế chưa có tên - 2026-01-23T155012.305.mp4" # 20.0s hai ong ba di bo, cuoi tuoi
-TD_KHICONG_O  = f"{TDTT}/Thiết kế chưa có tên - 2026-01-30T150946.126.mp4" # 13.4s ong cu ao trang tap khi cong / thai cuc quyen
-TD_KHICONG_B  = f"{TDTT}/Thiết kế chưa có tên - 2026-04-18T140446.915.mp4" # 26.7s ba cu ao trang tap tho, bai co
-TD_ONGCU_CO   = f"{TDTT}/chay bo.mp4"                                      # 11.6s ong cu chay bo tren bai co
-TD_NHOM_DIBO  = f"{TDTT}/download (38).mp4"                                 # 14.8s ba nguoi trung/cao nien di bo duong ven bien
-TD_BACU_BIEN  = f"{TDTT}/download (54).mp4"                                 # 12.0s ba cu ao xanh di bo bo bien
-TD_ONGCU_TA   = f"{TDTT}/download - 2026-06-02T151351.286.mp4"              # 19.1s ong cu tap ta tay, CO HLV KEM — minh hoa "dong hanh"
+TD_ONGBA_PHO  = f"{TDTT}/theduc-ongba-dibo-pho-01.mp4"              # 31.4s ong ba A Dong di bo the duc via he
+TD_ONGCU_VUON = f"{TDTT}/theduc-ongcu-vuontay-01.mp4"                     # 19.0s ong cu vuon tay khoi dong, cong vien
+TD_ONGCU_XANH = f"{TDTT}/theduc-ongcu-chay-canh-01.mp4" # 29.9s ong cu rau bac ao xanh chay bo, can canh
+TD_ONGBA_CHAY = f"{TDTT}/theduc-ongba-chaybo-01.mp4" # 13.6s hai ong ba chay bo song doi
+TD_SU_KHATTHUC= f"{TDTT}/theduc-su-khatthuc-01.mp4" #  6.0s su chan tran di khat thuc — minh hoa "tinh tan"
+TD_ONGBA_VUI  = f"{TDTT}/theduc-ongba-dibo-vui-01.mp4" # 20.0s hai ong ba di bo, cuoi tuoi
+TD_KHICONG_O  = f"{TDTT}/theduc-ongcu-khicong-01.mp4" # 13.4s ong cu ao trang tap khi cong / thai cuc quyen
+TD_KHICONG_B  = f"{TDTT}/theduc-bacu-khicong-01.mp4" # 26.7s ba cu ao trang tap tho, bai co
+TD_ONGCU_CO   = f"{TDTT}/theduc-ongcu-chay-baico-01.mp4"                                      # 11.6s ong cu chay bo tren bai co
+TD_NHOM_DIBO  = f"{TDTT}/theduc-nhom-dibo-venbien-01.mp4"                                 # 14.8s ba nguoi trung/cao nien di bo duong ven bien
+TD_BACU_BIEN  = f"{TDTT}/theduc-bacu-dibo-bobien-01.mp4"                                 # 12.0s ba cu ao xanh di bo bo bien
+TD_ONGCU_TA   = f"{TDTT}/theduc-ongcu-tata-hlv-01.mp4"              # 19.1s ong cu tap ta tay, CO HLV KEM — minh hoa "dong hanh"
 # TD_DAYKHANG (download (20).mp4) DA LOAI: giay 25 doi sang phu nu tre trong
 # phong gym, khong con la ba cu. Neu dung thi src_start phai < 18s.
 
