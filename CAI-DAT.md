@@ -26,10 +26,6 @@ file duy nhất mỗi job phải viết tay, để lại làm ví dụ thật ch
 > tương đối (`../../01-tool-cat-video/...`, `../../02-tool-them-broll/...`). Bê mỗi
 > `03-tool-capcut/` sang là gãy ngay bước ⑫ (vẽ caption) và mất hết SFX.
 
-> **Ba thư mục phải đi cùng nhau.** Tool 3 gọi thẳng sang tool 1 và tool 2 bằng đường dẫn tương đối
-> (`../../01-tool-cat-video/...`, `../../02-tool-them-broll/...`). Bê mỗi `03-tool-capcut/` sang là
-> gãy ngay bước ⑫ (vẽ caption) và mất hết SFX.
-
 ---
 
 ## 2. Cần sẵn trên máy
