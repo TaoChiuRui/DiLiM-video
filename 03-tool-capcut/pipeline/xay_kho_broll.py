@@ -317,8 +317,10 @@ def main():
     # duoc OCR, nen khong co `doan_dung_duoc`, nen `goi_y_broll` de src_start=0
     # -> dung vao doan co chu tieng Anh / man den.
     _dm = os.path.join(os.path.dirname(HERE), "danh_muc_kho.json")
+    _mota = {}
     if os.path.exists(_dm):
         for m in json.load(open(_dm, encoding="utf-8")):
+            _mota[m["file"]] = m.get("mo_ta") or ""
             if os.path.exists(m["path"]):
                 ds.append(m["path"])
     ds = sorted(set(ds))
@@ -344,6 +346,12 @@ def main():
             if r is None:
                 print(f"  ! doc khong duoc: {b}")
                 continue
+            # LOI DA VAP 05/08/2026: `lam_mot_clip` tra ve mo_ta rong, ghi de
+            # len ban co mo ta cua danh muc -> 783/928 clip mat mo ta, ma mo ta
+            # la thu DUY NHAT cho biet clip quay gi. `goi_y_broll` tra kem han
+            # SAU khi chay OCR. `test_logic.py` bat duoc.
+            if not r.get("mo_ta") and _mota.get(b):
+                r["mo_ta"] = _mota[b]
             kho[b] = r
             n_moi += 1
             cx = len(r["vung_chu"])

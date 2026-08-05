@@ -142,8 +142,17 @@ def tra(chu, kho, TAGS, can=4.0, n=4, nguong=1.2):
         if x.get("anh"):
             hop = 99.0
         else:
-            hop = max([b - a for a, b in (x.get("doan_dung_duoc") or [])],
-                      default=0.0)
+            dd = x.get("doan_dung_duoc")
+            # LOI DA VAP 05/08/2026: `dd == []` nghia la DA SOI va CAM TRON CLIP
+            # (vi du `noitang-dady-boc-mo-01.mp4`: ca 9.4s deu co chu tieng Anh
+            # "IT SURROUNDS / INTERFERING WITH DIGESTION!"). Truoc khi va, clip
+            # nay dung DAU BANG goi y voi src_start=0.0 — dung frame co chu.
+            # Do la y het ho loi 16 dong sai o 5 job.
+            #   dd == []   -> da soi, hong han  -> LOAI
+            #   dd is None -> chua soi          -> giu, in co CHUA SOI
+            if dd == []:
+                continue
+            hop = max([b - a for a, b in (dd or [])], default=0.0)
         tk = tu_khoa_cua(x, TAGS)
         trung = q & tk
         if not trung:

@@ -1,154 +1,5 @@
 [
  {
-  "file": "SP này k phải là thuốc.mp4",
-  "path": "/Volumes/T7 for Mac/02. Dilim Footage/05 Finish part/SP này k phải là thuốc.mp4",
-  "dai": 3.02,
-  "w": 1080,
-  "h": 1920,
-  "fps": 30.0,
-  "doc": true,
-  "so_frame_soi": 2,
-  "vung_chu": [],
-  "vung_den": [],
-  "vung_cam": [],
-  "doan_dung_duoc": [
-   [
-    0.0,
-    3.0
-   ]
-  ],
-  "dai_doan_dai_nhat": 3.0,
-  "chu_doc_duoc": {},
-  "doi_canh": [],
-  "mo_ta": "disclaimer chữ vàng nền xanh: sản phẩm này không phải là thuốc, không thay thế thuốc chữa bệnh — CLIP KẾT BÀI",
-  "da_dung": 0,
-  "con_lai_sau_khi_anh_sua": 0,
-  "co_ban_doi_chieu": 0,
-  "job": [],
-  "frontlink": [],
-  "tu_khoa_hoc": []
- },
- {
-  "file": "VAI GÁY (1).mp4",
-  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Footage Dilim Quay/VAI GÁY (1).mp4",
-  "dai": 9.74,
-  "w": 1920,
-  "h": 1080,
-  "fps": 29.97,
-  "doc": false,
-  "so_frame_soi": 6,
-  "vung_chu": [],
-  "vung_den": [],
-  "vung_cam": [],
-  "doan_dung_duoc": [
-   [
-    0.0,
-    9.7
-   ]
-  ],
-  "dai_doan_dai_nhat": 9.7,
-  "chu_doc_duoc": {},
-  "doi_canh": [],
-  "mo_ta": "nam trung niên bóp vai, nhăn mặt ngoài vườn — đau mỏi vai gáy",
-  "da_dung": 10,
-  "con_lai_sau_khi_anh_sua": 2,
-  "co_ban_doi_chieu": 4,
-  "job": [
-   "02-2026-08-03-dilim-video-test",
-   "03-2026-06-28-dscf0894",
-   "04-2026-08-04-img1770",
-   "04-2026-08-04-img1771",
-   "04-2026-08-04-img1773",
-   "07-2026-08-03-dji0485"
-  ],
-  "frontlink": [
-   {
-    "job": "02-2026-08-03-dilim-video-test",
-    "idx": 41,
-    "chu": "ĐAU ĐẦU ĐAU MỎI CỔ VAI GÁY",
-    "variant": "warning",
-    "src_start": 1.0
-   },
-   {
-    "job": "03-2026-06-28-dscf0894",
-    "idx": 2,
-    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
-    "variant": "warning",
-    "src_start": 1.0
-   },
-   {
-    "job": "03-2026-06-28-dscf0894",
-    "idx": 45,
-    "chu": "ĐAU MỎI VAI GÁY TÊ BÌ TAY CHÂN",
-    "variant": "warning",
-    "src_start": 3.0
-   },
-   {
-    "job": "04-2026-08-04-img1770",
-    "idx": 2,
-    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
-    "variant": "warning",
-    "src_start": 1.0
-   },
-   {
-    "job": "04-2026-08-04-img1770",
-    "idx": 40,
-    "chu": "ĐAU MỎI VAI GÁY TÊ BÌ TAY CHÂN",
-    "variant": "warning",
-    "src_start": 6.0
-   },
-   {
-    "job": "04-2026-08-04-img1771",
-    "idx": 2,
-    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
-    "variant": "warning",
-    "src_start": 1.0
-   },
-   {
-    "job": "04-2026-08-04-img1773",
-    "idx": 2,
-    "chu": "ĐAU MỎI CỔ VAI GÁY TÊ BÌ TAY CHÂN",
-    "variant": "warning",
-    "src_start": 1.0
-   },
-   {
-    "job": "04-2026-08-04-img1773",
-    "idx": 16,
-    "chu": "NÊN PHỚT LỜ NÓ",
-    "variant": "warning",
-    "src_start": 0
-   },
-   {
-    "job": "07-2026-08-03-dji0485",
-    "idx": 4,
-    "chu": "ĐAU MỎI VAI GÁY TÊ BÌ CHÂN TAY",
-    "variant": "warning",
-    "src_start": 0.5
-   },
-   {
-    "job": "07-2026-08-03-dji0485",
-    "idx": 53,
-    "chu": "ĐAU ĐẦU, CHÓNG MẶT VAI GÁY, TÊ BÌ CHÂN TAY",
-    "variant": "warning",
-    "src_start": 0.5
-   }
-  ],
-  "tu_khoa_hoc": [
-   "au",
-   "bi",
-   "chan",
-   "chong",
-   "gay",
-   "lo",
-   "mat",
-   "moi",
-   "phot",
-   "tay",
-   "te",
-   "vai"
-  ]
- },
- {
   "file": "andu-ongnuoc-chay-01.mp4",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/07 Video minh họa/andu-ongnuoc-chay-01.mp4",
   "dai": 7.8,
@@ -259,67 +110,67 @@
   "file": "anlanh-anh-dau-thanhlong-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-dau-thanhlong-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh dâu thanhlong"
  },
  {
   "file": "anlanh-anh-dauphu-bot-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-dauphu-bot-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh đậu phụ bột"
  },
  {
   "file": "anlanh-anh-gung-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-gung-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh gừng"
  },
  {
   "file": "anlanh-anh-gung-02.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-gung-02.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh gừng"
  },
  {
   "file": "anlanh-anh-loi-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-loi-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh loi"
  },
  {
   "file": "anlanh-anh-nghe-cu-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-nghe-cu-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh nghệ củ"
  },
  {
   "file": "anlanh-anh-oi-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-oi-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh oi"
  },
  {
   "file": "anlanh-anh-saurieng-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-saurieng-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh saurieng"
  },
  {
   "file": "anlanh-anh-tao-le-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-tao-le-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh táo le"
  },
  {
   "file": "anlanh-anh-traicay-dia-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-traicay-dia-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh trái cây đĩa"
  },
  {
   "file": "anlanh-anh-traicay-nhiet-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Ăn uống lành mạnh/anlanh-anh-traicay-nhiet-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ảnh tĩnh trái cây nhiet"
  },
  {
   "file": "anlanh-atiso-rua-01.mp4",
@@ -342,7 +193,7 @@
   "dai_doan_dai_nhat": 30.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm atisô rửa"
  },
  {
   "file": "anlanh-atiso-rua-02.mp4",
@@ -365,7 +216,7 @@
   "dai_doan_dai_nhat": 30.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm atisô rửa"
  },
  {
   "file": "anlanh-ban-tuvan-dinhduong-01.mp4",
@@ -388,7 +239,7 @@
   "dai_doan_dai_nhat": 21.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm bàn tư vấn dinhduong"
  },
  {
   "file": "anlanh-bo-boidoi-01.mp4",
@@ -411,7 +262,7 @@
   "dai_doan_dai_nhat": 11.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm quả bơ bổ đôi"
  },
  {
   "file": "anlanh-bo-boidoi-02.mp4",
@@ -434,7 +285,7 @@
   "dai_doan_dai_nhat": 11.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm quả bơ bổ đôi"
  },
  {
   "file": "anlanh-bo-thailat-doc-01.mp4",
@@ -457,7 +308,7 @@
   "dai_doan_dai_nhat": 10.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm quả bơ thailat khung dọc"
  },
  {
   "file": "anlanh-bongcai-xanh-01.mp4",
@@ -480,7 +331,7 @@
   "dai_doan_dai_nhat": 29.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm bông cải màu xanh"
  },
  {
   "file": "anlanh-botrau-thia-01.mp4",
@@ -503,7 +354,7 @@
   "dai_doan_dai_nhat": 24.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm botrau thìa"
  },
  {
   "file": "anlanh-cai-muaroi-01.mp4",
@@ -526,7 +377,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cải muaroi"
  },
  {
   "file": "anlanh-cantay-bo-01.mp4",
@@ -549,7 +400,7 @@
   "dai_doan_dai_nhat": 11.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cần tây quả bơ"
  },
  {
   "file": "anlanh-cantay-cat-thotgo-01.mp4",
@@ -572,7 +423,7 @@
   "dai_doan_dai_nhat": 18.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cần tây cat thớt gỗ"
  },
  {
   "file": "anlanh-cantay-la-01.mp4",
@@ -595,7 +446,7 @@
   "dai_doan_dai_nhat": 17.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cần tây lá"
  },
  {
   "file": "anlanh-cantay-lacanh-01.mp4",
@@ -618,7 +469,7 @@
   "dai_doan_dai_nhat": 53.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cần tây lacanh"
  },
  {
   "file": "anlanh-cantay-thai-thot-01.mp4",
@@ -641,7 +492,7 @@
   "dai_doan_dai_nhat": 16.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cần tây thái cắt thớt"
  },
  {
   "file": "anlanh-cantay-thaikhuc-01.mp4",
@@ -664,7 +515,7 @@
   "dai_doan_dai_nhat": 14.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cần tây thaikhuc"
  },
  {
   "file": "anlanh-cantay-vuon-01.mp4",
@@ -687,7 +538,7 @@
   "dai_doan_dai_nhat": 18.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cần tây vuon"
  },
  {
   "file": "anlanh-carot-bo-01.mp4",
@@ -710,7 +561,7 @@
   "dai_doan_dai_nhat": 29.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm cà rốt quả bơ"
  },
  {
   "file": "anlanh-chia-binhnuoc-01.mp4",
@@ -733,7 +584,7 @@
   "dai_doan_dai_nhat": 11.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm chia binhnuoc"
  },
  {
   "file": "anlanh-chia-pudding-01.mp4",
@@ -756,7 +607,7 @@
   "dai_doan_dai_nhat": 9.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm chia pudding"
  },
  {
   "file": "anlanh-chien-dau-01.mp4",
@@ -779,7 +630,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm chiên rán dâu"
  },
  {
   "file": "anlanh-chuoi-canh-01.mp4",
@@ -802,7 +653,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm chuối canh"
  },
  {
   "file": "anlanh-chuoi-dong-01.mp4",
@@ -825,7 +676,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm chuối đống nhiều"
  },
  {
   "file": "anlanh-chuoi-ro-01.mp4",
@@ -848,7 +699,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm chuối ro"
  },
  {
   "file": "anlanh-chuoixanh-nai-01.mp4",
@@ -871,7 +722,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm chuoixanh nải"
  },
  {
   "file": "anlanh-dattrong-01.mp4",
@@ -894,7 +745,7 @@
   "dai_doan_dai_nhat": 18.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm dattrong"
  },
  {
   "file": "anlanh-daubap-canh-01.mp4",
@@ -917,7 +768,7 @@
   "dai_doan_dai_nhat": 10.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm đậu bắp canh"
  },
  {
   "file": "anlanh-daubap-caytrong-01.mp4",
@@ -940,7 +791,7 @@
   "dai_doan_dai_nhat": 7.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm đậu bắp caytrong"
  },
  {
   "file": "anlanh-dia-rongbien-01.mp4",
@@ -963,7 +814,7 @@
   "dai_doan_dai_nhat": 18.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm đĩa rong biển"
  },
  {
   "file": "anlanh-gan-tay-01.mp4",
@@ -986,7 +837,7 @@
   "dai_doan_dai_nhat": 26.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm gan tay"
  },
  {
   "file": "anlanh-hanhtay-thai-01.mp4",
@@ -1009,7 +860,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hanhtay thái cắt"
  },
  {
   "file": "anlanh-hatchia-bat-01.mp4",
@@ -1032,7 +883,7 @@
   "dai_doan_dai_nhat": 9.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hạt chia bát"
  },
  {
   "file": "anlanh-hatchia-dong-01.mp4",
@@ -1071,7 +922,7 @@
    "-oge": 7.6
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hạt chia đống nhiều"
  },
  {
   "file": "anlanh-hatchia-nenxam-01.mp4",
@@ -1094,7 +945,7 @@
   "dai_doan_dai_nhat": 17.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hạt chia nenxam"
  },
  {
   "file": "anlanh-hatchia-rot-01.mp4",
@@ -1117,7 +968,7 @@
   "dai_doan_dai_nhat": 15.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hạt chia rót"
  },
  {
   "file": "anlanh-hatchia-thia-01.mp4",
@@ -1140,7 +991,7 @@
   "dai_doan_dai_nhat": 25.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hạt chia thìa"
  },
  {
   "file": "anlanh-hatlanh-01.mp4",
@@ -1163,7 +1014,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hạt lanh"
  },
  {
   "file": "anlanh-khoai-hap-01.mp4",
@@ -1186,7 +1037,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm khoai hấp"
  },
  {
   "file": "anlanh-khoailang-bo-01.mp4",
@@ -1209,7 +1060,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm khoai lang quả bơ"
  },
  {
   "file": "anlanh-khoailang-dia-01.mp4",
@@ -1232,7 +1083,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm khoai lang đĩa"
  },
  {
   "file": "anlanh-khoailang-dong-01.mp4",
@@ -1255,7 +1106,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm khoai lang đống nhiều"
  },
  {
   "file": "anlanh-khoailang-khay-01.mp4",
@@ -1278,7 +1129,7 @@
   "dai_doan_dai_nhat": 30.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm khoai lang khay"
  },
  {
   "file": "anlanh-khoailang-nuong-01.mp4",
@@ -1301,7 +1152,7 @@
   "dai_doan_dai_nhat": 17.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm khoai lang nướng"
  },
  {
   "file": "anlanh-macca-hat-01.mp4",
@@ -1324,7 +1175,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hạt macca hạt"
  },
  {
   "file": "anlanh-macca-hat-02.mp4",
@@ -1347,7 +1198,7 @@
   "dai_doan_dai_nhat": 20.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm hạt macca hạt"
  },
  {
   "file": "anlanh-mam-lanhmanh-01.mp4",
@@ -1370,7 +1221,7 @@
   "dai_doan_dai_nhat": 7.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm mâm lanhmanh"
  },
  {
   "file": "anlanh-mamcay-dat-01.mp4",
@@ -1393,7 +1244,7 @@
   "dai_doan_dai_nhat": 17.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm mamcay đất"
  },
  {
   "file": "anlanh-matcha-danh-01.mp4",
@@ -1416,7 +1267,7 @@
   "dai_doan_dai_nhat": 9.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm matcha đánh"
  },
  {
   "file": "anlanh-mit-la-01.mp4",
@@ -1439,7 +1290,7 @@
   "dai_doan_dai_nhat": 29.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm mit lá"
  },
  {
   "file": "anlanh-nghe-bot-vien-01.mp4",
@@ -1462,7 +1313,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nghệ bột viên thuốc"
  },
  {
   "file": "anlanh-nhan-sot-01.mp4",
@@ -1485,7 +1336,7 @@
   "dai_doan_dai_nhat": 24.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nhân sốt"
  },
  {
   "file": "anlanh-nu-ancantay-01.mp4",
@@ -1508,7 +1359,7 @@
   "dai_doan_dai_nhat": 7.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ ancantay"
  },
  {
   "file": "anlanh-nu-annhe-ghe-01.mp4",
@@ -1531,7 +1382,7 @@
   "dai_doan_dai_nhat": 21.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ annhe ghế"
  },
  {
   "file": "anlanh-nu-ansalad-01.mp4",
@@ -1554,7 +1405,7 @@
   "dai_doan_dai_nhat": 9.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ ăn salad"
  },
  {
   "file": "anlanh-nu-antao-01.mp4",
@@ -1577,7 +1428,7 @@
   "dai_doan_dai_nhat": 19.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ ăn táo"
  },
  {
   "file": "anlanh-nu-antao-adong-01.mp4",
@@ -1600,7 +1451,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ ăn táo châu Á"
  },
  {
   "file": "anlanh-nu-antao-xanh-01.mp4",
@@ -1623,7 +1474,7 @@
   "dai_doan_dai_nhat": 10.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ ăn táo màu xanh"
  },
  {
   "file": "anlanh-nu-camtao-01.mp4",
@@ -1646,7 +1497,7 @@
   "dai_doan_dai_nhat": 18.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ camtao"
  },
  {
   "file": "anlanh-nu-nuocep-cantay-01.mp4",
@@ -1669,7 +1520,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ nước ép cần tây"
  },
  {
   "file": "anlanh-nu-rotnuoc-01.mp4",
@@ -1692,7 +1543,7 @@
   "dai_doan_dai_nhat": 22.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ rót nước"
  },
  {
   "file": "anlanh-nu-rotnuoc-02.mp4",
@@ -1715,7 +1566,7 @@
   "dai_doan_dai_nhat": 22.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ rót nước"
  },
  {
   "file": "anlanh-nu-uongchai-01.mp4",
@@ -1738,7 +1589,7 @@
   "dai_doan_dai_nhat": 18.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ uongchai"
  },
  {
   "file": "anlanh-nu-uongly-01.mp4",
@@ -1761,7 +1612,7 @@
   "dai_doan_dai_nhat": 10.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ uongly"
  },
  {
   "file": "anlanh-nu-uongnuoc-adong-01.mp4",
@@ -1784,7 +1635,7 @@
   "dai_doan_dai_nhat": 10.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ uống nước châu Á"
  },
  {
   "file": "anlanh-nu-uongnuoc-adong-02.mp4",
@@ -1807,7 +1658,7 @@
   "dai_doan_dai_nhat": 10.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ uống nước châu Á"
  },
  {
   "file": "anlanh-nu-uongnuoc-bep-01.mp4",
@@ -1830,7 +1681,7 @@
   "dai_doan_dai_nhat": 11.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ uống nước bếp"
  },
  {
   "file": "anlanh-nu-uongnuoc-canh-01.mp4",
@@ -1853,7 +1704,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nữ phụ nữ uống nước canh"
  },
  {
   "file": "anlanh-nuocchanh-ly-01.mp4",
@@ -1876,7 +1727,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nuocchanh ly cốc"
  },
  {
   "file": "anlanh-nuocep-ly-01.mp4",
@@ -1899,7 +1750,7 @@
   "dai_doan_dai_nhat": 6.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm nước ép ly cốc"
  },
  {
   "file": "anlanh-ongcu-andau-01.mp4",
@@ -1922,7 +1773,7 @@
   "dai_doan_dai_nhat": 27.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ông cụ người lớn tuổi andau"
  },
  {
   "file": "anlanh-ongcu-uongnuoc-01.mp4",
@@ -1945,7 +1796,7 @@
   "dai_doan_dai_nhat": 10.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ông cụ người lớn tuổi uống nước"
  },
  {
   "file": "anlanh-rau-quaycho-01.mp4",
@@ -1968,7 +1819,7 @@
   "dai_doan_dai_nhat": 25.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm rau quaycho"
  },
  {
   "file": "anlanh-raucu-cho-01.mp4",
@@ -1991,7 +1842,7 @@
   "dai_doan_dai_nhat": 11.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm rau củ chợ"
  },
  {
   "file": "anlanh-raucu-nenxanh-01.mp4",
@@ -2014,7 +1865,7 @@
   "dai_doan_dai_nhat": 16.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm rau củ nền xanh"
  },
  {
   "file": "anlanh-raumui-nenden-01.mp4",
@@ -2037,7 +1888,7 @@
   "dai_doan_dai_nhat": 54.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm raumui nền đen"
  },
  {
   "file": "anlanh-rotnuoc-camchanh-01.mp4",
@@ -2060,7 +1911,7 @@
   "dai_doan_dai_nhat": 14.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm rót nước camchanh"
  },
  {
   "file": "anlanh-ruong-cai-01.mp4",
@@ -2083,7 +1934,7 @@
   "dai_doan_dai_nhat": 21.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm ruong cải"
  },
  {
   "file": "anlanh-tao-canh-01.mp4",
@@ -2106,7 +1957,7 @@
   "dai_doan_dai_nhat": 30.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm táo canh"
  },
  {
   "file": "anlanh-tao-dong-01.mp4",
@@ -2129,7 +1980,7 @@
   "dai_doan_dai_nhat": 7.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm táo đống nhiều"
  },
  {
   "file": "anlanh-tao-nendo-01.mp4",
@@ -2152,7 +2003,7 @@
   "dai_doan_dai_nhat": 33.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm táo nền đỏ"
  },
  {
   "file": "anlanh-thit-khay-01.mp4",
@@ -2175,7 +2026,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm thịt khay"
  },
  {
   "file": "anlanh-thit-song-01.mp4",
@@ -2198,7 +2049,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm thịt song"
  },
  {
   "file": "anlanh-toi-bam-01.mp4",
@@ -2221,7 +2072,7 @@
   "dai_doan_dai_nhat": 9.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm tối băm"
  },
  {
   "file": "anlanh-uongnuoc-canh-01.mp4",
@@ -2244,7 +2095,7 @@
   "dai_doan_dai_nhat": 19.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm uống nước canh"
  },
  {
   "file": "anlanh-viennang-vang-01.mp4",
@@ -2267,7 +2118,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm viên nang màu vàng"
  },
  {
   "file": "anlanh-xaothit-chao-01.mp4",
@@ -2290,7 +2141,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm xaothit chảo"
  },
  {
   "file": "anlanh-yenmach-bat-01.mp4",
@@ -2313,7 +2164,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "ăn uống lành mạnh thực phẩm yến mạch bát"
  },
  {
   "file": "biaruou-bacu-uong-01.mp4",
@@ -2336,7 +2187,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu bà cụ người lớn tuổi uống"
  },
  {
   "file": "biaruou-ban-nhau-nhom-01.mp4",
@@ -2359,7 +2210,7 @@
   "dai_doan_dai_nhat": 7.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu bàn nhậu nhóm nhiều người"
  },
  {
   "file": "biaruou-cungchai-2nam-01.mp4",
@@ -2382,7 +2233,7 @@
   "dai_doan_dai_nhat": 4.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu cungchai hai nam"
  },
  {
   "file": "biaruou-cungcoc-damdong-01.mp4",
@@ -2405,7 +2256,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu cụng cốc đám đông"
  },
  {
   "file": "biaruou-cungcoc-nhieu-01.mp4",
@@ -2428,7 +2279,7 @@
   "dai_doan_dai_nhat": 9.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu cụng cốc nhieu"
  },
  {
   "file": "biaruou-cungly-2nam-quan-01.mp4",
@@ -2451,7 +2302,7 @@
   "dai_doan_dai_nhat": 7.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu cụng ly hai nam quán"
  },
  {
   "file": "biaruou-cungly-nhom-01.mp4",
@@ -2474,7 +2325,7 @@
   "dai_doan_dai_nhat": 2.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu cụng ly nhóm nhiều người"
  },
  {
   "file": "biaruou-cungly-nhom-mu-01.mp4",
@@ -2497,7 +2348,7 @@
   "dai_doan_dai_nhat": 8.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu cụng ly nhóm nhiều người mu"
  },
  {
   "file": "biaruou-hauqua-phongmo-01.mp4",
@@ -2520,7 +2371,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu hậu quả phongmo"
  },
  {
   "file": "biaruou-luamach-dong-01.mp4",
@@ -2543,7 +2394,7 @@
   "dai_doan_dai_nhat": 6.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu luamach đống nhiều"
  },
  {
   "file": "biaruou-ly-nenden-01.mp4",
@@ -2566,7 +2417,7 @@
   "dai_doan_dai_nhat": 20.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu ly cốc nền đen"
  },
  {
   "file": "biaruou-ly-suibot-01.mp4",
@@ -2589,7 +2440,7 @@
   "dai_doan_dai_nhat": 32.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu ly cốc suibot"
  },
  {
   "file": "biaruou-ly-tren-ban-01.mp4",
@@ -2612,7 +2463,7 @@
   "dai_doan_dai_nhat": 10.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu ly cốc trên bàn"
  },
  {
   "file": "biaruou-nam-camly-01.mp4",
@@ -2635,7 +2486,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu nam đàn ông camly"
  },
  {
   "file": "biaruou-nam-cuimat-01.mp4",
@@ -2658,7 +2509,7 @@
   "dai_doan_dai_nhat": 17.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu nam đàn ông cuimat"
  },
  {
   "file": "biaruou-nu-adong-uong-01.mp4",
@@ -2681,7 +2532,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu nữ phụ nữ châu Á uống"
  },
  {
   "file": "biaruou-ongcu-uong-buon-01.mp4",
@@ -2704,7 +2555,7 @@
   "dai_doan_dai_nhat": 27.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu ông cụ người lớn tuổi uống buồn"
  },
  {
   "file": "biaruou-rot-ly-01.mp4",
@@ -2727,7 +2578,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu rót ly cốc"
  },
  {
   "file": "biaruou-rot-nhintren-01.mp4",
@@ -2750,7 +2601,7 @@
   "dai_doan_dai_nhat": 16.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu rót nhìn từ trên"
  },
  {
   "file": "biaruou-rot-nhintren-02.mp4",
@@ -2773,7 +2624,7 @@
   "dai_doan_dai_nhat": 16.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu rót nhìn từ trên"
  },
  {
   "file": "biaruou-tiec-ngoaitroi-01.mp4",
@@ -2796,7 +2647,7 @@
   "dai_doan_dai_nhat": 9.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "bia rượu nhậu tiệc ngoài trời"
  },
  {
   "file": "chongmat-bep-nu-01.mp4",
@@ -3445,7 +3296,7 @@
   "file": "cucmau-anh-khoi-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/cucmau-anh-khoi-01.jpg",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "cục máu đông ảnh tĩnh khối",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -4054,7 +3905,7 @@
   "file": "daudau-bacu-tachnen-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-bacu-tachnen-01.png",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "đau đầu bà cụ người lớn tuổi tách nền",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -4648,19 +4499,7 @@
   "file": "daudau-vungdau-do-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/01 Đau đầu - Chóng mặt - Mệt mõi - Bệnh/daudau-vungdau-do-01.jpg",
   "anh": true,
-  "mo_ta": {},
-  "da_dung": 0,
-  "con_lai_sau_khi_anh_sua": 0,
-  "co_ban_doi_chieu": 0,
-  "job": [],
-  "frontlink": [],
-  "tu_khoa_hoc": []
- },
- {
-  "file": "dilim logo .png",
-  "path": "/Volumes/T7 for Mac/02. Dilim Footage/05 Finish part/dilim logo .png",
-  "anh": true,
-  "mo_ta": {},
+  "mo_ta": "đau đầu vungdau màu đỏ",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -4672,7 +4511,7 @@
   "file": "dilim-logo-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/05 Finish part/dilim-logo-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "dilim logo"
  },
  {
   "file": "dilimquay-bacsi-duahop-natto-01.mp4",
@@ -4695,7 +4534,7 @@
   "dai_doan_dai_nhat": 12.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay bác sĩ đưa hộp Nano Nattokinase"
  },
  {
   "file": "dilimquay-bacsi-kham-01.mp4",
@@ -4718,7 +4557,7 @@
   "dai_doan_dai_nhat": 82.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay bác sĩ khám"
  },
  {
   "file": "dilimquay-bacsi-tuvan-dha-01.mp4",
@@ -4741,7 +4580,7 @@
   "dai_doan_dai_nhat": 7.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay bác sĩ tư vấn DHA"
  },
  {
   "file": "dilimquay-bacsi-tuvan-natto-01.mp4",
@@ -4764,7 +4603,7 @@
   "dai_doan_dai_nhat": 18.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay bác sĩ tư vấn Nano Nattokinase"
  },
  {
   "file": "dilimquay-bacu-camhop-natto-giuong-01.mp4",
@@ -4787,7 +4626,7 @@
   "dai_doan_dai_nhat": 14.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay bà cụ người lớn tuổi cầm hộp Nano Nattokinase giường"
  },
  {
   "file": "dilimquay-hop-nano-sun-tay-lay-01.mov",
@@ -4823,13 +4662,13 @@
    "wa Yeaxc": 13.6
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay hộp sản phẩm Nano sụn tay lấy"
  },
  {
   "file": "dilimquay-hop-nano-sun-thotgo-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Footage Dilim Quay/dilimquay-hop-nano-sun-thotgo-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay hộp sản phẩm Nano sụn thớt gỗ"
  },
  {
   "file": "dilimquay-meninulin-sofa-01.mp4",
@@ -4852,7 +4691,7 @@
   "dai_doan_dai_nhat": 13.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay men Inulin ghế sofa"
  },
  {
   "file": "dilimquay-nam-cam-natto-ghe-01.mp4",
@@ -4875,7 +4714,7 @@
   "dai_doan_dai_nhat": 8.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay nam đàn ông cam Nano Nattokinase ghế"
  },
  {
   "file": "dilimquay-nam-cam-natto-hanhphuc-01.mp4",
@@ -4898,7 +4737,7 @@
   "dai_doan_dai_nhat": 14.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay nam đàn ông cam Nano Nattokinase hạnh phúc"
  },
  {
   "file": "dilimquay-nam-caycanh-01.mp4",
@@ -4921,7 +4760,7 @@
   "dai_doan_dai_nhat": 19.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay nam đàn ông caycanh"
  },
  {
   "file": "dilimquay-nam-chitay-ghe-01.mp4",
@@ -4944,7 +4783,7 @@
   "dai_doan_dai_nhat": 9.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay nam đàn ông chỉ tay ghế"
  },
  {
   "file": "dilimquay-nam-chitay-ghe-02.mp4",
@@ -4967,7 +4806,7 @@
   "dai_doan_dai_nhat": 9.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay nam đàn ông chỉ tay ghế"
  },
  {
   "file": "dilimquay-nam-dau-vai-ghe-01.mp4",
@@ -4990,7 +4829,7 @@
   "dai_doan_dai_nhat": 12.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay nam đàn ông dâu vai ghế"
  },
  {
   "file": "dilimquay-nam-dot-quy-01.mp4",
@@ -5013,7 +4852,7 @@
   "dai_doan_dai_nhat": 7.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay nam đàn ông dot quy"
  },
  {
   "file": "dilimquay-nam-om-tim-ngoaitroi-01.mp4",
@@ -5036,7 +4875,7 @@
   "dai_doan_dai_nhat": 12.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay nam đàn ông ôm tim ngoài trời"
  },
  {
   "file": "dilimquay-nano-sun-01.mp4",
@@ -5071,7 +4910,7 @@
    "PHENTOK": 1.5
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay Nano sụn"
  },
  {
   "file": "dilimquay-nano-sun-ban-01.mov",
@@ -5094,7 +4933,7 @@
   "dai_doan_dai_nhat": 46.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay Nano sụn bàn"
  },
  {
   "file": "dilimquay-nano-sun-ban-02.mov",
@@ -5117,7 +4956,7 @@
   "dai_doan_dai_nhat": 17.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay Nano sụn bàn"
  },
  {
   "file": "dilimquay-ong-camhop-meninulin-sofa-01.mp4",
@@ -5140,7 +4979,7 @@
   "dai_doan_dai_nhat": 17.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay ông cầm hộp men Inulin ghế sofa"
  },
  {
   "file": "dilimquay-ong-camhop-natto-ngoaitroi-01.mp4",
@@ -5163,7 +5002,7 @@
   "dai_doan_dai_nhat": 15.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay ông cầm hộp Nano Nattokinase ngoài trời"
  },
  {
   "file": "dilimquay-ong-dochop-natto-01.mp4",
@@ -5186,7 +5025,7 @@
   "dai_doan_dai_nhat": 10.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay ông đọc hộp Nano Nattokinase"
  },
  {
   "file": "dilimquay-ong-noi-ngoaitroi-chay-theduc-01.mp4",
@@ -5209,7 +5048,7 @@
   "dai_doan_dai_nhat": 10.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay ông nồi ngoài trời chạy thể dục thể thao vận động"
  },
  {
   "file": "dilimquay-ong-omco-sofa-01.mp4",
@@ -5232,7 +5071,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay ông ôm cổ ghế sofa"
  },
  {
   "file": "dilimquay-ongba-ban-2hop-natto-01.mp4",
@@ -5285,7 +5124,7 @@
    "BEMIUN | TUITA": 15.3
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay ông bà người lớn tuổi bàn hai hộp Nano Nattokinase"
  },
  {
   "file": "dilimquay-ongba-ban-2hop-natto-02.mp4",
@@ -5338,7 +5177,7 @@
    "BEMIUN | TUITA": 15.3
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay ông bà người lớn tuổi bàn hai hộp Nano Nattokinase"
  },
  {
   "file": "dilimquay-ongba-xemhop-natto-01.mp4",
@@ -5361,7 +5200,7 @@
   "dai_doan_dai_nhat": 22.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay ông bà người lớn tuổi xem hộp Nano Nattokinase"
  },
  {
   "file": "dilimquay-vaigay-ong-01.mp4",
@@ -5384,7 +5223,7 @@
   "dai_doan_dai_nhat": 9.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "DiLiM tự quay vaigay ông"
  },
  {
   "file": "disclaimer-khongphaithuoc-01.mp4",
@@ -5407,7 +5246,7 @@
   "dai_doan_dai_nhat": 3.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "disclaimer khongphaithuoc"
  },
  {
   "file": "dna-chuoi-xoan-01.mp4",
@@ -5459,7 +5298,7 @@
   "dai_doan_dai_nhat": 22.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn 2nguoi ăn sáng"
  },
  {
   "file": "doan-2nu-antrua-vp-01.mp4",
@@ -5482,7 +5321,7 @@
   "dai_doan_dai_nhat": 20.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn hai nữ ăn trưa vp"
  },
  {
   "file": "doan-2nu-pizza-01.mp4",
@@ -5505,7 +5344,7 @@
   "dai_doan_dai_nhat": 9.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn hai nữ pizza"
  },
  {
   "file": "doan-ban-nhieutay-01.mp4",
@@ -5528,7 +5367,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bàn nhieutay"
  },
  {
   "file": "doan-ban-sang-gung-01.mp4",
@@ -5551,7 +5390,7 @@
   "dai_doan_dai_nhat": 17.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bàn sáng gừng"
  },
  {
   "file": "doan-ban-tiec-day-01.mp4",
@@ -5574,7 +5413,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bàn tiệc dày"
  },
  {
   "file": "doan-ban-tiec-nhom-01.mp4",
@@ -5597,7 +5436,7 @@
   "dai_doan_dai_nhat": 7.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bàn tiệc nhóm nhiều người"
  },
  {
   "file": "doan-banh-caphe-ban-01.mp4",
@@ -5620,7 +5459,7 @@
   "dai_doan_dai_nhat": 33.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bánh cà phê bàn"
  },
  {
   "file": "doan-banhmi-hat-01.mp4",
@@ -5643,7 +5482,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bánh mì hạt"
  },
  {
   "file": "doan-bat-comtrang-01.mp4",
@@ -5666,7 +5505,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bát cơm trắng"
  },
  {
   "file": "doan-bat-gaolut-gap-01.mp4",
@@ -5689,7 +5528,7 @@
   "dai_doan_dai_nhat": 29.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bát gạo lứt gắp"
  },
  {
   "file": "doan-be-an-khongngon-01.mp4",
@@ -5712,7 +5551,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn em bé trẻ con ăn khongngon"
  },
  {
   "file": "doan-be-ancom-01.mp4",
@@ -5735,7 +5574,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn em bé trẻ con ăn cơm"
  },
  {
   "file": "doan-be-ancom-ngon-01.mp4",
@@ -5758,7 +5597,7 @@
   "dai_doan_dai_nhat": 12.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn em bé trẻ con ăn cơm ngon"
  },
  {
   "file": "doan-be-banhmi-01.mp4",
@@ -5781,7 +5620,7 @@
   "dai_doan_dai_nhat": 6.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn em bé trẻ con bánh mì"
  },
  {
   "file": "doan-be-khong-anrau-01.mp4",
@@ -5804,7 +5643,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn em bé trẻ con khong ăn rau"
  },
  {
   "file": "doan-be-trai-an-01.mp4",
@@ -5827,13 +5666,13 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn em bé trẻ con trai ăn"
  },
  {
   "file": "doan-bo-boidoi-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-bo-boidoi-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn quả bơ bổ đôi"
  },
  {
   "file": "doan-boc-banh-01.mp4",
@@ -5856,13 +5695,13 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bóc bánh"
  },
  {
   "file": "doan-bongcai-com-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-bongcai-com-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bông cải cơm"
  },
  {
   "file": "doan-buaan-nhat-01.mp4",
@@ -5885,7 +5724,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bữa ăn nhat"
  },
  {
   "file": "doan-buacom-giadinh-01.mp4",
@@ -5908,7 +5747,7 @@
   "dai_doan_dai_nhat": 43.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bữa cơm gia đình"
  },
  {
   "file": "doan-ca-hap-dia-01.mp4",
@@ -5931,7 +5770,7 @@
   "dai_doan_dai_nhat": 20.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cá hấp đĩa"
  },
  {
   "file": "doan-ca-nuong-chao-01.mp4",
@@ -5954,7 +5793,7 @@
   "dai_doan_dai_nhat": 27.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cá nướng chảo"
  },
  {
   "file": "doan-cacloai-dau-01.mp4",
@@ -5977,7 +5816,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cacloai dâu"
  },
  {
   "file": "doan-cahoi-apchao-01.mp4",
@@ -6000,7 +5839,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cá hồi apchao"
  },
  {
   "file": "doan-cahoi-dalanh-01.mp4",
@@ -6023,7 +5862,7 @@
   "dai_doan_dai_nhat": 22.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cá hồi dalanh"
  },
  {
   "file": "doan-cahoi-lat-01.mp4",
@@ -6046,7 +5885,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cá hồi lát"
  },
  {
   "file": "doan-cahoi-mieng-01.mp4",
@@ -6069,7 +5908,7 @@
   "dai_doan_dai_nhat": 9.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cá hồi miếng"
  },
  {
   "file": "doan-cahoi-nuong-lua-01.mp4",
@@ -6092,7 +5931,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cá hồi nướng lua"
  },
  {
   "file": "doan-cangu-mieng-01.mp4",
@@ -6115,7 +5954,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cá ngừ miếng"
  },
  {
   "file": "doan-canh-gung-bat-01.mp4",
@@ -6138,7 +5977,7 @@
   "dai_doan_dai_nhat": 11.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn canh gừng bát"
  },
  {
   "file": "doan-canh-miso-01.mp4",
@@ -6161,19 +6000,19 @@
   "dai_doan_dai_nhat": 13.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn canh miso"
  },
  {
   "file": "doan-cantay-bo-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-cantay-bo-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cần tây quả bơ"
  },
  {
   "file": "doan-caphe-nenden-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-caphe-nenden-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cà phê nền đen"
  },
  {
   "file": "doan-caphe-que-01.mp4",
@@ -6196,7 +6035,7 @@
   "dai_doan_dai_nhat": 17.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cà phê que"
  },
  {
   "file": "doan-caphe-tach-hat-01.mp4",
@@ -6219,7 +6058,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cà phê tách hạt"
  },
  {
   "file": "doan-caphe-tach-hat-02.mp4",
@@ -6242,7 +6081,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cà phê tách hạt"
  },
  {
   "file": "doan-chien-banh-01.mp4",
@@ -6265,7 +6104,7 @@
   "dai_doan_dai_nhat": 8.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn chiên rán bánh"
  },
  {
   "file": "doan-chien-dau-sui-01.mp4",
@@ -6288,7 +6127,7 @@
   "dai_doan_dai_nhat": 13.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn chiên rán dâu sui"
  },
  {
   "file": "doan-chien-ga-dau-01.mp4",
@@ -6311,7 +6150,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn chiên rán gà dâu"
  },
  {
   "file": "doan-chuoi-nai-01.mp4",
@@ -6334,7 +6173,7 @@
   "dai_doan_dai_nhat": 14.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn chuối nải"
  },
  {
   "file": "doan-chuoi-quay-01.mp4",
@@ -6357,13 +6196,13 @@
   "dai_doan_dai_nhat": 7.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn chuối quầy"
  },
  {
   "file": "doan-chuoi-thot-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-chuoi-thot-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn chuối thớt"
  },
  {
   "file": "doan-comnam-onigiri-01.mp4",
@@ -6386,7 +6225,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn comnam onigiri"
  },
  {
   "file": "doan-comrang-dia-01.mp4",
@@ -6409,7 +6248,7 @@
   "dai_doan_dai_nhat": 16.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn comrang đĩa"
  },
  {
   "file": "doan-comtrang-dia-01.mp4",
@@ -6432,7 +6271,7 @@
   "dai_doan_dai_nhat": 30.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn cơm trắng đĩa"
  },
  {
   "file": "doan-da-bamtim-01.mp4",
@@ -6455,7 +6294,7 @@
   "dai_doan_dai_nhat": 12.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn da bầm tím"
  },
  {
   "file": "doan-dancabien-01.mp4",
@@ -6478,7 +6317,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dancabien"
  },
  {
   "file": "doan-dat-tach-01.mp4",
@@ -6501,7 +6340,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đất tách"
  },
  {
   "file": "doan-dau-thia-01.mp4",
@@ -6524,7 +6363,7 @@
   "dai_doan_dai_nhat": 11.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dâu thìa"
  },
  {
   "file": "doan-dau-vietquat-01.mp4",
@@ -6547,7 +6386,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dâu việt quất"
  },
  {
   "file": "doan-dauan-chai-01.mp4",
@@ -6570,7 +6409,7 @@
   "dai_doan_dai_nhat": 12.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dầu ăn chai"
  },
  {
   "file": "doan-dauca-hu-01.mp4",
@@ -6593,7 +6432,7 @@
   "dai_doan_dai_nhat": 22.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dầu cá omega hũ"
  },
  {
   "file": "doan-dauca-longban-tay-01.mp4",
@@ -6616,13 +6455,13 @@
   "dai_doan_dai_nhat": 9.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dầu cá omega longban tay"
  },
  {
   "file": "doan-dauca-nenden-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-dauca-nenden-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dầu cá omega nền đen"
  },
  {
   "file": "doan-dauca-nenvang-01.mp4",
@@ -6645,13 +6484,13 @@
   "dai_doan_dai_nhat": 11.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dầu cá omega nenvang"
  },
  {
   "file": "doan-dauca-thiago-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-dauca-thiago-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dầu cá omega thiago"
  },
  {
   "file": "doan-dauca-vien-canh-01.mp4",
@@ -6674,7 +6513,7 @@
   "dai_doan_dai_nhat": 23.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn dầu cá omega viên thuốc canh"
  },
  {
   "file": "doan-daunanh-natto-01.mp4",
@@ -6697,7 +6536,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đậu nành Nano Nattokinase"
  },
  {
   "file": "doan-dauphu-mieng-01.mp4",
@@ -6720,7 +6559,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đậu phụ miếng"
  },
  {
   "file": "doan-daychuyen-vien-01.mp4",
@@ -6743,7 +6582,7 @@
   "dai_doan_dai_nhat": 16.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn daychuyen viên thuốc"
  },
  {
   "file": "doan-dia-banh-nho-01.mp4",
@@ -6766,7 +6605,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đĩa bánh nhỏ"
  },
  {
   "file": "doan-dia-ca-nhahang-01.mp4",
@@ -6789,7 +6628,7 @@
   "dai_doan_dai_nhat": 10.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đĩa cá nhahang"
  },
  {
   "file": "doan-dia-com-thitkho-01.mp4",
@@ -6812,7 +6651,7 @@
   "dai_doan_dai_nhat": 8.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đĩa cơm thitkho"
  },
  {
   "file": "doan-dia-comtrang-01.mp4",
@@ -6835,7 +6674,7 @@
   "dai_doan_dai_nhat": 19.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đĩa cơm trắng"
  },
  {
   "file": "doan-dia-raucu-banh-01.mp4",
@@ -6858,7 +6697,7 @@
   "dai_doan_dai_nhat": 5.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đĩa rau củ bánh"
  },
  {
   "file": "doan-dia-rongbien-trungca-01.mp4",
@@ -6881,7 +6720,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đĩa rong biển trungca"
  },
  {
   "file": "doan-dia-salad-ca-01.mp4",
@@ -6906,7 +6745,7 @@
   "doi_canh": [
    57.0
   ],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đĩa salad cá"
  },
  {
   "file": "doan-dohoa-caffeine-01.mp4",
@@ -6947,7 +6786,7 @@
    "Boiling Point 178 g": 10.5
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đồ hoạ caffeine"
  },
  {
   "file": "doan-doi-an-banhmi-01.mp4",
@@ -6970,7 +6809,7 @@
   "dai_doan_dai_nhat": 13.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đôi hai người ăn bánh mì"
  },
  {
   "file": "doan-doi-an-banhmi-02.mp4",
@@ -6993,7 +6832,7 @@
   "dai_doan_dai_nhat": 13.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đôi hai người ăn bánh mì"
  },
  {
   "file": "doan-doi-che-01.mp4",
@@ -7016,7 +6855,7 @@
   "dai_doan_dai_nhat": 17.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đôi hai người che"
  },
  {
   "file": "doan-donut-01.mp4",
@@ -7039,7 +6878,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn bánh donut"
  },
  {
   "file": "doan-duong-khay-01.mp4",
@@ -7062,7 +6901,7 @@
   "dai_doan_dai_nhat": 17.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đường khay"
  },
  {
   "file": "doan-duong-khoi-01.mp4",
@@ -7085,7 +6924,7 @@
   "dai_doan_dai_nhat": 12.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn đường khối"
  },
  {
   "file": "doan-ga-luoc-noi-01.mp4",
@@ -7108,7 +6947,7 @@
   "dai_doan_dai_nhat": 17.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gà lược nồi"
  },
  {
   "file": "doan-gao-trang-01.mp4",
@@ -7131,7 +6970,7 @@
   "dai_doan_dai_nhat": 24.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gạo màu trắng"
  },
  {
   "file": "doan-gaolut-canh-01.mp4",
@@ -7154,7 +6993,7 @@
   "dai_doan_dai_nhat": 14.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gạo lứt canh"
  },
  {
   "file": "doan-gaolut-do-01.mp4",
@@ -7177,7 +7016,7 @@
   "dai_doan_dai_nhat": 16.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gạo lứt màu đỏ"
  },
  {
   "file": "doan-gaolut-do-02.mp4",
@@ -7200,7 +7039,7 @@
   "dai_doan_dai_nhat": 16.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gạo lứt màu đỏ"
  },
  {
   "file": "doan-garan-vot-01.mp4",
@@ -7223,7 +7062,7 @@
   "dai_doan_dai_nhat": 6.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn garan vot"
  },
  {
   "file": "doan-gung-bam-01.mp4",
@@ -7246,7 +7085,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gừng băm"
  },
  {
   "file": "doan-gung-dao-thot-01.mp4",
@@ -7269,7 +7108,7 @@
   "dai_doan_dai_nhat": 30.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gừng dao thớt"
  },
  {
   "file": "doan-gung-dong-01.mp4",
@@ -7292,7 +7131,7 @@
   "dai_doan_dai_nhat": 10.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gừng đống nhiều"
  },
  {
   "file": "doan-gung-lat-01.mp4",
@@ -7315,7 +7154,7 @@
   "dai_doan_dai_nhat": 14.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gừng lát"
  },
  {
   "file": "doan-gung-tachtra-01.mp4",
@@ -7338,7 +7177,7 @@
   "dai_doan_dai_nhat": 8.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gừng tachtra"
  },
  {
   "file": "doan-gung-thai-01.mp4",
@@ -7361,7 +7200,7 @@
   "dai_doan_dai_nhat": 13.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn gừng thái cắt"
  },
  {
   "file": "doan-hatlanh-thia-01.mp4",
@@ -7384,7 +7223,7 @@
   "dai_doan_dai_nhat": 12.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn hạt lanh thìa"
  },
  {
   "file": "doan-hop-comtrang-01.mp4",
@@ -7407,7 +7246,7 @@
   "dai_doan_dai_nhat": 21.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn hộp sản phẩm cơm trắng"
  },
  {
   "file": "doan-hopcom-binhdan-01.mp4",
@@ -7430,7 +7269,7 @@
   "dai_doan_dai_nhat": 19.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn hộp cơm binhdan"
  },
  {
   "file": "doan-hopcom-doan-01.mp4",
@@ -7453,7 +7292,7 @@
   "dai_doan_dai_nhat": 15.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn hộp cơm đồ ăn món ăn"
  },
  {
   "file": "doan-khay-banhngot-01.mp4",
@@ -7476,7 +7315,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn khay bánh ngọt"
  },
  {
   "file": "doan-khay-phomai-01.mp4",
@@ -7499,7 +7338,7 @@
   "dai_doan_dai_nhat": 10.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn khay phô mai"
  },
  {
   "file": "doan-khay-traicay-01.mp4",
@@ -7522,13 +7361,13 @@
   "dai_doan_dai_nhat": 7.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn khay trái cây"
  },
  {
   "file": "doan-khoailang-bo-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-khoailang-bo-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn khoai lang quả bơ"
  },
  {
   "file": "doan-khoaitay-chien-01.mp4",
@@ -7551,13 +7390,13 @@
   "dai_doan_dai_nhat": 29.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn khoaitay chiên rán"
  },
  {
   "file": "doan-kimchi-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-kimchi-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn kim chi"
  },
  {
   "file": "doan-lapxuong-01.mp4",
@@ -7580,7 +7419,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn lạp xưởng"
  },
  {
   "file": "doan-lau-cay-01.mp4",
@@ -7603,7 +7442,7 @@
   "dai_doan_dai_nhat": 26.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn lẩu cay"
  },
  {
   "file": "doan-ly-sua-01.mp4",
@@ -7626,7 +7465,7 @@
   "dai_doan_dai_nhat": 17.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn ly cốc sữa"
  },
  {
   "file": "doan-mam-nhieumon-01.mp4",
@@ -7649,7 +7488,7 @@
   "dai_doan_dai_nhat": 24.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn mâm nhiều món"
  },
  {
   "file": "doan-mam-traicay-01.mp4",
@@ -7672,13 +7511,13 @@
   "dai_doan_dai_nhat": 20.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn mâm trái cây"
  },
  {
   "file": "doan-mangvang-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-mangvang-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn màng vàng"
  },
  {
   "file": "doan-matcha-danh-01.mp4",
@@ -7701,7 +7540,7 @@
   "dai_doan_dai_nhat": 22.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn matcha đánh"
  },
  {
   "file": "doan-matong-gung-chanh-01.mp4",
@@ -7724,7 +7563,7 @@
   "dai_doan_dai_nhat": 25.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn mật ong gừng chanh"
  },
  {
   "file": "doan-may-espresso-01.mp4",
@@ -7749,7 +7588,7 @@
   "doi_canh": [
    19.87
   ],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn máy espresso"
  },
  {
   "file": "doan-migoi-vat-01.mp4",
@@ -7772,7 +7611,7 @@
   "dai_doan_dai_nhat": 17.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn mì gói vat"
  },
  {
   "file": "doan-monxao-chao-01.mp4",
@@ -7795,7 +7634,7 @@
   "dai_doan_dai_nhat": 31.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn monxao chảo"
  },
  {
   "file": "doan-nam-an-canh-01.mp4",
@@ -7818,7 +7657,7 @@
   "dai_doan_dai_nhat": 19.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông ăn canh"
  },
  {
   "file": "doan-nam-an-dem-01.mp4",
@@ -7841,7 +7680,7 @@
   "dai_doan_dai_nhat": 18.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông ăn ban đêm"
  },
  {
   "file": "doan-nam-an-dem-laptop-01.mp4",
@@ -7864,7 +7703,7 @@
   "dai_doan_dai_nhat": 18.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông ăn ban đêm máy tính laptop"
  },
  {
   "file": "doan-nam-an-quandem-01.mp4",
@@ -7887,7 +7726,7 @@
   "dai_doan_dai_nhat": 19.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông ăn quán đêm"
  },
  {
   "file": "doan-nam-an-quandem-02.mp4",
@@ -7910,7 +7749,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông ăn quán đêm"
  },
  {
   "file": "doan-nam-an-salad-01.mp4",
@@ -7933,7 +7772,7 @@
   "dai_doan_dai_nhat": 11.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông ăn salad"
  },
  {
   "file": "doan-nam-anmi-dienthoai-01.mp4",
@@ -7956,7 +7795,7 @@
   "dai_doan_dai_nhat": 28.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông ăn mì điện thoại"
  },
  {
   "file": "doan-nam-caphe-ban-01.mp4",
@@ -7979,7 +7818,7 @@
   "dai_doan_dai_nhat": 18.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông cà phê bàn"
  },
  {
   "file": "doan-nam-caphe-ban-02.mp4",
@@ -8002,7 +7841,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông cà phê bàn"
  },
  {
   "file": "doan-nam-caphe-giuong-01.mp4",
@@ -8025,13 +7864,13 @@
   "dai_doan_dai_nhat": 26.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông cà phê giường"
  },
  {
   "file": "doan-nam-caphe-nenden-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đồ ăn - Ăn uống/doan-nam-caphe-nenden-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông cà phê nền đen"
  },
  {
   "file": "doan-nam-coc-phong-01.mp4",
@@ -8054,7 +7893,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông coc phòng"
  },
  {
   "file": "doan-nam-pha-whey-01.mp4",
@@ -8113,7 +7952,7 @@
   "doi_canh": [
    45.0
   ],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông pha whey protein"
  },
  {
   "file": "doan-nam-salad-bat-01.mp4",
@@ -8136,7 +7975,7 @@
   "dai_doan_dai_nhat": 13.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông salad bát"
  },
  {
   "file": "doan-nam-salad-bep-01.mp4",
@@ -8159,7 +7998,7 @@
   "dai_doan_dai_nhat": 23.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông salad bếp"
  },
  {
   "file": "doan-nam-vest-caphe-01.mp4",
@@ -8182,7 +8021,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông vest công sở cà phê"
  },
  {
   "file": "doan-nam-vest-giay-01.mp4",
@@ -8205,7 +8044,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nam đàn ông vest công sở giấy"
  },
  {
   "file": "doan-nhanvien-antrua-01.mp4",
@@ -8228,7 +8067,7 @@
   "dai_doan_dai_nhat": 22.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nhân viên ăn trưa"
  },
  {
   "file": "doan-noihap-khoi-01.mp4",
@@ -8251,7 +8090,7 @@
   "dai_doan_dai_nhat": 10.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn noihap khối"
  },
  {
   "file": "doan-nu-an-ban-lam-01.mp4",
@@ -8274,7 +8113,7 @@
   "dai_doan_dai_nhat": 15.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ ăn bàn làm việc"
  },
  {
   "file": "doan-nu-an-banhmi-01.mp4",
@@ -8297,7 +8136,7 @@
   "dai_doan_dai_nhat": 17.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ ăn bánh mì"
  },
  {
   "file": "doan-nu-an-banhmi-02.mp4",
@@ -8320,7 +8159,7 @@
   "dai_doan_dai_nhat": 17.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ ăn bánh mì"
  },
  {
   "file": "doan-nu-an-dia-rau-01.mp4",
@@ -8343,7 +8182,7 @@
   "dai_doan_dai_nhat": 14.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ ăn đĩa rau"
  },
  {
   "file": "doan-nu-an-keo-01.mp4",
@@ -8366,7 +8205,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ ăn keo"
  },
  {
   "file": "doan-nu-an-thia-01.mp4",
@@ -8389,7 +8228,7 @@
   "dai_doan_dai_nhat": 21.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ ăn thìa"
  },
  {
   "file": "doan-nu-aochoang-caphe-01.mp4",
@@ -8412,7 +8251,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ aochoang cà phê"
  },
  {
   "file": "doan-nu-burger-canh-01.mp4",
@@ -8435,7 +8274,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ burger canh"
  },
  {
   "file": "doan-nu-burger-quan-01.mp4",
@@ -8458,7 +8297,7 @@
   "dai_doan_dai_nhat": 18.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ burger quán"
  },
  {
   "file": "doan-nu-caphe-congvien-01.mp4",
@@ -8483,7 +8322,7 @@
   "doi_canh": [
    26.9
   ],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ cà phê công viên"
  },
  {
   "file": "doan-nu-caphe-doi-01.mp4",
@@ -8506,7 +8345,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ cà phê đôi hai người"
  },
  {
   "file": "doan-nu-caphe-laptop-01.mp4",
@@ -8529,7 +8368,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ cà phê máy tính laptop"
  },
  {
   "file": "doan-nu-cappuccino-01.mp4",
@@ -8552,7 +8391,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ cappuccino"
  },
  {
   "file": "doan-nu-chen-com-01.mp4",
@@ -8575,7 +8414,7 @@
   "dai_doan_dai_nhat": 18.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ chén cơm"
  },
  {
   "file": "doan-nu-giuong-khay-01.mp4",
@@ -8598,7 +8437,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ giường khay"
  },
  {
   "file": "doan-nu-map-burger-01.mp4",
@@ -8621,7 +8460,7 @@
   "dai_doan_dai_nhat": 29.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ mập béo burger"
  },
  {
   "file": "doan-nu-micoc-dem-01.mp4",
@@ -8644,7 +8483,7 @@
   "dai_doan_dai_nhat": 21.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ micoc ban đêm"
  },
  {
   "file": "doan-nu-nhin-ban-01.mp4",
@@ -8667,7 +8506,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ nhìn bàn"
  },
  {
   "file": "doan-nu-salad-bep-01.mp4",
@@ -8690,7 +8529,7 @@
   "dai_doan_dai_nhat": 15.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ salad bếp"
  },
  {
   "file": "doan-nu-suachua-01.mp4",
@@ -8713,7 +8552,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ sữa chua"
  },
  {
   "file": "doan-nu-trasua-pho-01.mp4",
@@ -8736,7 +8575,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ trà sữa phố"
  },
  {
   "file": "doan-nu-tui-doan-ban-01.mp4",
@@ -8759,7 +8598,7 @@
   "dai_doan_dai_nhat": 16.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ tui đồ ăn món ăn bàn"
  },
  {
   "file": "doan-nu-tulanh-donut-01.mp4",
@@ -8782,7 +8621,7 @@
   "dai_doan_dai_nhat": 12.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ tủ lạnh bánh donut"
  },
  {
   "file": "doan-nu-uong-tra-01.mp4",
@@ -8805,7 +8644,7 @@
   "dai_doan_dai_nhat": 10.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nữ phụ nữ uống trà"
  },
  {
   "file": "doan-nuocngot-ly-01.mp4",
@@ -8828,7 +8667,7 @@
   "dai_doan_dai_nhat": 21.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn nước ngọt ly cốc"
  },
  {
   "file": "doan-ongba-uongnuoc-01.mp4",
@@ -8851,7 +8690,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn ông bà người lớn tuổi uống nước"
  },
  {
   "file": "doan-ongcu-ancom-01.mp4",
@@ -8874,7 +8713,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn ông cụ người lớn tuổi ăn cơm"
  },
  {
   "file": "doan-ongcu-banhmi-01.mp4",
@@ -8897,7 +8736,7 @@
   "dai_doan_dai_nhat": 8.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn ông cụ người lớn tuổi bánh mì"
  },
  {
   "file": "doan-phin-caphe-01.mp4",
@@ -8920,13 +8759,13 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "đồ ăn món ăn phin cà phê"
  },
  {
   "file": "dotquy-anh-meo-mieng-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-meo-mieng-01.png",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "đột quỵ ảnh tĩnh meo miếng",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -8938,7 +8777,7 @@
   "file": "dotquy-anh-nga-bacu-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-nga-bacu-01.jpg",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "đột quỵ ảnh tĩnh ngã bà cụ người lớn tuổi",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -8950,7 +8789,7 @@
   "file": "dotquy-anh-nga-bacu-02.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-nga-bacu-02.png",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "đột quỵ ảnh tĩnh ngã bà cụ người lớn tuổi",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -8962,7 +8801,7 @@
   "file": "dotquy-anh-nga-duong-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-nga-duong-01.png",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "đột quỵ ảnh tĩnh ngã đường",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -8974,7 +8813,7 @@
   "file": "dotquy-anh-phuchoi-tay-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-phuchoi-tay-01.png",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "đột quỵ ảnh tĩnh phuchoi tay",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -8986,7 +8825,7 @@
   "file": "dotquy-anh-tapdi-khung-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/04 Đột quỵ/dotquy-anh-tapdi-khung-01.png",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "đột quỵ ảnh tĩnh tapdi khung hình",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -9520,7 +9359,7 @@
   "dai_doan_dai_nhat": 10.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình hai em bé ba lô chạy"
  },
  {
   "file": "giadinh-2be-choi-so-01.mp4",
@@ -9543,7 +9382,7 @@
   "dai_doan_dai_nhat": 19.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình hai em bé choi sờ"
  },
  {
   "file": "giadinh-2be-do-cao-01.mp4",
@@ -9581,7 +9420,7 @@
    "130 H0 150 160 | 170 18I": 26.0
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình hai em bé màu đỏ cao"
  },
  {
   "file": "giadinh-2be-docsach-01.mp4",
@@ -9604,7 +9443,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình hai em bé đọc sách"
  },
  {
   "file": "giadinh-2be-hocbai-01.mp4",
@@ -9627,7 +9466,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình hai em bé học bài"
  },
  {
   "file": "giadinh-2nu-cai-01.mp4",
@@ -9650,7 +9489,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình hai nữ cải"
  },
  {
   "file": "giadinh-3nguoi-om-bep-01.mp4",
@@ -9673,7 +9512,7 @@
   "dai_doan_dai_nhat": 35.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình ba người ôm bếp"
  },
  {
   "file": "giadinh-3thehe-tablet-01.mp4",
@@ -9696,7 +9535,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình ba thế hệ máy tính bảng"
  },
  {
   "file": "giadinh-ancom-bep-01.mp4",
@@ -9719,7 +9558,7 @@
   "dai_doan_dai_nhat": 15.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình ăn cơm bếp"
  },
  {
   "file": "giadinh-anuong-vui-01.mp4",
@@ -9742,7 +9581,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình anuong vui vẻ"
  },
  {
   "file": "giadinh-be-ancom-01.mp4",
@@ -9765,13 +9604,13 @@
   "dai_doan_dai_nhat": 16.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình em bé trẻ con ăn cơm"
  },
  {
   "file": "giadinh-be-ngu-gau-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Gia đình - Vui vẻ- Cãi vã/giadinh-be-ngu-gau-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "gia đình em bé trẻ con ngu gau"
  },
  {
   "file": "giadinh-bo-dienthoai-kecon-01.mp4",
@@ -9794,7 +9633,7 @@
   "dai_doan_dai_nhat": 18.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình quả bơ điện thoại kecon"
  },
  {
   "file": "giadinh-bong-hoanghon-01.mp4",
@@ -9817,7 +9656,7 @@
   "dai_doan_dai_nhat": 19.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình bóng hoàng hôn"
  },
  {
   "file": "giadinh-cai-nhau-truoc-con-01.mp4",
@@ -9840,7 +9679,7 @@
   "dai_doan_dai_nhat": 12.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình cải nhậu truoc con cái"
  },
  {
   "file": "giadinh-chupanh-ngoaitroi-01.mp4",
@@ -9863,7 +9702,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình chupanh ngoài trời"
  },
  {
   "file": "giadinh-cong-con-01.mp4",
@@ -9886,7 +9725,7 @@
   "dai_doan_dai_nhat": 10.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình cong con cái"
  },
  {
   "file": "giadinh-dai-dibo-bien-01.mp4",
@@ -9909,7 +9748,7 @@
   "dai_doan_dai_nhat": 13.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình dài đi bộ biển"
  },
  {
   "file": "giadinh-daigd-ancom-01.mp4",
@@ -9932,7 +9771,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình đại gia đình ăn cơm"
  },
  {
   "file": "giadinh-daigd-ancom-02.mp4",
@@ -9955,7 +9794,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình đại gia đình ăn cơm"
  },
  {
   "file": "giadinh-day-con-hoc-01.mp4",
@@ -9978,7 +9817,7 @@
   "dai_doan_dai_nhat": 23.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình dày con cái hoc"
  },
  {
   "file": "giadinh-do-chieucao-01.mp4",
@@ -10001,7 +9840,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình màu đỏ chiều cao"
  },
  {
   "file": "giadinh-do-chieucao-02.mp4",
@@ -10024,7 +9863,7 @@
   "dai_doan_dai_nhat": 11.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình màu đỏ chiều cao"
  },
  {
   "file": "giadinh-doi-hanhlang-01.mp4",
@@ -10047,7 +9886,7 @@
   "dai_doan_dai_nhat": 8.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình đôi hai người hành lang"
  },
  {
   "file": "giadinh-hocbai-cungnhau-01.mp4",
@@ -10070,7 +9909,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình học bài cùng nhau"
  },
  {
   "file": "giadinh-kem-con-viet-01.mp4",
@@ -10093,13 +9932,13 @@
   "dai_doan_dai_nhat": 18.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình kem con cái viết"
  },
  {
   "file": "giadinh-mang-con-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Gia đình - Vui vẻ- Cãi vã/giadinh-mang-con-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "gia đình mang con cái"
  },
  {
   "file": "giadinh-me-con-buon-01.mp4",
@@ -10122,7 +9961,7 @@
   "dai_doan_dai_nhat": 23.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình me con cái buồn"
  },
  {
   "file": "giadinh-nauan-cungnhau-01.mp4",
@@ -10145,7 +9984,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình nấu ăn cùng nhau"
  },
  {
   "file": "giadinh-noichuyen-con-01.mp4",
@@ -10168,7 +10007,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình noichuyen con cái"
  },
  {
   "file": "giadinh-om-nhau-cua-01.mp4",
@@ -10191,7 +10030,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình ôm nhậu cửa"
  },
  {
   "file": "giadinh-tre-dabong-co-01.mp4",
@@ -10214,7 +10053,7 @@
   "dai_doan_dai_nhat": 9.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "gia đình trẻ con đá bóng cỏ bãi cỏ"
  },
  {
   "file": "giamcan-bopbung-do-01.mp4",
@@ -10237,7 +10076,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân bóp bụng màu đỏ"
  },
  {
   "file": "giamcan-bung-mo-nu-01.mp4",
@@ -10260,7 +10099,7 @@
   "dai_doan_dai_nhat": 27.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân bụng mỡ nữ phụ nữ"
  },
  {
   "file": "giamcan-bung-thuoc-nenden-01.mp4",
@@ -10299,7 +10138,7 @@
    "MEECEELEE@ERRERERORM": 6.2
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân bụng thuốc nền đen"
  },
  {
   "file": "giamcan-can-rauqua-01.mp4",
@@ -10322,7 +10161,7 @@
   "dai_doan_dai_nhat": 8.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân cân rauqua"
  },
  {
   "file": "giamcan-chan-cannang-01.mp4",
@@ -10345,7 +10184,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân chân cân nặng"
  },
  {
   "file": "giamcan-mo-vang-cam-01.mp4",
@@ -10368,7 +10207,7 @@
   "dai_doan_dai_nhat": 10.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân mỡ màu vàng cam"
  },
  {
   "file": "giamcan-mo-vang-canh-01.mp4",
@@ -10391,7 +10230,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân mỡ màu vàng canh"
  },
  {
   "file": "giamcan-nam-bopbung-phong-01.mp4",
@@ -10414,7 +10253,7 @@
   "dai_doan_dai_nhat": 13.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nam đàn ông bóp bụng phòng"
  },
  {
   "file": "giamcan-nam-bungto-dienthoai-01.mp4",
@@ -10437,7 +10276,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nam đàn ông bụng to điện thoại"
  },
  {
   "file": "giamcan-nam-bungto-ngoi-01.mp4",
@@ -10460,7 +10299,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nam đàn ông bụng to ngồi"
  },
  {
   "file": "giamcan-nam-chongeo-01.mp4",
@@ -10483,7 +10322,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nam đàn ông chongeo"
  },
  {
   "file": "giamcan-nam-map-sofa-01.mp4",
@@ -10506,7 +10345,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nam đàn ông mập béo ghế sofa"
  },
  {
   "file": "giamcan-nam-quanrong-01.mp4",
@@ -10529,7 +10368,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nam đàn ông quần rộng"
  },
  {
   "file": "giamcan-nam-quanrong-02.mp4",
@@ -10552,13 +10391,13 @@
   "dai_doan_dai_nhat": 15.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nam đàn ông quần rộng"
  },
  {
   "file": "giamcan-nu-anit-chan-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Giảm cân - Mập, tăng cân/giamcan-nu-anit-chan-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ anit chân"
  },
  {
   "file": "giamcan-nu-aodo-doeo-01.mp4",
@@ -10581,7 +10420,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ áo đỏ đo vòng eo"
  },
  {
   "file": "giamcan-nu-bat-rau-bep-01.mp4",
@@ -10604,7 +10443,7 @@
   "dai_doan_dai_nhat": 29.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ bát rau bếp"
  },
  {
   "file": "giamcan-nu-bopbung-01.mp4",
@@ -10627,7 +10466,7 @@
   "dai_doan_dai_nhat": 21.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ bóp bụng"
  },
  {
   "file": "giamcan-nu-bopmo-bung-01.mp4",
@@ -10650,7 +10489,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ bóp mỡ bụng"
  },
  {
   "file": "giamcan-nu-bopmo-eo-01.mp4",
@@ -10673,7 +10512,7 @@
   "dai_doan_dai_nhat": 18.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ bóp mỡ eo vòng eo"
  },
  {
   "file": "giamcan-nu-buon-01.mp4",
@@ -10696,7 +10535,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ buồn"
  },
  {
   "file": "giamcan-nu-chan-anmi-01.mp4",
@@ -10719,7 +10558,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ chân ăn mì"
  },
  {
   "file": "giamcan-nu-chan-anrau-01.mp4",
@@ -10742,7 +10581,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ chân ăn rau"
  },
  {
   "file": "giamcan-nu-chan-anrau-02.mp4",
@@ -10765,7 +10604,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ chân ăn rau"
  },
  {
   "file": "giamcan-nu-doeo-cuaso-01.mp4",
@@ -10788,19 +10627,19 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ đo vòng eo cửa sổ"
  },
  {
   "file": "giamcan-nu-guc-ankieng-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Giảm cân - Mập, tăng cân/giamcan-nu-guc-ankieng-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ gục xuống ăn kiêng"
  },
  {
   "file": "giamcan-nu-guc-ankieng-02.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Giảm cân - Mập, tăng cân/giamcan-nu-guc-ankieng-02.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ gục xuống ăn kiêng"
  },
  {
   "file": "giamcan-nu-gym-may-01.mp4",
@@ -10823,7 +10662,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ phòng gym máy"
  },
  {
   "file": "giamcan-nu-map-tablet-01.mp4",
@@ -10846,7 +10685,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ mập béo máy tính bảng"
  },
  {
   "file": "giamcan-nu-map-tablet-02.mp4",
@@ -10869,7 +10708,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ mập béo máy tính bảng"
  },
  {
   "file": "giamcan-nu-nam-bopbung-01.mp4",
@@ -10892,7 +10731,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ nam đàn ông bóp bụng"
  },
  {
   "file": "giamcan-nu-nghieng-jean-01.mp4",
@@ -10915,7 +10754,7 @@
   "dai_doan_dai_nhat": 15.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ nghiêng jean"
  },
  {
   "file": "giamcan-nu-ngoi-bung-01.mp4",
@@ -10938,7 +10777,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ ngồi bụng"
  },
  {
   "file": "giamcan-nu-quanrong-01.mp4",
@@ -10961,7 +10800,7 @@
   "dai_doan_dai_nhat": 21.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ quần rộng"
  },
  {
   "file": "giamcan-nu-quanrong-hong-01.mp4",
@@ -10984,7 +10823,7 @@
   "dai_doan_dai_nhat": 22.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ quần rộng màu hồng"
  },
  {
   "file": "giamcan-nu-quanrong-vui-01.mp4",
@@ -11007,7 +10846,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ quần rộng vui vẻ"
  },
  {
   "file": "giamcan-nu-thuocdo-eo-01.mp4",
@@ -11030,7 +10869,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân nữ phụ nữ thước dây eo vòng eo"
  },
  {
   "file": "giamcan-snack-vang-01.mp4",
@@ -11053,7 +10892,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân đồ ăn vặt màu vàng"
  },
  {
   "file": "giamcan-snack-vang-02.mp4",
@@ -11076,7 +10915,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân đồ ăn vặt màu vàng"
  },
  {
   "file": "giamcan-sosanh-truocsau-01.mp4",
@@ -11099,7 +10938,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân so sánh trước sau"
  },
  {
   "file": "giamcan-sosanh-truocsau-02.mp4",
@@ -11122,7 +10961,7 @@
   "dai_doan_dai_nhat": 13.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân so sánh trước sau"
  },
  {
   "file": "giamcan-tebao-mo-vang-01.mp4",
@@ -11145,7 +10984,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân tế bào mỡ màu vàng"
  },
  {
   "file": "giamcan-tebao-mo-vang-02.mp4",
@@ -11168,7 +11007,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "giảm cân béo phì thừa cân tế bào mỡ màu vàng"
  },
  {
   "file": "khambenh-2nu-laptop-01.mp4",
@@ -11212,7 +11051,7 @@
   "doi_canh": [
    27.0
   ],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện hai nữ máy tính laptop"
  },
  {
   "file": "khambenh-2nu-tablet-01.mp4",
@@ -11235,7 +11074,7 @@
   "dai_doan_dai_nhat": 13.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện hai nữ máy tính bảng"
  },
  {
   "file": "khambenh-2nu-xem-lothuoc-01.mp4",
@@ -11273,7 +11112,7 @@
    9.0,
    24.0
   ],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện hai nữ xem lọ thuốc"
  },
  {
   "file": "khambenh-bacsi-do-duonghuyet-01.mp4",
@@ -11296,7 +11135,7 @@
   "dai_doan_dai_nhat": 8.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ màu đỏ đường huyết"
  },
  {
   "file": "khambenh-bacsi-do-duonghuyet-02.mp4",
@@ -11319,7 +11158,7 @@
   "dai_doan_dai_nhat": 8.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ màu đỏ đường huyết"
  },
  {
   "file": "khambenh-bacsi-do-duonghuyet-03.mp4",
@@ -11342,7 +11181,7 @@
   "dai_doan_dai_nhat": 8.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ màu đỏ đường huyết"
  },
  {
   "file": "khambenh-bacsi-kham-bacu-01.mp4",
@@ -11365,7 +11204,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ khám bà cụ người lớn tuổi"
  },
  {
   "file": "khambenh-bacsi-kham-ongcu-nam-01.mp4",
@@ -11388,7 +11227,7 @@
   "dai_doan_dai_nhat": 7.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ khám ông cụ người lớn tuổi nam đàn ông"
  },
  {
   "file": "khambenh-bacsi-manhinh-01.mp4",
@@ -11411,7 +11250,7 @@
   "dai_doan_dai_nhat": 11.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ màn hình"
  },
  {
   "file": "khambenh-bacsi-mohinh-dady-01.mp4",
@@ -11434,7 +11273,7 @@
   "dai_doan_dai_nhat": 18.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ mô hình 3D dạ dày"
  },
  {
   "file": "khambenh-bacsi-mohinh-gan-01.mp4",
@@ -11457,7 +11296,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ mô hình 3D gan"
  },
  {
   "file": "khambenh-bacsi-mohinh-gan-02.mp4",
@@ -11480,7 +11319,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ mô hình 3D gan"
  },
  {
   "file": "khambenh-bacsi-mohinh-phoi-01.mp4",
@@ -11503,7 +11342,7 @@
   "dai_doan_dai_nhat": 15.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ mô hình 3D phổi"
  },
  {
   "file": "khambenh-bacsi-mohinh-tim-01.mp4",
@@ -11526,7 +11365,7 @@
   "dai_doan_dai_nhat": 7.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ mô hình 3D tim"
  },
  {
   "file": "khambenh-bacsi-nam-ban-01.mp4",
@@ -11549,7 +11388,7 @@
   "dai_doan_dai_nhat": 16.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nam đàn ông bàn"
  },
  {
   "file": "khambenh-bacsi-nam-noi-01.mp4",
@@ -11572,7 +11411,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nam đàn ông nồi"
  },
  {
   "file": "khambenh-bacsi-nam-noi-02.mp4",
@@ -11595,7 +11434,7 @@
   "dai_doan_dai_nhat": 8.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nam đàn ông nồi"
  },
  {
   "file": "khambenh-bacsi-nu-benhnhan-nam-01.mp4",
@@ -11618,7 +11457,7 @@
   "dai_doan_dai_nhat": 25.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nữ phụ nữ bệnh nhân nam đàn ông"
  },
  {
   "file": "khambenh-bacsi-nu-ongmau-01.mp4",
@@ -11641,7 +11480,7 @@
   "dai_doan_dai_nhat": 25.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nữ phụ nữ ống máu xét nghiệm"
  },
  {
   "file": "khambenh-bacsi-nu-ongmau-02.mp4",
@@ -11664,7 +11503,7 @@
   "dai_doan_dai_nhat": 25.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nữ phụ nữ ống máu xét nghiệm"
  },
  {
   "file": "khambenh-bacsi-nu-phong-01.mp4",
@@ -11687,7 +11526,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nữ phụ nữ phòng"
  },
  {
   "file": "khambenh-bacsi-nu-tuvan-01.mp4",
@@ -11710,7 +11549,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nữ phụ nữ tư vấn"
  },
  {
   "file": "khambenh-bacsi-nu-tuvan-02.mp4",
@@ -11733,7 +11572,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ nữ phụ nữ tư vấn"
  },
  {
   "file": "khambenh-bacsi-ongcu-giuongbenh-01.mp4",
@@ -11756,7 +11595,7 @@
   "dai_doan_dai_nhat": 22.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ ông cụ người lớn tuổi giuongbenh"
  },
  {
   "file": "khambenh-bacsi-phim-xquang-01.mp4",
@@ -11779,7 +11618,7 @@
   "dai_doan_dai_nhat": 12.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ phim chụp phim X-quang"
  },
  {
   "file": "khambenh-bacsi-phim-xquang-02.mp4",
@@ -11802,7 +11641,7 @@
   "dai_doan_dai_nhat": 12.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ phim chụp phim X-quang"
  },
  {
   "file": "khambenh-bacsi-tablet-ke-01.mp4",
@@ -11825,7 +11664,7 @@
   "dai_doan_dai_nhat": 51.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ máy tính bảng ke"
  },
  {
   "file": "khambenh-bacsi-tablet-ongcu-01.mp4",
@@ -11848,7 +11687,7 @@
   "dai_doan_dai_nhat": 26.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ máy tính bảng ông cụ người lớn tuổi"
  },
  {
   "file": "khambenh-bacsi-tuvan-ongcu-01.mp4",
@@ -11871,7 +11710,7 @@
   "dai_doan_dai_nhat": 17.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bác sĩ tư vấn ông cụ người lớn tuổi"
  },
  {
   "file": "khambenh-bacu-uongthuoc-01.mp4",
@@ -11894,7 +11733,7 @@
   "dai_doan_dai_nhat": 9.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bà cụ người lớn tuổi uongthuoc"
  },
  {
   "file": "khambenh-benhnhan-ngoi-giuong-01.mp4",
@@ -11917,7 +11756,7 @@
   "dai_doan_dai_nhat": 9.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bệnh nhân ngồi giường"
  },
  {
   "file": "khambenh-benhnhan-nu-giuong-01.mp4",
@@ -11940,7 +11779,7 @@
   "dai_doan_dai_nhat": 8.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bệnh nhân nữ phụ nữ giường"
  },
  {
   "file": "khambenh-benhnhan-omdau-doc-01.mp4",
@@ -11963,7 +11802,7 @@
   "dai_doan_dai_nhat": 16.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện bệnh nhân ôm đầu khung dọc"
  },
  {
   "file": "khambenh-chia-thuoc-hop-01.mp4",
@@ -12000,7 +11839,7 @@
   "doi_canh": [
    19.0
   ],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện chia thuốc hộp sản phẩm"
  },
  {
   "file": "khambenh-chu-diabetes-01.mp4",
@@ -12023,7 +11862,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện chữ diabetes"
  },
  {
   "file": "khambenh-dieuduong-bacu-sofa-01.mp4",
@@ -12046,7 +11885,7 @@
   "dai_doan_dai_nhat": 24.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện điều dưỡng y tá bà cụ người lớn tuổi ghế sofa"
  },
  {
   "file": "khambenh-dieuduong-bacu-sofa-02.mp4",
@@ -12069,7 +11908,7 @@
   "dai_doan_dai_nhat": 25.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện điều dưỡng y tá bà cụ người lớn tuổi ghế sofa"
  },
  {
   "file": "khambenh-do-duonghuyet-ngontay-01.mp4",
@@ -12092,7 +11931,7 @@
   "dai_doan_dai_nhat": 15.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện màu đỏ đường huyết ngontay"
  },
  {
   "file": "khambenh-do-thuoc-ban-01.mp4",
@@ -12115,7 +11954,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện màu đỏ thuốc bàn"
  },
  {
   "file": "khambenh-do-thuoc-lo-01.mp4",
@@ -12138,7 +11977,7 @@
   "dai_doan_dai_nhat": 16.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện màu đỏ thuốc lọ"
  },
  {
   "file": "khambenh-do-thuoc-lo-02.mp4",
@@ -12161,7 +12000,7 @@
   "dai_doan_dai_nhat": 16.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện màu đỏ thuốc lọ"
  },
  {
   "file": "khambenh-donggoi-thung-01.mp4",
@@ -12198,7 +12037,7 @@
   "doi_canh": [
    25.0
   ],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện đóng gói thùng"
  },
  {
   "file": "khambenh-dua-nuoc-ongcu-01.mp4",
@@ -12221,7 +12060,7 @@
   "dai_doan_dai_nhat": 29.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện dua nước ông cụ người lớn tuổi"
  },
  {
   "file": "khambenh-duocsi-donggoi-01.mp4",
@@ -12244,7 +12083,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện dược sĩ đóng gói"
  },
  {
   "file": "khambenh-duocsi-lothuoc-01.mp4",
@@ -12267,7 +12106,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện dược sĩ lọ thuốc"
  },
  {
   "file": "khambenh-duocsi-maytinh-01.mp4",
@@ -12304,7 +12143,7 @@
   "doi_canh": [
    16.0
   ],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện dược sĩ máy tính"
  },
  {
   "file": "khambenh-duocsi-tablet-01.mp4",
@@ -12327,7 +12166,7 @@
   "dai_doan_dai_nhat": 52.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện dược sĩ máy tính bảng"
  },
  {
   "file": "khambenh-gang-vien-cam-doc-01.mp4",
@@ -12350,7 +12189,7 @@
   "dai_doan_dai_nhat": 1.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện găng tay viên thuốc cam khung dọc"
  },
  {
   "file": "khambenh-hoathinh-duocsi-01.mp4",
@@ -12373,7 +12212,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện hoạt hình dược sĩ"
  },
  {
   "file": "khambenh-hop-pharmacy-ban-01.mp4",
@@ -12396,7 +12235,7 @@
   "dai_doan_dai_nhat": 23.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện hộp sản phẩm nhà thuốc bàn"
  },
  {
   "file": "khambenh-hop-pharmacy-gang-01.mp4",
@@ -12435,7 +12274,7 @@
    "PHAI": 4.7
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện hộp sản phẩm nhà thuốc găng tay"
  },
  {
   "file": "khambenh-kham-bantay-01.mp4",
@@ -12458,7 +12297,7 @@
   "dai_doan_dai_nhat": 16.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện khám bàn tay"
  },
  {
   "file": "khambenh-lothuoc-ban-01.mp4",
@@ -12483,7 +12322,7 @@
    "coce": 0.0
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện lọ thuốc bàn"
  },
  {
   "file": "khambenh-ly-nuoc-lothuoc-01.mp4",
@@ -12506,7 +12345,7 @@
   "dai_doan_dai_nhat": 29.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện ly cốc nước lọ thuốc"
  },
  {
   "file": "khambenh-manhinh-tieuduong-01.mp4",
@@ -12529,7 +12368,7 @@
   "dai_doan_dai_nhat": 27.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện màn hình tiểu đường"
  },
  {
   "file": "khambenh-manhinh-tieuduong-02.mp4",
@@ -12552,7 +12391,7 @@
   "dai_doan_dai_nhat": 18.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện màn hình tiểu đường"
  },
  {
   "file": "khambenh-manhinh-tieuduong-doc-01.mp4",
@@ -12591,7 +12430,7 @@
    "Ma vicebet": 4.6
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện màn hình tiểu đường khung dọc"
  },
  {
   "file": "khambenh-maylytam-01.mp4",
@@ -12614,7 +12453,7 @@
   "dai_doan_dai_nhat": 32.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện máy ly tâm"
  },
  {
   "file": "khambenh-mohinh-gan-ban-01.mp4",
@@ -12637,7 +12476,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện mô hình 3D gan bàn"
  },
  {
   "file": "khambenh-nhathuoc-tuvan-01.mp4",
@@ -12660,7 +12499,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện nhathuoc tư vấn"
  },
  {
   "file": "khambenh-nhom-bacsi-hanhlang-01.mp4",
@@ -12683,7 +12522,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện nhóm nhiều người bác sĩ hành lang"
  },
  {
   "file": "khambenh-nu-laptop-01.mp4",
@@ -12706,7 +12545,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện nữ phụ nữ máy tính laptop"
  },
  {
   "file": "khambenh-nu-om-giuong-01.mp4",
@@ -12729,7 +12568,7 @@
   "dai_doan_dai_nhat": 19.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện nữ phụ nữ ôm giường"
  },
  {
   "file": "khambenh-nu-ongcu-uongnuoc-01.mp4",
@@ -12752,7 +12591,7 @@
   "dai_doan_dai_nhat": 29.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện nữ phụ nữ ông cụ người lớn tuổi uống nước"
  },
  {
   "file": "khambenh-nu-ongcu-uongnuoc-02.mp4",
@@ -12775,7 +12614,7 @@
   "dai_doan_dai_nhat": 29.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện nữ phụ nữ ông cụ người lớn tuổi uống nước"
  },
  {
   "file": "khambenh-ongcu-canh-giuong-01.mp4",
@@ -12798,7 +12637,7 @@
   "dai_doan_dai_nhat": 14.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện ông cụ người lớn tuổi canh giường"
  },
  {
   "file": "khambenh-ongcu-ombung-01.mp4",
@@ -12821,7 +12660,7 @@
   "dai_doan_dai_nhat": 16.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện ông cụ người lớn tuổi ôm bụng"
  },
  {
   "file": "khambenh-ongcu-omdau-lothuoc-01.mp4",
@@ -12844,7 +12683,7 @@
   "dai_doan_dai_nhat": 25.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện ông cụ người lớn tuổi ôm đầu lọ thuốc"
  },
  {
   "file": "khambenh-ongmau-gang-01.mp4",
@@ -12867,7 +12706,7 @@
   "dai_doan_dai_nhat": 36.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện ống máu xét nghiệm găng tay"
  },
  {
   "file": "khambenh-ongmau-nentrang-01.mp4",
@@ -12890,7 +12729,7 @@
   "dai_doan_dai_nhat": 5.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện ống máu xét nghiệm nền trắng"
  },
  {
   "file": "khambenh-ongnghiem-tay-01.mp4",
@@ -12913,7 +12752,7 @@
   "dai_doan_dai_nhat": 5.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện ống nghiệm tay"
  },
  {
   "file": "khambenh-tay-camvien-doc-01.mp4",
@@ -12936,7 +12775,7 @@
   "dai_doan_dai_nhat": 4.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện tay camvien khung dọc"
  },
  {
   "file": "khambenh-tay-lothuoc-nho-01.mp4",
@@ -12959,7 +12798,7 @@
   "dai_doan_dai_nhat": 18.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện tay lọ thuốc nhỏ"
  },
  {
   "file": "khambenh-tay-vithuoc-01.mp4",
@@ -12982,7 +12821,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện tay vỉ thuốc"
  },
  {
   "file": "khambenh-tay-vithuoc-02.mp4",
@@ -13005,7 +12844,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện tay vỉ thuốc"
  },
  {
   "file": "khambenh-thuoc-traicay-ban-01.mp4",
@@ -13028,7 +12867,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện thuốc trái cây bàn"
  },
  {
   "file": "khambenh-tuvan-online-01.mp4",
@@ -13051,7 +12890,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện tư vấn online"
  },
  {
   "file": "khambenh-vien-dong-doc-01.mp4",
@@ -13074,7 +12913,7 @@
   "dai_doan_dai_nhat": 64.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện viên thuốc đống nhiều khung dọc"
  },
  {
   "file": "khambenh-viennang-bay-01.mp4",
@@ -13097,7 +12936,7 @@
   "dai_doan_dai_nhat": 10.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện viên nang bay"
  },
  {
   "file": "khambenh-viennang-muong-01.mp4",
@@ -13120,7 +12959,7 @@
   "dai_doan_dai_nhat": 15.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện viên nang muong"
  },
  {
   "file": "khambenh-vithuoc-chong-01.mp4",
@@ -13143,7 +12982,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện vỉ thuốc chống"
  },
  {
   "file": "khambenh-vithuoc-chong-02.mp4",
@@ -13166,7 +13005,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện vỉ thuốc chống"
  },
  {
   "file": "khambenh-vithuoc-nhieumau-01.mp4",
@@ -13189,7 +13028,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "khám bệnh bác sĩ bệnh viện vỉ thuốc nhieumau"
  },
  {
   "file": "khotho-leothang-01.mp4",
@@ -13302,25 +13141,25 @@
   "file": "khung-be-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Khung hình chuyên gia/khung-be-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "khung hình em bé trẻ con"
  },
  {
   "file": "khung-den-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Khung hình chuyên gia/khung-den-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "khung hình màu đen"
  },
  {
   "file": "khung-trang-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Khung hình chuyên gia/khung-trang-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "khung hình màu trắng"
  },
  {
   "file": "khung-xanh-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Khung hình chuyên gia/khung-xanh-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "khung hình màu xanh"
  },
  {
   "file": "machmau-anddu-ongdong-01.mp4",
@@ -14727,109 +14566,6 @@
   "tu_khoa_hoc": []
  },
  {
-  "file": "men gạo đỏ.mp4",
-  "path": "/Volumes/T7 for Mac/02. Dilim Footage/Natto Xám/men gạo đỏ.mp4",
-  "dai": 28.87,
-  "w": 1920,
-  "h": 1080,
-  "fps": 30.0,
-  "doc": false,
-  "so_frame_soi": 19,
-  "vung_chu": [],
-  "vung_den": [],
-  "vung_cam": [],
-  "doan_dung_duoc": [
-   [
-    0.0,
-    28.9
-   ]
-  ],
-  "dai_doan_dai_nhat": 28.9,
-  "chu_doc_duoc": {},
-  "doi_canh": [],
-  "mo_ta": "gạo lứt đỏ đổ đống, nền trắng — MEN GẠO ĐỎ, nguyên liệu",
-  "da_dung": 7,
-  "con_lai_sau_khi_anh_sua": 1,
-  "co_ban_doi_chieu": 3,
-  "job": [
-   "02-2026-08-03-dilim-video-test",
-   "03-2026-06-28-dscf0894",
-   "04-2026-08-04-img1770",
-   "04-2026-08-04-img1771",
-   "04-2026-08-04-img1773",
-   "05-2026-08-04-natto-hoat-huyet"
-  ],
-  "frontlink": [
-   {
-    "job": "02-2026-08-03-dilim-video-test",
-    "idx": 25,
-    "chu": "CÒN CÓ MEN GẠO ĐỎ",
-    "variant": "product",
-    "src_start": 1.0
-   },
-   {
-    "job": "03-2026-06-28-dscf0894",
-    "idx": 23,
-    "chu": "CÒN CÓ MEN GẠO ĐỎ",
-    "variant": "product",
-    "src_start": 1.0
-   },
-   {
-    "job": "04-2026-08-04-img1770",
-    "idx": 36,
-    "chu": "MEN GẠO ĐỎ VÀ CỎ TRƯỜNG THỌ",
-    "variant": "product",
-    "src_start": 1.0
-   },
-   {
-    "job": "04-2026-08-04-img1771",
-    "idx": 28,
-    "chu": "KẾT HỢP MEN GẠO ĐỎ VÀ CỎ TRƯỜNG THỌ",
-    "variant": "product",
-    "src_start": 1.0
-   },
-   {
-    "job": "04-2026-08-04-img1773",
-    "idx": 28,
-    "chu": "KẾT HỢP MEN GẠO ĐỎ VÀ CỎ TRƯỜNG THỌ",
-    "variant": "product",
-    "src_start": 1.0
-   },
-   {
-    "job": "05-2026-08-04-natto-hoat-huyet",
-    "idx": 37,
-    "chu": "TRONG HỘP NATTO CÒN 2 THỨ NỮA MÀ MỌI NGƯỜI ÍT KHI ĐỂ Ý",
-    "variant": "product",
-    "src_start": 0
-   },
-   {
-    "job": "05-2026-08-04-natto-hoat-huyet",
-    "idx": 38,
-    "chu": "MEN GẠO ĐỎ VÀ CỎ TRƯỜNG THỌ GIÚP GIẢM MỠ MÁU",
-    "variant": "product",
-    "src_start": 0
-   }
-  ],
-  "tu_khoa_hoc": [
-   "con",
-   "gao",
-   "giam",
-   "giup",
-   "hop",
-   "it",
-   "ket",
-   "mau",
-   "men",
-   "mo",
-   "moi",
-   "natto",
-   "nguoi",
-   "tho",
-   "thu",
-   "truong"
-  ]
- },
- {
   "file": "mengaodo-hat-01.mp4",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Natto Xám/mengaodo-hat-01.mp4",
   "dai": 28.87,
@@ -14850,7 +14586,7 @@
   "dai_doan_dai_nhat": 28.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "men gạo đỏ hạt"
  },
  {
   "file": "metmoi-bopmui-4k-01.mp4",
@@ -16413,19 +16149,19 @@
   "file": "natto-anh-2hop-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Natto Xám/natto-anh-2hop-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "Nano Nattokinase ảnh tĩnh hai hộp"
  },
  {
   "file": "natto-anh-thotgo-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Natto Xám/natto-anh-thotgo-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "Nano Nattokinase ảnh tĩnh thớt gỗ"
  },
  {
   "file": "natto-anh-thotgo-02.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Natto Xám/natto-anh-thotgo-02.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "Nano Nattokinase ảnh tĩnh thớt gỗ"
  },
  {
   "file": "ngungon-chiso-suckhoe-01.mp4",
@@ -16818,7 +16554,7 @@
   "dai_doan_dai_nhat": 6.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng áo in hình dạ dày"
  },
  {
   "file": "noitang-ao-in-gan-01.mp4",
@@ -16841,7 +16577,7 @@
   "dai_doan_dai_nhat": 6.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng áo in hình gan"
  },
  {
   "file": "noitang-ao-inthan-01.mp4",
@@ -16864,7 +16600,7 @@
   "dai_doan_dai_nhat": 7.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng áo inthan"
  },
  {
   "file": "noitang-bangquang-cothe-01.mp4",
@@ -16887,7 +16623,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng bangquang cơ thể"
  },
  {
   "file": "noitang-cothe-dadayruot-01.mp4",
@@ -16910,7 +16646,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng cơ thể dadayruot"
  },
  {
   "file": "noitang-cothe-gan-tach-01.mp4",
@@ -16933,7 +16669,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng cơ thể gan tách"
  },
  {
   "file": "noitang-cothe-phoi-tach-01.mp4",
@@ -16956,7 +16692,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng cơ thể phổi tách"
  },
  {
   "file": "noitang-dady-boc-mo-01.mp4",
@@ -16989,7 +16725,7 @@
    "METABOLISM AND": 6.3
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng dạ dày bóc mỡ"
  },
  {
   "file": "noitang-dady-do-cothe-01.mp4",
@@ -17012,7 +16748,7 @@
   "dai_doan_dai_nhat": 12.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng dạ dày màu đỏ cơ thể"
  },
  {
   "file": "noitang-dady-do-cothe-02.mp4",
@@ -17035,7 +16771,7 @@
   "dai_doan_dai_nhat": 12.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng dạ dày màu đỏ cơ thể"
  },
  {
   "file": "noitang-dady-mach-01.mp4",
@@ -17058,7 +16794,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng dạ dày mạch"
  },
  {
   "file": "noitang-daitrang-cothe-01.mp4",
@@ -17081,7 +16817,7 @@
   "dai_doan_dai_nhat": 9.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng đại tràng cơ thể"
  },
  {
   "file": "noitang-gan-boxuong-01.mp4",
@@ -17104,7 +16840,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan boxuong"
  },
  {
   "file": "noitang-gan-cothe-lung-01.mp4",
@@ -17127,7 +16863,7 @@
   "dai_doan_dai_nhat": 12.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan cơ thể lưng"
  },
  {
   "file": "noitang-gan-hongcau-01.mp4",
@@ -17150,7 +16886,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan hồng cầu"
  },
  {
   "file": "noitang-gan-hongcau-02.mp4",
@@ -17173,19 +16909,19 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan hồng cầu"
  },
  {
   "file": "noitang-gan-mo-vang-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/NỘI TẠNG/noitang-gan-mo-vang-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan mỡ màu vàng"
  },
  {
   "file": "noitang-gan-mo-vang-02.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/NỘI TẠNG/noitang-gan-mo-vang-02.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan mỡ màu vàng"
  },
  {
   "file": "noitang-gan-nenxanh-01.mp4",
@@ -17208,7 +16944,7 @@
   "dai_doan_dai_nhat": 12.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan nền xanh"
  },
  {
   "file": "noitang-gan-nhiemmo-01.mp4",
@@ -17231,7 +16967,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan nhiễm mỡ"
  },
  {
   "file": "noitang-gan-nhiemmo-02.mp4",
@@ -17254,7 +16990,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan nhiễm mỡ"
  },
  {
   "file": "noitang-gan-nhiemmo-sodo-01.mp4",
@@ -17277,7 +17013,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan nhiễm mỡ sơ đồ"
  },
  {
   "file": "noitang-gan-noitang-xam-01.mp4",
@@ -17300,7 +17036,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan nội tạng xam"
  },
  {
   "file": "noitang-gan-phantu-01.mp4",
@@ -17323,7 +17059,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng gan phân tử"
  },
  {
   "file": "noitang-hoathinh-soi-dady-01.mp4",
@@ -17346,7 +17082,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng hoạt hình soi dạ dày"
  },
  {
   "file": "noitang-longruot-mo-01.mp4",
@@ -17369,7 +17105,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng lòng ruột mỡ"
  },
  {
   "file": "noitang-longruot-trong-01.mp4",
@@ -17392,7 +17128,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng lòng ruột trồng"
  },
  {
   "file": "noitang-noitang-bung-01.mp4",
@@ -17415,7 +17151,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng nội tạng bụng"
  },
  {
   "file": "noitang-obung-ruot-01.mp4",
@@ -17438,7 +17174,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng obung ruột"
  },
  {
   "file": "noitang-phoi-cothe-xanh-01.mp4",
@@ -17461,7 +17197,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng phổi cơ thể màu xanh"
  },
  {
   "file": "noitang-phoi-do-01.mp4",
@@ -17484,7 +17220,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng phổi màu đỏ"
  },
  {
   "file": "noitang-phoi-hong-bui-01.mp4",
@@ -17507,7 +17243,7 @@
   "dai_doan_dai_nhat": 13.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng phổi màu hồng bui"
  },
  {
   "file": "noitang-phoi-khiquan-01.mp4",
@@ -17530,7 +17266,7 @@
   "dai_doan_dai_nhat": 24.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng phổi khiquan"
  },
  {
   "file": "noitang-phoi-longnguc-01.mp4",
@@ -17553,7 +17289,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng phổi lồng ngực"
  },
  {
   "file": "noitang-phoi-phequan-01.mp4",
@@ -17576,7 +17312,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng phổi phequan"
  },
  {
   "file": "noitang-phoi-tim-khoi-01.mp4",
@@ -17599,7 +17335,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng phổi tim khối"
  },
  {
   "file": "noitang-sodo-dady-hong-01.mp4",
@@ -17656,7 +17392,7 @@
   "doi_canh": [
    0.53
   ],
-  "mo_ta": {}
+  "mo_ta": "nội tạng sơ đồ dạ dày màu hồng"
  },
  {
   "file": "noitang-sodo-dady-mangvang-01.mp4",
@@ -17679,7 +17415,7 @@
   "dai_doan_dai_nhat": 26.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng sơ đồ dạ dày màng vàng"
  },
  {
   "file": "noitang-sodo-dady-vikhuan-01.mp4",
@@ -17702,7 +17438,7 @@
   "dai_doan_dai_nhat": 12.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng sơ đồ dạ dày vi khuẩn"
  },
  {
   "file": "noitang-sodo-gan-bung-01.mp4",
@@ -17725,7 +17461,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng sơ đồ gan bụng"
  },
  {
   "file": "noitang-sodo-ruotnon-01.mp4",
@@ -17748,7 +17484,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng sơ đồ ruotnon"
  },
  {
   "file": "noitang-sodo-than-01.mp4",
@@ -17771,7 +17507,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng sơ đồ thận"
  },
  {
   "file": "noitang-tablet-xquang-phoi-01.mp4",
@@ -17794,13 +17530,13 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng máy tính bảng phim X-quang phổi"
  },
  {
   "file": "noitang-tay-nang-gan-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/NỘI TẠNG/noitang-tay-nang-gan-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "nội tạng tay nâng gan"
  },
  {
   "file": "noitang-tieuhoa-bung-01.mp4",
@@ -17823,7 +17559,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng tiêu hoá đường ruột dạ dày bụng"
  },
  {
   "file": "noitang-tim-catdoi-01.mp4",
@@ -17846,7 +17582,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "nội tạng tim catdoi"
  },
  {
   "file": "phantu-cautruc-xanh-01.mp4",
@@ -18218,7 +17954,7 @@
   "file": "richnatto-anh-nenxanh-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-nenxanh-01.jpg",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "combo hai hộp ảnh tĩnh nền xanh",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -18230,19 +17966,19 @@
   "file": "richnatto-anh-nenxanh-02.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-nenxanh-02.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh nền xanh"
  },
  {
   "file": "richnatto-anh-nenxanh-03.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-nenxanh-03.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh nền xanh"
  },
  {
   "file": "richnatto-anh-treco-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-01.jpg",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ",
   "da_dung": 6,
   "con_lai_sau_khi_anh_sua": 3,
   "co_ban_doi_chieu": 3,
@@ -18315,55 +18051,55 @@
   "file": "richnatto-anh-treco-02.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-02.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "richnatto-anh-treco-03.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-03.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "richnatto-anh-treco-04.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-04.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "richnatto-anh-treco-05.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-05.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "richnatto-anh-treco-06.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-06.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "richnatto-anh-treco-07.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-07.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "richnatto-anh-treco-08.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-08.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "richnatto-anh-treco-09.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-09.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "richnatto-anh-treco-10.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/03 Rich_Natto_product/richnatto-anh-treco-10.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "combo hai hộp ảnh tĩnh trên cỏ"
  },
  {
   "file": "sot-so-tran-01.mp4",
@@ -19043,25 +18779,25 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động hai bà cụ tapkhan"
  },
  {
   "file": "theduc-anh-bacu-gongtay-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Thể dục thể thao/theduc-anh-bacu-gongtay-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ảnh tĩnh bà cụ người lớn tuổi gongtay"
  },
  {
   "file": "theduc-anh-cotuoi-daykhang-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Thể dục thể thao/theduc-anh-cotuoi-daykhang-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ảnh tĩnh người có tuổi dây kháng lực"
  },
  {
   "file": "theduc-anh-nhom-daykhang-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Thể dục thể thao/theduc-anh-nhom-daykhang-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ảnh tĩnh nhóm nhiều người dây kháng lực"
  },
  {
   "file": "theduc-bacu-daykhang-01.mp4",
@@ -19088,7 +18824,7 @@
    21.0,
    32.93
   ],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động bà cụ người lớn tuổi dây kháng lực"
  },
  {
   "file": "theduc-bacu-dibo-bobien-01.mp4",
@@ -19111,7 +18847,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động bà cụ người lớn tuổi đi bộ bờ biển"
  },
  {
   "file": "theduc-bacu-khicong-01.mp4",
@@ -19134,7 +18870,7 @@
   "dai_doan_dai_nhat": 26.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động bà cụ người lớn tuổi khí công dưỡng sinh"
  },
  {
   "file": "theduc-bacu-tap-toi-01.mp4",
@@ -19157,7 +18893,7 @@
   "dai_doan_dai_nhat": 17.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động bà cụ người lớn tuổi tap tối"
  },
  {
   "file": "theduc-bacu-xoayvai-san-01.mp4",
@@ -19180,7 +18916,7 @@
   "dai_doan_dai_nhat": 9.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động bà cụ người lớn tuổi xoayvai sân"
  },
  {
   "file": "theduc-boi-hoboi-01.mp4",
@@ -19203,7 +18939,7 @@
   "dai_doan_dai_nhat": 5.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động bơi hồ bơi"
  },
  {
   "file": "theduc-bong-chay-cau-01.mp4",
@@ -19226,7 +18962,7 @@
   "dai_doan_dai_nhat": 26.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động bóng chạy cầu"
  },
  {
   "file": "theduc-canh-dui-squat-01.mp4",
@@ -19249,7 +18985,7 @@
   "dai_doan_dai_nhat": 25.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động canh dui squat"
  },
  {
   "file": "theduc-canh-tay-dibo-01.mp4",
@@ -19272,7 +19008,7 @@
   "dai_doan_dai_nhat": 10.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động canh tay đi bộ"
  },
  {
   "file": "theduc-canlung-cobap-01.mp4",
@@ -19295,7 +19031,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động canlung cơ bắp"
  },
  {
   "file": "theduc-cauthang-2nu-01.mp4",
@@ -19318,7 +19054,7 @@
   "dai_doan_dai_nhat": 27.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động cầu thang hai nữ"
  },
  {
   "file": "theduc-chan-cauthang-dep-01.mp4",
@@ -19341,7 +19077,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân cầu thang dep"
  },
  {
   "file": "theduc-chan-cauthang-gach-01.mp4",
@@ -19364,7 +19100,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân cầu thang gach"
  },
  {
   "file": "theduc-chan-cauthang-go-01.mp4",
@@ -19387,7 +19123,7 @@
   "dai_doan_dai_nhat": 10.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân cầu thang go"
  },
  {
   "file": "theduc-chan-cauthang-nguocsang-01.mp4",
@@ -19410,7 +19146,7 @@
   "dai_doan_dai_nhat": 19.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân cầu thang nguocsang"
  },
  {
   "file": "theduc-chan-chay-duongmon-01.mp4",
@@ -19433,7 +19169,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân chạy đường mòn"
  },
  {
   "file": "theduc-chan-dapxe-01.mp4",
@@ -19456,7 +19192,7 @@
   "dai_doan_dai_nhat": 16.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân đạp xe"
  },
  {
   "file": "theduc-chan-daykhang-01.mp4",
@@ -19479,7 +19215,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân dây kháng lực"
  },
  {
   "file": "theduc-chan-dibo-hangrao-01.mp4",
@@ -19502,7 +19238,7 @@
   "dai_doan_dai_nhat": 11.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân đi bộ hangrao"
  },
  {
   "file": "theduc-chan-duongmon-01.mp4",
@@ -19525,7 +19261,7 @@
   "dai_doan_dai_nhat": 11.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân đường mòn"
  },
  {
   "file": "theduc-chan-giay-hoanghon-01.mp4",
@@ -19548,7 +19284,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân giấy hoàng hôn"
  },
  {
   "file": "theduc-chan-giay-hoanghon-02.mp4",
@@ -19571,7 +19307,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân giấy hoàng hôn"
  },
  {
   "file": "theduc-chan-giay-viahe-01.mp4",
@@ -19594,7 +19330,7 @@
   "dai_doan_dai_nhat": 6.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân giấy viahe"
  },
  {
   "file": "theduc-chan-xuongdoc-01.mp4",
@@ -19617,7 +19353,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân xuongdoc"
  },
  {
   "file": "theduc-chantran-cokho-01.mp4",
@@ -19640,7 +19376,7 @@
   "dai_doan_dai_nhat": 25.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân trần cokho"
  },
  {
   "file": "theduc-chantran-coxanh-01.mp4",
@@ -19663,7 +19399,7 @@
   "dai_doan_dai_nhat": 22.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chân trần coxanh"
  },
  {
   "file": "theduc-chaybo-bobien-hoanghon-01.mp4",
@@ -19686,7 +19422,7 @@
   "dai_doan_dai_nhat": 17.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ bờ biển hoàng hôn"
  },
  {
   "file": "theduc-chaybo-doi-lung-01.mp4",
@@ -19709,7 +19445,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ đôi hai người lưng"
  },
  {
   "file": "theduc-chaybo-doi-lung-02.mp4",
@@ -19732,7 +19468,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ đôi hai người lưng"
  },
  {
   "file": "theduc-chaybo-doi-rung-doc-01.mp4",
@@ -19755,7 +19491,7 @@
   "dai_doan_dai_nhat": 11.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ đôi hai người rừng khung dọc"
  },
  {
   "file": "theduc-chaybo-doi-tre-01.mp4",
@@ -19778,7 +19514,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ đôi hai người trẻ con"
  },
  {
   "file": "theduc-chaybo-giay-duongdat-01.mp4",
@@ -19813,7 +19549,7 @@
    "NIKE": 1.7
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ giấy duongdat"
  },
  {
   "file": "theduc-chaybo-nam-duong-01.mp4",
@@ -19836,7 +19572,7 @@
   "dai_doan_dai_nhat": 12.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nam đàn ông đường"
  },
  {
   "file": "theduc-chaybo-nam-duong-02.mp4",
@@ -19859,7 +19595,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nam đàn ông đường"
  },
  {
   "file": "theduc-chaybo-nam-rung-01.mp4",
@@ -19884,7 +19620,7 @@
   "doi_canh": [
    18.0
   ],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nam đàn ông rừng"
  },
  {
   "file": "theduc-chaybo-nam-venho-01.mp4",
@@ -19907,7 +19643,7 @@
   "dai_doan_dai_nhat": 15.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nam đàn ông ven hồ"
  },
  {
   "file": "theduc-chaybo-nu-adong-01.mp4",
@@ -19930,7 +19666,7 @@
   "dai_doan_dai_nhat": 7.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nữ phụ nữ châu Á"
  },
  {
   "file": "theduc-chaybo-nu-aodo-01.mp4",
@@ -19953,7 +19689,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nữ phụ nữ áo đỏ"
  },
  {
   "file": "theduc-chaybo-nu-aohong-01.mp4",
@@ -19976,7 +19712,7 @@
   "dai_doan_dai_nhat": 9.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nữ phụ nữ áo hồng"
  },
  {
   "file": "theduc-chaybo-nu-bencang-01.mp4",
@@ -19999,7 +19735,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nữ phụ nữ bencang"
  },
  {
   "file": "theduc-chaybo-nu-cau-01.mp4",
@@ -20022,7 +19758,7 @@
   "dai_doan_dai_nhat": 21.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nữ phụ nữ cầu"
  },
  {
   "file": "theduc-chaybo-nu-hangcay-01.mp4",
@@ -20045,7 +19781,7 @@
   "dai_doan_dai_nhat": 17.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nữ phụ nữ hangcay"
  },
  {
   "file": "theduc-chaybo-nu-tainghe-01.mp4",
@@ -20082,7 +19818,7 @@
    "TEAR": 6.3
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nữ phụ nữ tai nghe"
  },
  {
   "file": "theduc-chaybo-nu-venbien-01.mp4",
@@ -20105,7 +19841,7 @@
   "dai_doan_dai_nhat": 8.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động chạy bộ nữ phụ nữ ven biển"
  },
  {
   "file": "theduc-cotuoi-gianco-hd-01.mp4",
@@ -20128,7 +19864,7 @@
   "dai_doan_dai_nhat": 7.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động người có tuổi giãn cơ hd"
  },
  {
   "file": "theduc-dabong-san-01.mp4",
@@ -20169,7 +19905,7 @@
    "COACH": 13.8
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đá bóng sân"
  },
  {
   "file": "theduc-daykhang-nam-01.mp4",
@@ -20194,7 +19930,7 @@
   "doi_canh": [
    19.87
   ],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động dây kháng lực nam đàn ông"
  },
  {
   "file": "theduc-daykhang-nu-01.mp4",
@@ -20217,7 +19953,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động dây kháng lực nữ phụ nữ"
  },
  {
   "file": "theduc-dibo-3thehe-01.mp4",
@@ -20240,7 +19976,7 @@
   "dai_doan_dai_nhat": 8.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ ba thế hệ"
  },
  {
   "file": "theduc-dibo-balo-doc-01.mp4",
@@ -20263,7 +19999,7 @@
   "dai_doan_dai_nhat": 23.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ ba lô khung dọc"
  },
  {
   "file": "theduc-dibo-datcho-01.mp4",
@@ -20286,7 +20022,7 @@
   "dai_doan_dai_nhat": 16.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ datcho"
  },
  {
   "file": "theduc-dibo-doi-bobien-01.mp4",
@@ -20309,7 +20045,7 @@
   "dai_doan_dai_nhat": 48.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ đôi hai người bờ biển"
  },
  {
   "file": "theduc-dibo-doi-congvien-01.mp4",
@@ -20332,7 +20068,7 @@
   "dai_doan_dai_nhat": 15.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ đôi hai người công viên"
  },
  {
   "file": "theduc-dibo-hoanghon-doc-01.mp4",
@@ -20355,7 +20091,7 @@
   "dai_doan_dai_nhat": 26.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ hoàng hôn khung dọc"
  },
  {
   "file": "theduc-dibo-nam-lung-01.mp4",
@@ -20378,7 +20114,7 @@
   "dai_doan_dai_nhat": 23.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nam đàn ông lưng"
  },
  {
   "file": "theduc-dibo-nam-nui-01.mp4",
@@ -20401,7 +20137,7 @@
   "dai_doan_dai_nhat": 23.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nam đàn ông núi"
  },
  {
   "file": "theduc-dibo-nam-venho-01.mp4",
@@ -20424,7 +20160,7 @@
   "dai_doan_dai_nhat": 12.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nam đàn ông ven hồ"
  },
  {
   "file": "theduc-dibo-nu-aohong-01.mp4",
@@ -20447,7 +20183,7 @@
   "dai_doan_dai_nhat": 14.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nữ phụ nữ áo hồng"
  },
  {
   "file": "theduc-dibo-nu-cau-01.mp4",
@@ -20470,7 +20206,7 @@
   "dai_doan_dai_nhat": 6.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nữ phụ nữ cầu"
  },
  {
   "file": "theduc-dibo-nu-duongdo-01.mp4",
@@ -20493,7 +20229,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nữ phụ nữ đường đất đỏ"
  },
  {
   "file": "theduc-dibo-nu-duongdo-02.mp4",
@@ -20516,7 +20252,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nữ phụ nữ đường đất đỏ"
  },
  {
   "file": "theduc-dibo-nu-duongdo-03.mp4",
@@ -20539,7 +20275,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nữ phụ nữ đường đất đỏ"
  },
  {
   "file": "theduc-dibo-nu-vensong-01.mp4",
@@ -20562,7 +20298,7 @@
   "dai_doan_dai_nhat": 26.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ nữ phụ nữ ven sông"
  },
  {
   "file": "theduc-dibo-rung-doc-01.mp4",
@@ -20585,7 +20321,7 @@
   "dai_doan_dai_nhat": 20.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động đi bộ rừng khung dọc"
  },
  {
   "file": "theduc-gym-nam-canh-01.mp4",
@@ -20608,7 +20344,7 @@
   "dai_doan_dai_nhat": 25.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nam đàn ông canh"
  },
  {
   "file": "theduc-gym-nam-may-01.mp4",
@@ -20631,7 +20367,7 @@
   "dai_doan_dai_nhat": 22.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nam đàn ông máy"
  },
  {
   "file": "theduc-gym-nam-met-01.mp4",
@@ -20654,7 +20390,7 @@
   "dai_doan_dai_nhat": 8.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nam đàn ông mệt"
  },
  {
   "file": "theduc-gym-nam-talung-01.mp4",
@@ -20677,7 +20413,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nam đàn ông talung"
  },
  {
   "file": "theduc-gym-nam-tavai-01.mp4",
@@ -20700,7 +20436,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nam đàn ông tạ vai"
  },
  {
   "file": "theduc-gym-nam-tavai-02.mp4",
@@ -20723,7 +20459,7 @@
   "dai_doan_dai_nhat": 14.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nam đàn ông tạ vai"
  },
  {
   "file": "theduc-gym-nu-dapxe-01.mp4",
@@ -20746,7 +20482,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nữ phụ nữ đạp xe"
  },
  {
   "file": "theduc-gym-nu-keotay-01.mp4",
@@ -20769,7 +20505,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nữ phụ nữ keotay"
  },
  {
   "file": "theduc-gym-nu-may-01.mp4",
@@ -20792,7 +20528,7 @@
   "dai_doan_dai_nhat": 17.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nữ phụ nữ máy"
  },
  {
   "file": "theduc-gym-nu-may-02.mp4",
@@ -20815,7 +20551,7 @@
   "dai_doan_dai_nhat": 20.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nữ phụ nữ máy"
  },
  {
   "file": "theduc-gym-nu-ta-01.mp4",
@@ -20838,7 +20574,7 @@
   "dai_doan_dai_nhat": 15.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động phòng gym nữ phụ nữ tạ"
  },
  {
   "file": "theduc-khoidong-nu-ngoaitroi-01.mp4",
@@ -20861,7 +20597,7 @@
   "dai_doan_dai_nhat": 43.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động khởi động nữ phụ nữ ngoài trời"
  },
  {
   "file": "theduc-khoidong-nu-vensong-01.mp4",
@@ -20884,7 +20620,7 @@
   "dai_doan_dai_nhat": 23.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động khởi động nữ phụ nữ ven sông"
  },
  {
   "file": "theduc-maychay-doi-01.mp4",
@@ -20907,7 +20643,7 @@
   "dai_doan_dai_nhat": 13.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động máy chạy bộ đôi hai người"
  },
  {
   "file": "theduc-maychay-nam-bam-01.mp4",
@@ -20930,7 +20666,7 @@
   "dai_doan_dai_nhat": 59.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động máy chạy bộ nam đàn ông băm"
  },
  {
   "file": "theduc-maychay-nu-01.mp4",
@@ -20953,7 +20689,7 @@
   "dai_doan_dai_nhat": 13.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động máy chạy bộ nữ phụ nữ"
  },
  {
   "file": "theduc-mohinh-cobap-chay-01.mp4",
@@ -20976,7 +20712,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động mô hình 3D cơ bắp chạy"
  },
  {
   "file": "theduc-mohinh-cobap-chay-02.mp4",
@@ -20999,7 +20735,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động mô hình 3D cơ bắp chạy"
  },
  {
   "file": "theduc-mohinh-colung-01.mp4",
@@ -21022,7 +20758,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động mô hình 3D colung"
  },
  {
   "file": "theduc-mohinh-cothe-xanh-01.mp4",
@@ -21045,7 +20781,7 @@
   "dai_doan_dai_nhat": 6.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động mô hình 3D cơ thể màu xanh"
  },
  {
   "file": "theduc-nam-gongcobap-01.mp4",
@@ -21068,7 +20804,7 @@
   "dai_doan_dai_nhat": 10.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nam đàn ông gongcobap"
  },
  {
   "file": "theduc-nam-tho-sauchay-01.mp4",
@@ -21091,7 +20827,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nam đàn ông tho sau khi chạy"
  },
  {
   "file": "theduc-nhom-dibo-venbien-01.mp4",
@@ -21114,7 +20850,7 @@
   "dai_doan_dai_nhat": 14.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nhóm nhiều người đi bộ ven biển"
  },
  {
   "file": "theduc-nu-bongtap-01.mp4",
@@ -21137,7 +20873,7 @@
   "dai_doan_dai_nhat": 15.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nữ phụ nữ bongtap"
  },
  {
   "file": "theduc-nu-buocday-san-01.mp4",
@@ -21160,7 +20896,7 @@
   "dai_doan_dai_nhat": 17.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nữ phụ nữ buocday sân"
  },
  {
   "file": "theduc-nu-dovongeo-01.mp4",
@@ -21183,7 +20919,7 @@
   "dai_doan_dai_nhat": 7.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nữ phụ nữ dovongeo"
  },
  {
   "file": "theduc-nu-khan-cuoi-01.mp4",
@@ -21206,7 +20942,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nữ phụ nữ khăn cười vui vẻ"
  },
  {
   "file": "theduc-nu-laumohoi-01.mp4",
@@ -21229,7 +20965,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nữ phụ nữ lau mồ hôi"
  },
  {
   "file": "theduc-nu-tapbung-tham-01.mp4",
@@ -21252,7 +20988,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nữ phụ nữ tapbung thảm tập"
  },
  {
   "file": "theduc-nu-tham-ngoi-01.mp4",
@@ -21275,7 +21011,7 @@
   "dai_doan_dai_nhat": 10.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nữ phụ nữ thảm tập ngồi"
  },
  {
   "file": "theduc-nu-trungnien-tainghe-01.mp4",
@@ -21298,7 +21034,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nữ phụ nữ trung niên tai nghe"
  },
  {
   "file": "theduc-ong-gianco-lancan-01.mp4",
@@ -21321,7 +21057,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông giãn cơ lan can"
  },
  {
   "file": "theduc-ongba-chaybo-01.mp4",
@@ -21344,7 +21080,7 @@
   "dai_doan_dai_nhat": 13.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông bà người lớn tuổi chạy bộ"
  },
  {
   "file": "theduc-ongba-dibo-pho-01.mp4",
@@ -21367,7 +21103,7 @@
   "dai_doan_dai_nhat": 31.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông bà người lớn tuổi đi bộ phố"
  },
  {
   "file": "theduc-ongba-dibo-pho-02.mp4",
@@ -21390,7 +21126,7 @@
   "dai_doan_dai_nhat": 31.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông bà người lớn tuổi đi bộ phố"
  },
  {
   "file": "theduc-ongba-dibo-vui-01.mp4",
@@ -21413,7 +21149,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông bà người lớn tuổi đi bộ vui vẻ"
  },
  {
   "file": "theduc-ongcu-chay-baico-01.mp4",
@@ -21436,7 +21172,7 @@
   "dai_doan_dai_nhat": 11.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi chạy bãi cỏ"
  },
  {
   "file": "theduc-ongcu-chay-canh-01.mp4",
@@ -21459,7 +21195,7 @@
   "dai_doan_dai_nhat": 29.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi chạy canh"
  },
  {
   "file": "theduc-ongcu-chay-canh-02.mp4",
@@ -21482,7 +21218,7 @@
   "dai_doan_dai_nhat": 29.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi chạy canh"
  },
  {
   "file": "theduc-ongcu-chay-canh-03.mp4",
@@ -21505,7 +21241,7 @@
   "dai_doan_dai_nhat": 27.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi chạy canh"
  },
  {
   "file": "theduc-ongcu-dapxe-01.mp4",
@@ -21528,7 +21264,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi đạp xe"
  },
  {
   "file": "theduc-ongcu-dapxe-gym-01.mp4",
@@ -21553,7 +21289,7 @@
   "doi_canh": [
    14.2
   ],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi đạp xe phòng gym"
  },
  {
   "file": "theduc-ongcu-khicong-01.mp4",
@@ -21576,7 +21312,7 @@
   "dai_doan_dai_nhat": 13.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi khí công dưỡng sinh"
  },
  {
   "file": "theduc-ongcu-tata-hlv-01.mp4",
@@ -21599,7 +21335,7 @@
   "dai_doan_dai_nhat": 19.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi tata huấn luyện viên"
  },
  {
   "file": "theduc-ongcu-vuontay-01.mp4",
@@ -21622,7 +21358,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động ông cụ người lớn tuổi vươn tay"
  },
  {
   "file": "theduc-pickleball-2nu-01.mp4",
@@ -21645,7 +21381,7 @@
   "dai_doan_dai_nhat": 14.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động pickleball hai nữ"
  },
  {
   "file": "theduc-pickleball-bacu-01.mp4",
@@ -21668,7 +21404,7 @@
   "dai_doan_dai_nhat": 18.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động pickleball bà cụ người lớn tuổi"
  },
  {
   "file": "theduc-pickleball-nam-01.mp4",
@@ -21691,7 +21427,7 @@
   "dai_doan_dai_nhat": 17.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động pickleball nam đàn ông"
  },
  {
   "file": "theduc-pickleball-nhom-01.mp4",
@@ -21714,7 +21450,7 @@
   "dai_doan_dai_nhat": 11.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động pickleball nhóm nhiều người"
  },
  {
   "file": "theduc-pickleball-omnhau-01.mp4",
@@ -21737,7 +21473,7 @@
   "dai_doan_dai_nhat": 11.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động pickleball omnhau"
  },
  {
   "file": "theduc-pickleball-ongcu-01.mp4",
@@ -21760,7 +21496,7 @@
   "dai_doan_dai_nhat": 7.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động pickleball ông cụ người lớn tuổi"
  },
  {
   "file": "theduc-pickleball-trongnha-01.mp4",
@@ -21783,7 +21519,7 @@
   "dai_doan_dai_nhat": 13.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động pickleball trong nhà"
  },
  {
   "file": "theduc-plank-nam-01.mp4",
@@ -21806,7 +21542,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động plank nam đàn ông"
  },
  {
   "file": "theduc-san-nhintren-01.mp4",
@@ -21829,7 +21565,7 @@
   "dai_doan_dai_nhat": 11.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động sân nhìn từ trên"
  },
  {
   "file": "theduc-su-khatthuc-01.mp4",
@@ -21852,7 +21588,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động nhà sư khất thực"
  },
  {
   "file": "theduc-tennis-nam-san-01.mp4",
@@ -21875,7 +21611,7 @@
   "dai_doan_dai_nhat": 22.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động tennis nam đàn ông sân"
  },
  {
   "file": "theduc-uongnuoc-nu-01.mp4",
@@ -21898,7 +21634,7 @@
   "dai_doan_dai_nhat": 6.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động uống nước nữ phụ nữ"
  },
  {
   "file": "theduc-vo-dai-01.mp4",
@@ -21921,7 +21657,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động võ dài"
  },
  {
   "file": "theduc-vo-karate-tre-01.mp4",
@@ -21944,7 +21680,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động võ võ karate trẻ con"
  },
  {
   "file": "theduc-vuonvai-nu-duongchay-01.mp4",
@@ -21967,7 +21703,7 @@
   "dai_doan_dai_nhat": 18.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động vươn vai nữ phụ nữ duongchay"
  },
  {
   "file": "theduc-xedaptap-canh-01.mp4",
@@ -21990,7 +21726,7 @@
   "dai_doan_dai_nhat": 26.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động xe đạp tập canh"
  },
  {
   "file": "theduc-yoga-nu-nghieng-01.mp4",
@@ -22013,7 +21749,7 @@
   "dai_doan_dai_nhat": 9.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động yoga nữ phụ nữ nghiêng"
  },
  {
   "file": "theduc-yoga-nu-taychan-01.mp4",
@@ -22036,7 +21772,7 @@
   "dai_doan_dai_nhat": 21.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "thể dục thể thao vận động yoga nữ phụ nữ taychan"
  },
  {
   "file": "tieuhoa-boncau-01.mp4",
@@ -22059,13 +21795,13 @@
   "dai_doan_dai_nhat": 7.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày bồn cầu nhà vệ sinh"
  },
  {
   "file": "tieuhoa-boncau-ghekechan-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đau Bụng - Tiêu hóa/tieuhoa-boncau-ghekechan-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày bồn cầu nhà vệ sinh ghekechan"
  },
  {
   "file": "tieuhoa-chu-bacteria-01.mp4",
@@ -22175,7 +21911,7 @@
   "doi_canh": [
    19.83
   ],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày chữ bacteria"
  },
  {
   "file": "tieuhoa-cuongiay-01.mp4",
@@ -22198,31 +21934,31 @@
   "dai_doan_dai_nhat": 10.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày cuongiay"
  },
  {
   "file": "tieuhoa-dohoa-curcumin-dady-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đau Bụng - Tiêu hóa/tieuhoa-dohoa-curcumin-dady-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày đồ hoạ curcumin nghệ dạ dày"
  },
  {
   "file": "tieuhoa-dohoa-curcumin-ruot-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đau Bụng - Tiêu hóa/tieuhoa-dohoa-curcumin-ruot-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày đồ hoạ curcumin nghệ ruột"
  },
  {
   "file": "tieuhoa-dohoa-curcumin-sosanh-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đau Bụng - Tiêu hóa/tieuhoa-dohoa-curcumin-sosanh-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày đồ hoạ curcumin nghệ so sánh"
  },
  {
   "file": "tieuhoa-hoathinh-bung-xanh-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đau Bụng - Tiêu hóa/tieuhoa-hoathinh-bung-xanh-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày hoạt hình bụng màu xanh"
  },
  {
   "file": "tieuhoa-longnhung-loikhuan-01.mp4",
@@ -22245,7 +21981,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày longnhung lợi khuẩn"
  },
  {
   "file": "tieuhoa-longruot-can-01.mp4",
@@ -22268,7 +22004,7 @@
   "dai_doan_dai_nhat": 14.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày lòng ruột cân"
  },
  {
   "file": "tieuhoa-longruot-vikhuan-01.mp4",
@@ -22443,7 +22179,7 @@
    135.77,
    140.87
   ],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày lòng ruột vi khuẩn"
  },
  {
   "file": "tieuhoa-nam-boncau-dienthoai-01.mp4",
@@ -22466,7 +22202,7 @@
   "dai_doan_dai_nhat": 24.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nam đàn ông bồn cầu nhà vệ sinh điện thoại"
  },
  {
   "file": "tieuhoa-nam-boncau-ombung-01.mp4",
@@ -22489,7 +22225,7 @@
   "dai_doan_dai_nhat": 28.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nam đàn ông bồn cầu nhà vệ sinh ôm bụng"
  },
  {
   "file": "tieuhoa-nam-ombung-boncau-01.mp4",
@@ -22512,7 +22248,7 @@
   "dai_doan_dai_nhat": 20.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nam đàn ông ôm bụng bồn cầu nhà vệ sinh"
  },
  {
   "file": "tieuhoa-nam-ombung-do-01.mp4",
@@ -22535,7 +22271,7 @@
   "dai_doan_dai_nhat": 10.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nam đàn ông ôm bụng màu đỏ"
  },
  {
   "file": "tieuhoa-nam-ombung-wc-01.mp4",
@@ -22558,7 +22294,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nam đàn ông ôm bụng wc"
  },
  {
   "file": "tieuhoa-nam-thatlung-01.mp4",
@@ -22581,7 +22317,7 @@
   "dai_doan_dai_nhat": 7.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nam đàn ông thatlung"
  },
  {
   "file": "tieuhoa-nam-voi-boncau-01.mp4",
@@ -22604,7 +22340,7 @@
   "dai_doan_dai_nhat": 13.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nam đàn ông voi bồn cầu nhà vệ sinh"
  },
  {
   "file": "tieuhoa-nghe-bat-01.mp4",
@@ -22627,13 +22363,13 @@
   "dai_doan_dai_nhat": 12.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nghệ bát"
  },
  {
   "file": "tieuhoa-nghe-bot-nenden-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đau Bụng - Tiêu hóa/tieuhoa-nghe-bot-nenden-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nghệ bột nền đen"
  },
  {
   "file": "tieuhoa-nghe-bot-thia-01.mp4",
@@ -22656,7 +22392,7 @@
   "dai_doan_dai_nhat": 12.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nghệ bột thìa"
  },
  {
   "file": "tieuhoa-nghe-chen-01.mp4",
@@ -22679,7 +22415,7 @@
   "dai_doan_dai_nhat": 7.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nghệ chén"
  },
  {
   "file": "tieuhoa-nu-boncau-dienthoai-01.mp4",
@@ -22702,7 +22438,7 @@
   "dai_doan_dai_nhat": 20.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nữ phụ nữ bồn cầu nhà vệ sinh điện thoại"
  },
  {
   "file": "tieuhoa-nu-ohoi-ban-01.mp4",
@@ -22725,7 +22461,7 @@
   "dai_doan_dai_nhat": 19.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nữ phụ nữ ợ hơi bàn"
  },
  {
   "file": "tieuhoa-nu-ombung-01.mp4",
@@ -22748,7 +22484,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nữ phụ nữ ôm bụng"
  },
  {
   "file": "tieuhoa-nu-ombung-sofa-01.mp4",
@@ -22771,7 +22507,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nữ phụ nữ ôm bụng ghế sofa"
  },
  {
   "file": "tieuhoa-nu-onong-ban-01.mp4",
@@ -22794,7 +22530,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nữ phụ nữ ợ nóng bàn"
  },
  {
   "file": "tieuhoa-nu-onong-sauan-01.mp4",
@@ -22817,7 +22553,7 @@
   "dai_doan_dai_nhat": 12.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày nữ phụ nữ ợ nóng sauan"
  },
  {
   "file": "tieuhoa-sodo-daitrang-01.mp4",
@@ -22840,13 +22576,13 @@
   "dai_doan_dai_nhat": 13.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày sơ đồ đại tràng"
  },
  {
   "file": "tieuhoa-truc-nao-ruot-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đau Bụng - Tiêu hóa/tieuhoa-truc-nao-ruot-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày truc não ruột"
  },
  {
   "file": "tieuhoa-vikhuan-canh-01.mp4",
@@ -22953,13 +22689,13 @@
    "A Promise for Life": 135.7
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày vi khuẩn canh"
  },
  {
   "file": "tieuhoa-xoa-bung-doc-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Đau Bụng - Tiêu hóa/tieuhoa-xoa-bung-doc-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tiêu hoá đường ruột dạ dày xoa bóp bụng khung dọc"
  },
  {
   "file": "tim-dap-nento-01.mp4",
@@ -23405,7 +23141,7 @@
   "dai_doan_dai_nhat": 11.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp hai nữ guong"
  },
  {
   "file": "tocda-bacu-nepnhan-01.mp4",
@@ -23428,7 +23164,7 @@
   "dai_doan_dai_nhat": 12.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp bà cụ người lớn tuổi nếp nhăn"
  },
  {
   "file": "tocda-chantoc-dadau-01.mp4",
@@ -23451,7 +23187,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp chantoc da đầu"
  },
  {
   "file": "tocda-dadau-nangtoc-01.mp4",
@@ -23474,7 +23210,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp da đầu nang tóc chân tóc"
  },
  {
   "file": "tocda-mohinh-nangtoc-01.mp4",
@@ -23497,7 +23233,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp mô hình 3D nang tóc chân tóc"
  },
  {
   "file": "tocda-mohinh-nangtoc-muiten-01.mp4",
@@ -23520,7 +23256,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp mô hình 3D nang tóc chân tóc muiten"
  },
  {
   "file": "tocda-nangtoc-nuoc-01.mp4",
@@ -23543,7 +23279,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nang tóc chân tóc nước"
  },
  {
   "file": "tocda-nu-cham-mat-01.mp4",
@@ -23566,7 +23302,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nữ phụ nữ chạm mặt"
  },
  {
   "file": "tocda-nu-cham-mat-02.mp4",
@@ -23589,7 +23325,7 @@
   "dai_doan_dai_nhat": 12.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nữ phụ nữ chạm mặt"
  },
  {
   "file": "tocda-nu-cham-mat-nang-01.mp4",
@@ -23612,7 +23348,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nữ phụ nữ chạm mặt nâng"
  },
  {
   "file": "tocda-nu-cham-tai-01.mp4",
@@ -23635,7 +23371,7 @@
   "dai_doan_dai_nhat": 12.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nữ phụ nữ chạm tai"
  },
  {
   "file": "tocda-nu-cuoi-vaitran-01.mp4",
@@ -23658,7 +23394,7 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nữ phụ nữ cười vui vẻ vaitran"
  },
  {
   "file": "tocda-nu-matna-doc-01.mp4",
@@ -23681,7 +23417,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nữ phụ nữ matna khung dọc"
  },
  {
   "file": "tocda-nu-omat-cuoi-01.mp4",
@@ -23704,7 +23440,7 @@
   "dai_doan_dai_nhat": 16.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nữ phụ nữ omat cười vui vẻ"
  },
  {
   "file": "tocda-nu-tocdai-01.mp4",
@@ -23727,13 +23463,13 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp nữ phụ nữ tocdai"
  },
  {
   "file": "tocda-rethuoc-bac-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/TÓC- DA- LÀM ĐẸP/tocda-rethuoc-bac-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp rethuoc bac"
  },
  {
   "file": "tocda-sodo-nangtoc-xanh-01.mp4",
@@ -23756,7 +23492,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp sơ đồ nang tóc chân tóc màu xanh"
  },
  {
   "file": "tocda-soitoc-den-01.mp4",
@@ -23779,7 +23515,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp sợi tóc màu đen"
  },
  {
   "file": "tocda-soitoc-dna-01.mp4",
@@ -23802,7 +23538,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp sợi tóc DNA"
  },
  {
   "file": "tocda-soitoc-duongchat-01.mp4",
@@ -23825,7 +23561,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp sợi tóc duongchat"
  },
  {
   "file": "tocda-soitoc-giotnuoc-01.mp4",
@@ -23848,7 +23584,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp sợi tóc giotnuoc"
  },
  {
   "file": "tocda-toc-rung-luoc-01.mp4",
@@ -23871,7 +23607,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp tóc rừng lược"
  },
  {
   "file": "tocda-toc-rung-luoc-02.mp4",
@@ -23894,7 +23630,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp tóc rừng lược"
  },
  {
   "file": "tocda-toc-uot-goi-01.mp4",
@@ -23917,7 +23653,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp tóc uot đầu gối"
  },
  {
   "file": "tocda-voisen-toc-01.mp4",
@@ -23940,7 +23676,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "tóc da làm đẹp voisen tóc"
  },
  {
   "file": "vanphong-2nam-cho-01.mp4",
@@ -23963,7 +23699,7 @@
   "dai_doan_dai_nhat": 17.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở hai nam chợ"
  },
  {
   "file": "vanphong-aplic-dongnghiep-01.mp4",
@@ -23986,7 +23722,7 @@
   "dai_doan_dai_nhat": 14.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở áp lực đồng nghiệp"
  },
  {
   "file": "vanphong-aplic-dongnghiep-02.mp4",
@@ -24011,7 +23747,7 @@
   "doi_canh": [
    21.93
   ],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở áp lực đồng nghiệp"
  },
  {
   "file": "vanphong-bong-chu-stress-01.mp4",
@@ -24046,7 +23782,7 @@
    "SCARED": 1.6
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở bóng chữ căng thẳng stress"
  },
  {
   "file": "vanphong-bong-nguoi-lam-01.mp4",
@@ -24069,7 +23805,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở bóng nguoi làm việc"
  },
  {
   "file": "vanphong-damdong-pho-01.mp4",
@@ -24092,7 +23828,7 @@
   "dai_doan_dai_nhat": 8.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở đám đông phố"
  },
  {
   "file": "vanphong-hop-nhom-ban-01.mp4",
@@ -24115,7 +23851,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở hộp sản phẩm nhóm nhiều người bàn"
  },
  {
   "file": "vanphong-nam-bopgiay-01.mp4",
@@ -24138,7 +23874,7 @@
   "dai_doan_dai_nhat": 15.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông bopgiay"
  },
  {
   "file": "vanphong-nam-camcoc-01.mp4",
@@ -24161,7 +23897,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông camcoc"
  },
  {
   "file": "vanphong-nam-camgiay-dem-01.mp4",
@@ -24184,7 +23920,7 @@
   "dai_doan_dai_nhat": 11.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông camgiay ban đêm"
  },
  {
   "file": "vanphong-nam-cauthang-01.mp4",
@@ -24207,7 +23943,7 @@
   "dai_doan_dai_nhat": 13.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông cầu thang"
  },
  {
   "file": "vanphong-nam-cuaso-caooc-01.mp4",
@@ -24232,7 +23968,7 @@
   "doi_canh": [
    43.7
   ],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông cửa sổ caooc"
  },
  {
   "file": "vanphong-nam-dienthoai-hoso-01.mp4",
@@ -24255,7 +23991,7 @@
   "dai_doan_dai_nhat": 20.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông điện thoại hồ sơ giấy tờ"
  },
  {
   "file": "vanphong-nam-doc-tailieu-01.mp4",
@@ -24278,7 +24014,7 @@
   "dai_doan_dai_nhat": 31.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông khung dọc tailieu"
  },
  {
   "file": "vanphong-nam-guc-deadline-01.mp4",
@@ -24301,7 +24037,7 @@
   "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông gục xuống deadline"
  },
  {
   "file": "vanphong-nam-hoso-dem-01.mp4",
@@ -24324,7 +24060,7 @@
   "dai_doan_dai_nhat": 9.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông hồ sơ giấy tờ ban đêm"
  },
  {
   "file": "vanphong-nam-hoso-dem-02.mp4",
@@ -24347,7 +24083,7 @@
   "dai_doan_dai_nhat": 9.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông hồ sơ giấy tờ ban đêm"
  },
  {
   "file": "vanphong-nam-lamdem-01.mp4",
@@ -24370,7 +24106,7 @@
   "dai_doan_dai_nhat": 18.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông lamdem"
  },
  {
   "file": "vanphong-nam-ngaghe-01.mp4",
@@ -24393,7 +24129,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông ngaghe"
  },
  {
   "file": "vanphong-nam-tablet-dem-01.mp4",
@@ -24419,7 +24155,7 @@
    7.0,
    22.0
   ],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nam đàn ông máy tính bảng ban đêm"
  },
  {
   "file": "vanphong-nhom-dung-01.mp4",
@@ -24442,7 +24178,7 @@
   "dai_doan_dai_nhat": 10.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nhóm nhiều người dung"
  },
  {
   "file": "vanphong-nhom-lamviec-01.mp4",
@@ -24465,7 +24201,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nhóm nhiều người lamviec"
  },
  {
   "file": "vanphong-nu-an-tai-ban-01.mp4",
@@ -24488,7 +24224,7 @@
   "dai_doan_dai_nhat": 24.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ ăn tai bàn"
  },
  {
   "file": "vanphong-nu-ban-sang-01.mp4",
@@ -24511,7 +24247,7 @@
   "dai_doan_dai_nhat": 18.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ bàn sáng"
  },
  {
   "file": "vanphong-nu-ban-trong-01.mp4",
@@ -24534,7 +24270,7 @@
   "dai_doan_dai_nhat": 26.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ bàn trồng"
  },
  {
   "file": "vanphong-nu-cuaso-01.mp4",
@@ -24557,7 +24293,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ cửa sổ"
  },
  {
   "file": "vanphong-nu-cuigap-01.mp4",
@@ -24580,7 +24316,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ cúi gập"
  },
  {
   "file": "vanphong-nu-giotay-doc-01.mp4",
@@ -24603,7 +24339,7 @@
   "dai_doan_dai_nhat": 21.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ giotay khung dọc"
  },
  {
   "file": "vanphong-nu-guc-doc-01.mp4",
@@ -24626,7 +24362,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ gục xuống khung dọc"
  },
  {
   "file": "vanphong-nu-met-chemat-01.mp4",
@@ -24649,7 +24385,7 @@
   "dai_doan_dai_nhat": 23.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ mệt che mặt"
  },
  {
   "file": "vanphong-nu-mung-ban-01.mp4",
@@ -24672,7 +24408,7 @@
   "dai_doan_dai_nhat": 25.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ mung bàn"
  },
  {
   "file": "vanphong-nu-ngap-ngoaitroi-01.mp4",
@@ -24695,7 +24431,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ ngáp ngoài trời"
  },
  {
   "file": "vanphong-nu-tainghe-dem-01.mp4",
@@ -24718,7 +24454,7 @@
   "dai_doan_dai_nhat": 15.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ tai nghe ban đêm"
  },
  {
   "file": "vanphong-nu-tainghe-doc-01.mp4",
@@ -24741,7 +24477,7 @@
   "dai_doan_dai_nhat": 15.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ tai nghe khung dọc"
  },
  {
   "file": "vanphong-nu-tainghe-manhinh-01.mp4",
@@ -24764,7 +24500,7 @@
   "dai_doan_dai_nhat": 43.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ tai nghe màn hình"
  },
  {
   "file": "vanphong-nu-thugian-ban-01.mp4",
@@ -24787,7 +24523,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ thugian bàn"
  },
  {
   "file": "vanphong-nu-tongdai-01.mp4",
@@ -24810,7 +24546,7 @@
   "dai_doan_dai_nhat": 18.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ tổng đài"
  },
  {
   "file": "vanphong-nu-tongdai-canh-01.mp4",
@@ -24833,7 +24569,7 @@
   "dai_doan_dai_nhat": 19.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ tổng đài canh"
  },
  {
   "file": "vanphong-nu-viet-ban-01.mp4",
@@ -24856,7 +24592,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ viết bàn"
  },
  {
   "file": "vanphong-nu-vuontay-ngap-01.mp4",
@@ -24895,7 +24631,7 @@
    "m 1111": 3.2
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ vươn tay ngáp"
  },
  {
   "file": "vanphong-nu-vuonvai-ban-01.mp4",
@@ -24918,7 +24654,7 @@
   "dai_doan_dai_nhat": 21.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ vươn vai bàn"
  },
  {
   "file": "vanphong-nu-vuonvai-doc-01.mp4",
@@ -24941,13 +24677,13 @@
   "dai_doan_dai_nhat": 16.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "dân văn phòng công sở nữ phụ nữ vươn vai khung dọc"
  },
  {
   "file": "xovua-anh-manghep-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-anh-manghep-01.jpg",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "xơ vữa mảng bám ảnh tĩnh manghep",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -24959,7 +24695,7 @@
   "file": "xovua-anh-tacmach-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/02 Mạch Máu - Thần Kinh - TẾ BÀO/xovua-anh-tacmach-01.jpg",
   "anh": true,
-  "mo_ta": {},
+  "mo_ta": "xơ vữa mảng bám ảnh tĩnh tắc mạch",
   "da_dung": 0,
   "con_lai_sau_khi_anh_sua": 0,
   "co_ban_doi_chieu": 0,
@@ -25787,7 +25523,7 @@
   "dai_doan_dai_nhat": 31.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp hai bà cụ giupnhau"
  },
  {
   "file": "xuongkhop-bacsi-kham-giuong-01.mp4",
@@ -25810,7 +25546,7 @@
   "dai_doan_dai_nhat": 21.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bác sĩ khám giường"
  },
  {
   "file": "xuongkhop-bacsi-kham-lung-01.mp4",
@@ -25833,7 +25569,7 @@
   "dai_doan_dai_nhat": 6.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bác sĩ khám lưng"
  },
  {
   "file": "xuongkhop-bacsi-kham-xelan-01.mp4",
@@ -25856,7 +25592,7 @@
   "dai_doan_dai_nhat": 11.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bác sĩ khám xe lăn"
  },
  {
   "file": "xuongkhop-bacsi-khamgoi-ongcu-01.mp4",
@@ -25895,13 +25631,13 @@
    "SBBI": 6.0
   },
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bác sĩ khamgoi ông cụ người lớn tuổi"
  },
  {
   "file": "xuongkhop-bacsi-mohinh-cotsong-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Xương khớp - Đau/xuongkhop-bacsi-mohinh-cotsong-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bác sĩ mô hình 3D cột sống"
  },
  {
   "file": "xuongkhop-bacsi-mohinh-cotsong-02.mp4",
@@ -25924,7 +25660,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bác sĩ mô hình 3D cột sống"
  },
  {
   "file": "xuongkhop-bacsi-nanco-nu-01.mp4",
@@ -25947,7 +25683,7 @@
   "dai_doan_dai_nhat": 22.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bác sĩ nanco nữ phụ nữ"
  },
  {
   "file": "xuongkhop-bacu-cauthang-gay-01.mp4",
@@ -25970,7 +25706,7 @@
   "dai_doan_dai_nhat": 14.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bà cụ người lớn tuổi cầu thang gáy"
  },
  {
   "file": "xuongkhop-bacu-nhanmat-01.mp4",
@@ -25993,7 +25729,7 @@
   "dai_doan_dai_nhat": 15.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bà cụ người lớn tuổi nhăn mặt đau"
  },
  {
   "file": "xuongkhop-bacu-omvai-01.mp4",
@@ -26016,7 +25752,7 @@
   "dai_doan_dai_nhat": 9.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bà cụ người lớn tuổi ôm vai"
  },
  {
   "file": "xuongkhop-bacu-sofa-omgoi-01.mp4",
@@ -26039,7 +25775,7 @@
   "dai_doan_dai_nhat": 25.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bà cụ người lớn tuổi ghế sofa ôm gối"
  },
  {
   "file": "xuongkhop-bacu-sofa-omgoi-02.mp4",
@@ -26062,7 +25798,7 @@
   "dai_doan_dai_nhat": 22.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bà cụ người lớn tuổi ghế sofa ôm gối"
  },
  {
   "file": "xuongkhop-bacu-sofa-omlung-01.mp4",
@@ -26085,7 +25821,7 @@
   "dai_doan_dai_nhat": 6.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp bà cụ người lớn tuổi ghế sofa ôm lưng"
  },
  {
   "file": "xuongkhop-cauthang-gay-01.mp4",
@@ -26108,7 +25844,7 @@
   "dai_doan_dai_nhat": 11.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp cầu thang gáy"
  },
  {
   "file": "xuongkhop-chan-cauthang-01.mp4",
@@ -26131,7 +25867,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp chân cầu thang"
  },
  {
   "file": "xuongkhop-chan-nam-diduong-01.mp4",
@@ -26154,7 +25890,7 @@
   "dai_doan_dai_nhat": 9.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp chân nam đàn ông đi đường"
  },
  {
   "file": "xuongkhop-chan-nam-diduong-02.mp4",
@@ -26177,7 +25913,7 @@
   "dai_doan_dai_nhat": 9.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp chân nam đàn ông đi đường"
  },
  {
   "file": "xuongkhop-do-bacu-khungdi-01.mp4",
@@ -26200,7 +25936,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp màu đỏ bà cụ người lớn tuổi khung tập đi"
  },
  {
   "file": "xuongkhop-eo-nu-2tay-01.mp4",
@@ -26223,7 +25959,7 @@
   "dai_doan_dai_nhat": 23.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp eo vòng eo nữ phụ nữ hai tay"
  },
  {
   "file": "xuongkhop-goi-canh-nu-01.mp4",
@@ -26246,13 +25982,13 @@
   "dai_doan_dai_nhat": 13.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp đầu gối canh nữ phụ nữ"
  },
  {
   "file": "xuongkhop-goi-hieuung-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Xương khớp - Đau/xuongkhop-goi-hieuung-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp đầu gối hieuung"
  },
  {
   "file": "xuongkhop-goi-nu-2tay-01.mp4",
@@ -26275,7 +26011,7 @@
   "dai_doan_dai_nhat": 9.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp đầu gối nữ phụ nữ hai tay"
  },
  {
   "file": "xuongkhop-lung-cotsong-do-01.mp4",
@@ -26298,7 +26034,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp lưng cột sống màu đỏ"
  },
  {
   "file": "xuongkhop-lung-nam-2tay-01.mp4",
@@ -26321,7 +26057,7 @@
   "dai_doan_dai_nhat": 29.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp lưng nam đàn ông hai tay"
  },
  {
   "file": "xuongkhop-lung-nam-2tay-02.mp4",
@@ -26344,7 +26080,7 @@
   "dai_doan_dai_nhat": 28.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp lưng nam đàn ông hai tay"
  },
  {
   "file": "xuongkhop-lung-nu-bim-01.mp4",
@@ -26367,7 +26103,7 @@
   "dai_doan_dai_nhat": 8.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp lưng nữ phụ nữ bim"
  },
  {
   "file": "xuongkhop-lung-nu-chongtay-01.mp4",
@@ -26390,13 +26126,13 @@
   "dai_doan_dai_nhat": 14.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp lưng nữ phụ nữ chongtay"
  },
  {
   "file": "xuongkhop-lung-vetsang-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Xương khớp - Đau/xuongkhop-lung-vetsang-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp lưng vetsang"
  },
  {
   "file": "xuongkhop-mohinh-banchan-01.mp4",
@@ -26419,7 +26155,7 @@
   "dai_doan_dai_nhat": 6.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D bàn chân"
  },
  {
   "file": "xuongkhop-mohinh-cochan-01.mp4",
@@ -26442,7 +26178,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D cochan"
  },
  {
   "file": "xuongkhop-mohinh-codui-cam-01.mp4",
@@ -26465,7 +26201,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D codui cam"
  },
  {
   "file": "xuongkhop-mohinh-cothe-01.mp4",
@@ -26488,7 +26224,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D cơ thể"
  },
  {
   "file": "xuongkhop-mohinh-cotsong-cam-01.mp4",
@@ -26511,7 +26247,7 @@
   "dai_doan_dai_nhat": 5.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D cột sống cam"
  },
  {
   "file": "xuongkhop-mohinh-cotsong-cam-02.mp4",
@@ -26534,7 +26270,7 @@
   "dai_doan_dai_nhat": 5.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D cột sống cam"
  },
  {
   "file": "xuongkhop-mohinh-dotsong-01.mp4",
@@ -26557,7 +26293,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đốt sống"
  },
  {
   "file": "xuongkhop-mohinh-dotsong-xanh-01.mp4",
@@ -26580,7 +26316,7 @@
   "dai_doan_dai_nhat": 20.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đốt sống màu xanh"
  },
  {
   "file": "xuongkhop-mohinh-goi-co-01.mp4",
@@ -26603,7 +26339,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đầu gối cỏ bãi cỏ"
  },
  {
   "file": "xuongkhop-mohinh-goi-co-02.mp4",
@@ -26626,7 +26362,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đầu gối cỏ bãi cỏ"
  },
  {
   "file": "xuongkhop-mohinh-goi-do-01.mp4",
@@ -26649,7 +26385,7 @@
   "dai_doan_dai_nhat": 9.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đầu gối màu đỏ"
  },
  {
   "file": "xuongkhop-mohinh-goi-mau-01.mp4",
@@ -26672,7 +26408,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đầu gối máu"
  },
  {
   "file": "xuongkhop-mohinh-goi-nenxanh-01.mp4",
@@ -26695,7 +26431,7 @@
   "dai_doan_dai_nhat": 13.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đầu gối nền xanh"
  },
  {
   "file": "xuongkhop-mohinh-goi-phatsang-01.mp4",
@@ -26718,7 +26454,7 @@
   "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đầu gối phát sáng"
  },
  {
   "file": "xuongkhop-mohinh-goi-vang-01.mp4",
@@ -26741,7 +26477,7 @@
   "dai_doan_dai_nhat": 5.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đầu gối màu vàng"
  },
  {
   "file": "xuongkhop-mohinh-goi-xanh-01.mp4",
@@ -26764,7 +26500,7 @@
   "dai_doan_dai_nhat": 14.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D đầu gối màu xanh"
  },
  {
   "file": "xuongkhop-mohinh-khophang-01.mp4",
@@ -26787,7 +26523,7 @@
   "dai_doan_dai_nhat": 5.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D khớp háng"
  },
  {
   "file": "xuongkhop-mohinh-xuong-bot-01.mp4",
@@ -26810,7 +26546,7 @@
   "dai_doan_dai_nhat": 5.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D xương bột"
  },
  {
   "file": "xuongkhop-mohinh-xuong-bot-02.mp4",
@@ -26833,7 +26569,7 @@
   "dai_doan_dai_nhat": 5.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D xương bột"
  },
  {
   "file": "xuongkhop-mohinh-xuong-bot-03.mp4",
@@ -26856,7 +26592,7 @@
   "dai_doan_dai_nhat": 5.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D xương bột"
  },
  {
   "file": "xuongkhop-mohinh-xuongxop-toi-01.mp4",
@@ -26879,7 +26615,7 @@
   "dai_doan_dai_nhat": 9.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D xương xốp loãng xương tối"
  },
  {
   "file": "xuongkhop-mohinh-xuongxop-trang-01.mp4",
@@ -26902,7 +26638,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D xương xốp loãng xương màu trắng"
  },
  {
   "file": "xuongkhop-mohinh-xuongxop-vang-01.mp4",
@@ -26925,7 +26661,7 @@
   "dai_doan_dai_nhat": 5.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp mô hình 3D xương xốp loãng xương màu vàng"
  },
  {
   "file": "xuongkhop-nam-camgay-01.mp4",
@@ -26948,7 +26684,7 @@
   "dai_doan_dai_nhat": 11.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông camgay"
  },
  {
   "file": "xuongkhop-nam-cotsong-do-01.mp4",
@@ -26971,7 +26707,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông cột sống màu đỏ"
  },
  {
   "file": "xuongkhop-nam-gheda-omgoi-01.mp4",
@@ -26994,7 +26730,7 @@
   "dai_doan_dai_nhat": 14.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ghế đá ôm gối"
  },
  {
   "file": "xuongkhop-nam-giuong-omgoi-01.mp4",
@@ -27017,7 +26753,7 @@
   "dai_doan_dai_nhat": 22.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông giường ôm gối"
  },
  {
   "file": "xuongkhop-nam-giuong-omlung-01.mp4",
@@ -27040,7 +26776,7 @@
   "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông giường ôm lưng"
  },
  {
   "file": "xuongkhop-nam-gym-daugoi-01.mp4",
@@ -27063,13 +26799,13 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông phòng gym daugoi"
  },
  {
   "file": "xuongkhop-nam-nga-omgoi-01.png",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Xương khớp - Đau/xuongkhop-nam-nga-omgoi-01.png",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ngã ôm gối"
  },
  {
   "file": "xuongkhop-nam-omchan-doc-01.mp4",
@@ -27092,7 +26828,7 @@
   "dai_doan_dai_nhat": 7.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ôm chân khung dọc"
  },
  {
   "file": "xuongkhop-nam-omco-sofado-01.mp4",
@@ -27115,7 +26851,7 @@
   "dai_doan_dai_nhat": 15.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ôm cổ ghế sofa đỏ"
  },
  {
   "file": "xuongkhop-nam-omgoi-01.mp4",
@@ -27138,7 +26874,7 @@
   "dai_doan_dai_nhat": 15.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ôm gối"
  },
  {
   "file": "xuongkhop-nam-omlung-01.mp4",
@@ -27161,7 +26897,7 @@
   "dai_doan_dai_nhat": 21.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ôm lưng"
  },
  {
   "file": "xuongkhop-nam-omlung-02.mp4",
@@ -27184,7 +26920,7 @@
   "dai_doan_dai_nhat": 21.7,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ôm lưng"
  },
  {
   "file": "xuongkhop-nam-omlung-vanphong-01.mp4",
@@ -27207,7 +26943,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ôm lưng dân văn phòng công sở"
  },
  {
   "file": "xuongkhop-nam-sofado-omlung-01.mp4",
@@ -27230,7 +26966,7 @@
   "dai_doan_dai_nhat": 11.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông ghế sofa đỏ ôm lưng"
  },
  {
   "file": "xuongkhop-nam-vest-moico-01.mp4",
@@ -27253,7 +26989,7 @@
   "dai_doan_dai_nhat": 16.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông vest công sở moico"
  },
  {
   "file": "xuongkhop-nam-vest-omvai-01.mp4",
@@ -27276,7 +27012,7 @@
   "dai_doan_dai_nhat": 7.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nam đàn ông vest công sở ôm vai"
  },
  {
   "file": "xuongkhop-nu-bopcotay-01.mp4",
@@ -27299,7 +27035,7 @@
   "dai_doan_dai_nhat": 12.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nữ phụ nữ bóp cổ tay"
  },
  {
   "file": "xuongkhop-nu-giuong-omgoi-01.mp4",
@@ -27322,7 +27058,7 @@
   "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nữ phụ nữ giường ôm gối"
  },
  {
   "file": "xuongkhop-nu-omlung-cuaso-01.mp4",
@@ -27345,7 +27081,7 @@
   "dai_doan_dai_nhat": 8.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nữ phụ nữ ôm lưng cửa sổ"
  },
  {
   "file": "xuongkhop-nu-omlung-doc-01.mp4",
@@ -27368,7 +27104,7 @@
   "dai_doan_dai_nhat": 16.3,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nữ phụ nữ ôm lưng khung dọc"
  },
  {
   "file": "xuongkhop-nu-omlung-vetdo-01.mp4",
@@ -27391,7 +27127,7 @@
   "dai_doan_dai_nhat": 9.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nữ phụ nữ ôm lưng vetdo"
  },
  {
   "file": "xuongkhop-nu-omvai-ngoaitroi-01.mp4",
@@ -27414,7 +27150,7 @@
   "dai_doan_dai_nhat": 17.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nữ phụ nữ ôm vai ngoài trời"
  },
  {
   "file": "xuongkhop-nu-san-omchan-01.mp4",
@@ -27437,7 +27173,7 @@
   "dai_doan_dai_nhat": 12.4,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nữ phụ nữ sân ôm chân"
  },
  {
   "file": "xuongkhop-nu-vai-bien-01.mp4",
@@ -27460,7 +27196,7 @@
   "dai_doan_dai_nhat": 22.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp nữ phụ nữ vai biển"
  },
  {
   "file": "xuongkhop-ongcu-chaybo-01.mp4",
@@ -27483,7 +27219,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi chạy bộ"
  },
  {
   "file": "xuongkhop-ongcu-dibo-omgoi-01.mp4",
@@ -27506,7 +27242,7 @@
   "dai_doan_dai_nhat": 17.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi đi bộ ôm gối"
  },
  {
   "file": "xuongkhop-ongcu-gay-sofa-01.mp4",
@@ -27531,7 +27267,7 @@
   "doi_canh": [
    30.0
   ],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi gáy ghế sofa"
  },
  {
   "file": "xuongkhop-ongcu-gay-sofa-02.mp4",
@@ -27554,7 +27290,7 @@
   "dai_doan_dai_nhat": 29.8,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi gáy ghế sofa"
  },
  {
   "file": "xuongkhop-ongcu-gheda-omgoi-01.mp4",
@@ -27577,7 +27313,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi ghế đá ôm gối"
  },
  {
   "file": "xuongkhop-ongcu-omgoi-ghe-01.mp4",
@@ -27600,7 +27336,7 @@
   "dai_doan_dai_nhat": 11.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi ôm gối ghế"
  },
  {
   "file": "xuongkhop-ongcu-omgoi-ghe-02.mp4",
@@ -27623,7 +27359,7 @@
   "dai_doan_dai_nhat": 11.9,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi ôm gối ghế"
  },
  {
   "file": "xuongkhop-ongcu-omlung-01.mp4",
@@ -27646,7 +27382,7 @@
   "dai_doan_dai_nhat": 12.2,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi ôm lưng"
  },
  {
   "file": "xuongkhop-ongcu-vai-ngoi-01.mp4",
@@ -27669,7 +27405,7 @@
   "dai_doan_dai_nhat": 12.6,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp ông cụ người lớn tuổi vai ngồi"
  },
  {
   "file": "xuongkhop-tay-bopcotay-01.mp4",
@@ -27692,7 +27428,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp tay bóp cổ tay"
  },
  {
   "file": "xuongkhop-tay-bopcotay-02.mp4",
@@ -27715,7 +27451,7 @@
   "dai_doan_dai_nhat": 7.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp tay bóp cổ tay"
  },
  {
   "file": "xuongkhop-trilieu-lung-01.mp4",
@@ -27738,7 +27474,7 @@
   "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp trilieu lưng"
  },
  {
   "file": "xuongkhop-xoa-chan-vongdo-01.mp4",
@@ -27761,7 +27497,7 @@
   "dai_doan_dai_nhat": 22.5,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp xoa bóp chân vongdo"
  },
  {
   "file": "xuongkhop-xoa-cotay-01.mp4",
@@ -27784,7 +27520,7 @@
   "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp xoa bóp cổ tay"
  },
  {
   "file": "xuongkhop-xoa-goi-01.mp4",
@@ -27807,12 +27543,12 @@
   "dai_doan_dai_nhat": 11.1,
   "chu_doc_duoc": {},
   "doi_canh": [],
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp xoa bóp đầu gối"
  },
  {
   "file": "xuongkhop-xquang-goi-nhantao-01.jpg",
   "path": "/Volumes/T7 for Mac/02. Dilim Footage/Xương khớp - Đau/xuongkhop-xquang-goi-nhantao-01.jpg",
   "anh": true,
-  "mo_ta": {}
+  "mo_ta": "xương khớp đau khớp phim X-quang đầu gối nhantao"
  }
 ]

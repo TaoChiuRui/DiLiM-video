@@ -39,6 +39,13 @@ def N(s):
 def targets():
     """Moi file co the chua duong dan B-roll."""
     out = [os.path.join(HERE, "clips.py")]
+    # 05/08/2026: them hai kho JSON. Truoc do doi ten xong, `kho_broll.json`
+    # con giu ten cu -> `goi_y_broll` van goi y `VAI GÁY (1).mp4` trong khi
+    # file that da thanh `dilimquay-vaigay-ong-01.mp4`. Chay ra duong dan chet.
+    for _t in ("kho_broll.json", "danh_muc_kho.json"):
+        _p = os.path.join(os.path.dirname(HERE), _t)
+        if os.path.isfile(_p):
+            out.append(_p)
     du_an = os.path.join(ROOT, "04-du-an")
     if os.path.isdir(du_an):
         for job in sorted(os.listdir(du_an)):

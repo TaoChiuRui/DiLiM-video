@@ -85,9 +85,16 @@ if os.path.exists(KB):
     ok("index >= 150 clip", len(kb) >= 150, f"{len(kb)} muc")
     ok("moi clip video co mo ta", len(mt) >= len(vid),
        f"{len(mt)}/{len(vid)}")
-    ok("moi clip con doan dung duoc",
-       all(x.get("doan_dung_duoc") for x in vid),
-       f"{sum(1 for x in vid if not x.get('doan_dung_duoc'))} clip bi cam sach")
+    # "cam tron clip" KHONG phai loi du lieu — co clip hong that
+    # (`noitang-dady-boc-mo-01.mp4`: ca 9.4s deu co chu tieng Anh de len hinh).
+    # Ket qua dung la `doan_dung_duoc == []`, va `goi_y_broll.tra` LOAI chung.
+    # Cai phai kiem la: da soi chua (khac `None`), va con du clip dung duoc.
+    chua_soi = [x for x in vid if x.get("doan_dung_duoc") is None]
+    cam_sach = [x for x in vid if x.get("doan_dung_duoc") == []]
+    ok("moi clip video da duoc soi", not chua_soi,
+       f"{len(chua_soi)} clip chua soi (chay xay_kho_broll.py)")
+    ok("clip bi cam tron duoi 5%", len(cam_sach) <= max(1, len(vid) // 20),
+       f"{len(cam_sach)}/{len(vid)} clip bi cam sach")
 else:
     ok("co kho_broll.json", False, "chua xay")
 

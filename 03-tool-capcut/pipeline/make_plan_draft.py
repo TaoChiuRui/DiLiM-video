@@ -165,7 +165,8 @@ def main():
                     help="ghi de plan.py da co")
     a = ap.parse_args()
 
-    job = os.path.abspath(os.path.expanduser(a.job))
+    import job_path
+    job = job_path.job_dir(a.job)
     if not os.path.isdir(job):
         sys.exit(f"khong thay job: {job}")
     wpath = os.path.join(job, "edit/words_cut.json")
