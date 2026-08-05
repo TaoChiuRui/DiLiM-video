@@ -80,7 +80,7 @@ Và cài **CapCut** cho macOS từ trang chủ, mở lên một lần cho nó t�
 
 ```bash
 cd ~/Desktop
-git clone <DÁN LINK GITHUB VÀO ĐÂY> DiLiM-video
+git clone https://github.com/TaoChiuRui/DiLiM-video.git DiLiM-video
 cd DiLiM-video
 ```
 
