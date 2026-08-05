@@ -65,6 +65,35 @@ Chú ý whisper nghe sai tên riêng và thuật ngữ — `TỀN ĐÌNH` phải
 Luật cấm từ của DiLiM: **"phục hồi" / "bảo vệ"**, KHÔNG "chữa lành" / "điều trị" / "chữa bệnh".
 Giữ giọng mộc mạc, xưng "cô chú" / "anh chị" như trong lời nói gốc.
 
+## 1b. ĐỪNG chẻ nhỏ nhịp máy đã chia
+
+> Anh Thành 05/08/2026: *"caption bạn làm là chữ nào cũng làm. Giảm bớt lại 20%,
+> chỉ đoạn quan trọng cần thiết để đỡ rối, tăng tốc độ"*.
+
+**Đo được:** job `07-dji0485` — `make_plan_draft.py` đề xuất **45 nhịp (3,6 s/caption)**,
+tôi viết ra **68 nhịp (2,4 s/caption)**. Nhiều hơn máy đề xuất **51%**.
+
+Đối chiếu 8 job khác: trung bình **3,6–4,4 s/caption**. Job 07 là bài dày nhất kho, và
+nó dày vì tôi tự tách thêm chứ không phải máy chia sai.
+
+| | |
+|---|---|
+| Máy chia | bám khoảng lặng + dấu câu, đã chỉnh theo 5 job thật |
+| Tôi hay làm sai | thấy một câu dài thì tách đôi cho "dễ đọc" |
+
+**Luật:** `MINL, MAXL = 3.0, 6.5` trong `make_plan_draft.py` là ngưỡng đã đo, không phải
+gợi ý. **Giữ nguyên số nhịp máy chia.** Chỉ tách thêm khi nhịp đó chứa **hai ý tách bạch**
+mà gộp lại sẽ sai nghĩa — không phải vì nó dài.
+
+**Được phép GỘP, hiếm khi được TÁCH.** Gộp khi:
+- nhịp dưới 1,5 s (chớp mắt là mất, mắt chưa kịp bắt)
+- là tiếng đệm không mang tin: *"Đúng không cô chú anh chị?"*, *"Vâng"*, *"Nên á"*
+- lặp lại ý của nhịp ngay trước
+
+**Vì sao thưa lại tốt hơn:** caption là **điểm tựa cho mắt**, không phải phụ đề. Dày quá thì
+mắt bận đọc, không kịp nhìn hình — mà hình mới là thứ giữ người xem. Bỏ bớt caption ở đoạn
+lời nói đã rõ thì mấy caption còn lại đập mạnh hơn.
+
 ## 2. Đánh `*từ khoá*`
 
 Bọc cặp `*` quanh cụm cần nhấn — engine đổi màu cụm đó.

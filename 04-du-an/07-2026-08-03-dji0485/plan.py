@@ -45,20 +45,16 @@ R = [
  # B-roll o day la lam loang cai nhin.
  (   9.64, "ĐÓ LÀ CÂU NÓI",                  "*CỦA NGƯỜI KHÁC*",            "yellow",    "",             0,   ""),
  (  11.70, "CÒN THỊNH *KHÔNG BAO GIỜ*",      "*CAM KẾT* ĐIỀU NÀY",          "highlight", "",             0,   ""),
- (  14.00, "*VÌ SAO?*",                      "",                            "yellow",    "",             0,   ""),
 
  # --- KHOI 3: vi co chu chua lam phan cua minh ---
- (  15.50, "NẾU CÔ CHÚ ANH CHỊ",             "VẪN CÒN *THỨC KHUYA*",        "warning",   MM_DEM,         1.0, "met moi ban dem"),
+ (  15.50, "NẾU VẪN CÒN",                    "*THỨC KHUYA*",        "warning",   MM_DEM,         1.0, "met moi ban dem"),
  (  18.54, "VẪN CÒN KHÔNG",                  "*CHĂM SÓC SỨC KHỎE*",         "warning",   MM_CHEMAT1,     1.0, "ong cu met moi"),
  # KHONG dung clip the duc o day — cau nay noi ve viec KHONG tap. Kho chua co
  # clip "ngoi li khong van dong"; MM_SOFA nhin ra dau dau chu khong ra luoi
  # van dong. Cho MM_CHEMAT1 chay lien mach tu dong tren thay vi doi hinh sai y.
  (  20.28, "VẪN CÒN KHÔNG",                  "*THỂ DỤC THỂ THAO*",          "warning",   MM_CHEMAT1,     1.0, "chay tiep tu tren"),
- (  22.56, "THÌ LÀM SAO",                    "*CẢI THIỆN* ĐƯỢC?",           "warning",   "",             0,   ""),
- (  24.84, "ĐÚNG KHÔNG CÔ CHÚ ANH CHỊ?",     "",                            "yellow",    "",             0,   ""),
 
  # --- KHOI 4: Thinh can khach, nhung khong ban su that ---
- (  26.24, "KHI CÔ CHÚ ANH CHỊ",             "*TÌM ĐẾN* BÊN THỊNH",         "highlight", RICHNATTO,      0.5, ""),
  (  29.60, "THỊNH *RẤT CẦN KHÁCH HÀNG*",     "",                            "highlight", "",             0,   ""),
  (  31.24, "NHƯNG THỊNH",                    "*KHÔNG BAO GIỜ BỎ QUA*",      "positive",  "",             0,   ""),
  # 34.29 + 36.38 CUNG clip -> dai B-roll chay lien mach qua 2 caption (luat 1).
@@ -67,33 +63,27 @@ R = [
  # --- KHOI 5: the duc la NEN TANG ---
  (  36.38, "TẠI VÌ *SỨC KHỎE*",              "VÀ *RÈN LUYỆN* THỂ THAO",     "positive",  TD_ONGBA_PHO,   2.0, "chay tiep tu tren"),
  (  39.46, "ĐÓ LÀ CÁI *NỀN TẢNG*",           "ĐỂ *TRAO ĐỔI CHẤT*",          "positive",  CT_TIEUHOA,     1.0, "he tieu hoa"),
- (  42.58, "CŨNG NHƯ *TUẦN HOÀN MÁU*",       "ĐƯỢC TỐT HƠN, ĐÚNG KHÔNG?",   "positive",  HE_MACH,        1.0, "he mach toan than"),
+ (  42.58, "CŨNG NHƯ *TUẦN HOÀN MÁU*",       "ĐƯỢC TỐT HƠN"            ,   "positive",  HE_MACH,        1.0, "he mach toan than"),
 
  # --- KHOI 6: nguoi mat ngu — phai thien dinh ---
  (  46.14, "NGAY CẢ NGƯỜI",                  "BỊ *MẤT NGỦ*",                "warning",   MN_ONGCU,       1.0, "ong cu mat ngu"),
  (  48.74, "TÌM ĐẾN THỊNH MÀ",               "KHÔNG *THIỀN ĐỊNH* ĐƯỢC",     "warning",   MN_ONGCU,       1.0, "chay tiep tu tren"),
  (  51.72, "KHÔNG CÓ *TINH TẤN*",            "",                            "warning",   TD_SU_KHATTHUC, 0.5, "su di khat thuc — 'tinh tan'"),
- (  53.18, "*THIỀN ĐỊNH* MỖI NGÀY",          "",                            "positive",  TD_KHICONG_O,   1.0, "ong cu tap khi cong"),
- (  55.52, "ĐỂ *TÂM TRÍ*",                   "ĐƯỢC *SÁNG SUỐT*",            "positive",  TD_KHICONG_O,   1.0, "chay tiep tu tren"),
- (  57.22, "THÌ *LÀM SAO KHỎE ĐƯỢC?*",       "",                            "warning",   "",             0,   ""),
+  (  53.18, "*THIỀN ĐỊNH* MỖI NGÀY",          "ĐỂ *TÂM TRÍ SÁNG SUỐT*",      "positive",  TD_KHICONG_O,   1.0, "ong cu tap khi cong"),
 
  # --- KHOI 7: dong bo sung la can thiet, nhung chua du ---
  (  60.05, "DÙNG *DÒNG BỔ SUNG*",            "BÊN THỊNH",                   "product",   RICHNATTO,      0.5, ""),
- (  62.51, "LÀ ĐIỀU *RẤT CẦN THIẾT*",        "",                            "positive",  RICHNATTO,      0.5, "chay tiep tu tren"),
  (  64.51, "NHƯNG THỊNH LUÔN",               "*KHUYẾN KHÍCH* MỖI NGÀY",     "positive",  "",             0,   ""),
  (  67.79, "*DÙ BẬN RỘN* CỠ NÀO",            "",                            "yellow",    STRESS_VP,      1.0, "ban ron van phong"),
- (  69.89, "HÃY *THỂ DỤC THỂ THAO*",         "",                            "positive",  TD_ONGCU_CO,    1.0, "ong cu chay bo bai co"),
- (  71.29, "TỪ *5 ĐẾN 15 PHÚT*",             "MỖI NGÀY",                    "positive",  TD_ONGCU_CO,    1.0, "chay tiep tu tren"),
+ (  69.89, "HÃY *THỂ DỤC THỂ THAO*",         "TỪ *5 ĐẾN 15 PHÚT* MỖI NGÀY", "positive",  TD_ONGCU_CO,    1.0, "ong cu chay bo bai co"),
 
  # --- KHOI 8: viec so 2 — thien + an uong thanh dam ---
- (  73.63, "ĐÚNG KHÔNG?",                    "CÁI *SỐ 2* NỮA LÀ GÌ?",       "yellow",    "",             0,   ""),
+ (  73.63, "CÁI *SỐ 2* NỮA LÀ GÌ?",          ""                     ,       "yellow",    "",             0,   ""),
  (  75.97, "DÀNH *THỜI GIAN* RA",            "ĐỂ MÌNH *THIỀN*",             "positive",  TD_KHICONG_B,   1.0, "ba cu tap tho bai co"),
  (  78.58, "*ĂN UỐNG THANH ĐẠM*",            "NHỮNG LOẠI RAU",              "positive",  AU_RAU_CHO,     2.0, "quay rau xanh o cho"),
  (  82.26, "*THỨC ĂN TỐT*",                  "CHO SỨC KHỎE",                "positive",  AU_MAM_LANH,    0.5, "mam do an lanh manh"),
- (  84.66, "*RẤT TỐT* CHO CƠ THỂ",           "",                            "positive",  CO_THE,         1.0, "co the + he mach"),
 
  # --- KHOI 9: bo 3 — the duc / an uong / dong bo sung ---
- (  87.06, "THỊNH LUÔN *CHIA SẺ*",           "VỚI CÔ CHÚ ANH CHỊ",          "highlight", "",             0,   ""),
  (  89.08, "HÃY *XUẤT PHÁT TỪ 3 CÁI*",       "",                            "yellow",    "",             0,   ""),
  (  91.30, "*MỘT*: THỂ DỤC THỂ THAO",        "",                            "positive",  TD_ONGBA_VUI,   1.0, "hai ong ba di bo, cuoi"),
  (  93.32, "*HAI*: ĂN UỐNG ĐIỀU ĐỘ",         "",                            "positive",  AU_BAN_TUVAN,   1.0, "ban rau cu, tu van"),
@@ -114,11 +104,9 @@ R = [
  # "chuyen hoa" quay lai o #52 nen bo o day khong mat y.
  ( 110.97, "*KHẢ NĂNG HẤP THU*",             "*CÀNG BỊ CHẬM ĐI*",           "warning",   CT_TIEUHOA,     8.0, "he tieu hoa, moc khac"),
  ( 114.41, "THÌ *DÙNG DÒNG BỔ SUNG*",        "",                            "product",   RICHNATTO,      0.5, ""),
- ( 116.93, "SẼ *GIÚP CƠ THỂ*",               "",                            "positive",  RICHNATTO,      0.5, "chay tiep tu tren"),
  ( 118.91, "*HẤP THU, CHUYỂN HÓA*",          "ĐƯỢC TỐT HƠN",                "positive",  CO_THE,         1.0, "co the hap thu"),
 
  # --- KHOI 12: tu do ho tro cai thien trieu chung ---
- ( 120.78, "TỪ ĐẤY *HỖ TRỢ CẢI THIỆN*",      "",                            "positive",  TK_TOANTHAN,    1.0, "than kinh toan than"),
  # gop 2 nhip: tach ra thi dong dau chi 0.8s, va ca hai deu trung het chu
  # voi #3/#4 o phan hook.
  ( 123.76, "*ĐAU ĐẦU*, CHÓNG MẶT",           "*VAI GÁY*, TÊ BÌ CHÂN TAY",   "warning",   VAI_GAY,        0.5, ""),
@@ -129,11 +117,10 @@ R = [
  ( 126.45, "CÓ AI TÌM ĐẾN THỊNH",            "MÀ BẢO *CAM KẾT*",            "yellow",    "",             0,   ""),
  ( 128.95, "LÀ *KHỎI HẲN*",                  "HAY *DỨT ĐIỂM*",              "yellow",    "",             0,   ""),
  ( 132.15, "*KHÔNG BAO GIỜ* THỊNH",          "*CAM KẾT* ĐƯỢC ĐIỀU ĐÓ",      "highlight", "",             0,   ""),
- ( 135.33, "NẾU CÔ CHÚ ANH CHỊ",             "*KHÔNG CAM KẾT*",             "warning",   "",             0,   ""),
+ ( 135.33, "NẾU CÔ CHÚ",                     "*KHÔNG CAM KẾT*",             "warning",   "",             0,   ""),
  ( 138.57, "*ĐỒNG HÀNH NGHIÊM TÚC*",         "CHO SỨC KHỎE",                "positive",  TD_ONGCU_TA,    1.0, "ong cu tap co HLV kem — 'dong hanh'"),
 
  # --- KHOI 14: CTA ---
- ( 141.51, "CÔ CHÚ ANH CHỊ NÀO",             "ĐANG MUỐN",                   "highlight", "",             0,   ""),
  ( 143.57, "*HỖ TRỢ CẢI THIỆN*",             "ĐAU ĐẦU, MẤT NGỦ",            "warning",   DD_ONGCU2,      1.0, "ong cu om tran, take khac"),
  ( 147.01, "*ĐAU MỎI VAI GÁY*",              "*TÊ BÌ CHÂN TAY*",            "warning",   DQ_TEBI,        1.0, "te bi run tay"),
  # CM_TIENDINH cung la ong cu om dau — dat ngay sau DD_ONGCU2 thi hai hinh
@@ -142,9 +129,9 @@ R = [
  ( 148.96, "*RỐI LOẠN TIỀN ĐÌNH*",           "",                            "warning",   CM_TUATUONG,    1.0, "vin tuong, mat thang bang"),
  ( 150.28, "KỂ CẢ *SUY NHƯỢC THẦN KINH*",    "",                            "warning",   TK_XUNG,        1.0, "xung than kinh"),
  ( 152.14, "MUỐN CẢI THIỆN",                 "THÌ *LIÊN HỆ THỊNH*",         "cta",       RICHNATTO,      0.5, ""),
+ # tra lai 05/08: bo ca 3 dong cuoi thi CTA con MOT caption dung 8 giay.
+ # CTA la khoi anh Thanh bao phai giu — cat o day la cat qua tay.
  ( 154.30, "ĐỂ ĐƯỢC *HỖ TRỢ TỐT NHẤT*",      "",                            "cta",       RICHNATTO,      0.5, "chay tiep tu tren"),
- ( 155.78, "*CẢM ƠN* CÔ CHÚ ANH CHỊ",        "",                            "cta",       RICHNATTO,      0.5, "chay tiep tu tren"),
- ( 157.48, "CHÚC MỘT *BUỔI CHIỀU*",          "",                            "positive",  TD_ONGBA_VUI,   3.0, "hai ong ba vui ve"),
  ( 159.68, "*NHIỀU NIỀM VUI*",               "*ẤM ÁP BÊN GIA ĐÌNH*",        "positive",  TD_ONGBA_VUI,   3.0, "chay tiep tu tren"),
 ]
 

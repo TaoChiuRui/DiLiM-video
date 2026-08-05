@@ -70,6 +70,9 @@ MIN_KY_TU = 4         # chu qua ngan la nhieu tu net anh
 # Do lai: MACH_TAC giay 0 (den that) co TB 1.4 / p95 3.  TIM_DAP giay 8 co
 # TB 10.1 / p95 43.  Trung binh gan nhau, p95 cach nhau 14 lan.
 NGUONG_P95 = 20       # p95 duoi muc nay = khung den/fade that su
+# Chu tieng Anh / watermark co chan clip khong? Anh Thanh: KHONG.
+# Doi thanh True neu sau nay lam bai cho tep khach khac.
+CAM_CHU = False
 
 BO_QUA = re.compile(r"^\W*$|all rights reserved|www\.|\.com|©|\(c\)", re.I)
 
@@ -264,7 +267,14 @@ def lam_mot_clip(path, tmp):
         if c:
             mau.setdefault(" | ".join(c)[:70], round(t, 1))
 
-    cam = noi_bien(vung_chu + vung_den, dai, 0.0)
+    # ANH THANH CHOT 05/08/2026: "chu tieng Anh ke di, chon khong sao ca".
+    # Nhat quan voi quyet dinh 04/08 ve watermark HelixAnimation.
+    # Nen CHI MAN DEN moi chan. Chu van duoc ghi lai (`vung_chu`, `chu_doc_duoc`)
+    # de canh bao, khong dung de loai clip.
+    #   truoc: cam = chu + den  -> 33 clip bi thu hep oan, 1 clip mat sach
+    #   nay  : cam = den        -> chi 6 clip con vung cam
+    cam = noi_bien(vung_den, dai, 0.0) if not CAM_CHU \
+        else noi_bien(vung_chu + vung_den, dai, 0.0)
     # doan DUNG DUOC = phan bu cua vung cam
     dung, pos = [], 0.0
     for a, b in cam:

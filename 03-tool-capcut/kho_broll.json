@@ -907,23 +907,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    6.1,
-    10.6
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    6.1
-   ],
-   [
-    10.6,
     21.3
    ]
   ],
-  "dai_doan_dai_nhat": 10.7,
+  "dai_doan_dai_nhat": 21.3,
   "chu_doc_duoc": {
    "-oge": 7.6
   },
@@ -3366,29 +3357,21 @@
   ],
   "vung_cam": [
    [
-    13.9,
-    39.9
-   ],
-   [
-    44.6,
+    46.5,
     49.3
    ]
   ],
   "doan_dung_duoc": [
    [
     0.0,
-    13.9
-   ],
-   [
-    39.9,
-    44.6
+    46.5
    ],
    [
     49.3,
     50.7
    ]
   ],
-  "dai_doan_dai_nhat": 13.9,
+  "dai_doan_dai_nhat": 46.5,
   "chu_doc_duoc": {
    "PLATELET": 15.4,
    "RED BLOOD | CELL": 23.1,
@@ -3697,21 +3680,21 @@
     1.5
    ],
    [
-    12.0,
+    20.0,
     22.6
    ]
   ],
   "doan_dung_duoc": [
    [
     1.5,
-    12.0
+    20.0
    ],
    [
     22.6,
     24.0
    ]
   ],
-  "dai_doan_dai_nhat": 10.5,
+  "dai_doan_dai_nhat": 18.5,
   "chu_doc_duoc": {
    "NOTLYHINY": 13.5,
    "OLLYHINY": 15.0,
@@ -4650,19 +4633,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    10.6,
-    16.6
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    10.6
+    16.6
    ]
   ],
-  "dai_doan_dai_nhat": 10.6,
+  "dai_doan_dai_nhat": 16.6,
   "chu_doc_duoc": {
    "GMIP": 12.1,
    "wa Yeaxc": 13.6
@@ -4899,19 +4877,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    4.5
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    4.5,
+    0.0,
     12.0
    ]
   ],
-  "dai_doan_dai_nhat": 7.5,
+  "dai_doan_dai_nhat": 12.0,
   "chu_doc_duoc": {
    "PHENTOK": 1.5
   },
@@ -5099,27 +5072,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    6.1
-   ],
-   [
-    7.7,
-    18.3
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    6.1,
-    7.7
-   ],
-   [
-    18.3,
+    0.0,
     19.9
    ]
   ],
-  "dai_doan_dai_nhat": 1.6,
+  "dai_doan_dai_nhat": 19.9,
   "chu_doc_duoc": {
    "PREMUM | BEMIUM": 0.0,
    "BENLUM": 1.5,
@@ -5152,27 +5112,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    6.1
-   ],
-   [
-    7.7,
-    18.3
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    6.1,
-    7.7
-   ],
-   [
-    18.3,
+    0.0,
     19.9
    ]
   ],
-  "dai_doan_dai_nhat": 1.6,
+  "dai_doan_dai_nhat": 19.9,
   "chu_doc_duoc": {
    "PREMUM | BEMIUM": 0.0,
    "BENLUM": 1.5,
@@ -6769,19 +6716,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    13.5
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    13.5,
+    0.0,
     15.0
    ]
   ],
-  "dai_doan_dai_nhat": 1.5,
+  "dai_doan_dai_nhat": 15.0,
   "chu_doc_duoc": {
    "Average mass: 194 | Monoisotopic mas": 1.5,
    "Average mass: 194.19059) | Monoisotopic mass: 194.081": 3.0,
@@ -7921,27 +7863,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    7.5,
-    43.5
-   ],
-   [
-    58.5,
-    66.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    7.5
-   ],
-   [
-    43.5,
-    58.5
+    66.0
    ]
   ],
-  "dai_doan_dai_nhat": 15.0,
+  "dai_doan_dai_nhat": 66.0,
   "chu_doc_duoc": {
    "NATURAL": 0.0,
    "VAIUKA": 9.0,
@@ -9108,31 +9037,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
+  "vung_cam": [],
+  "doan_dung_duoc": [
    [
     0.0,
-    4.5
-   ],
-   [
-    6.0,
-    10.5
-   ],
-   [
-    21.0,
     36.0
    ]
   ],
-  "doan_dung_duoc": [
-   [
-    4.5,
-    6.0
-   ],
-   [
-    10.5,
-    21.0
-   ]
-  ],
-  "dai_doan_dai_nhat": 10.5,
+  "dai_doan_dai_nhat": 36.0,
   "chu_doc_duoc": {
    "Banana | Milk | % REAL | NA MILK | 100% REAL | BANANA MILK | DATE": 0.0,
    "Banana | Milk | 100% REAL | BANANA MILA | 100% REAL | BANANA MILK": 1.5,
@@ -10366,19 +10278,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    15.3,
-    29.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    15.3
+    29.1
    ]
   ],
-  "dai_doan_dai_nhat": 15.3,
+  "dai_doan_dai_nhat": 29.1,
   "chu_doc_duoc": {
    "130 H0 150 100": 16.8,
    "PO 130 H0 150 160 170 1": 19.9,
@@ -11083,23 +10990,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    4.6,
-    9.4
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    4.6
-   ],
-   [
-    9.4,
     14.0
    ]
   ],
-  "dai_doan_dai_nhat": 4.6,
+  "dai_doan_dai_nhat": 14.0,
   "chu_doc_duoc": {
    "MEECEELEE@ERRERERORM": 6.2
   },
@@ -11991,19 +11889,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    25.5,
-    39.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    25.5
+    39.0
    ]
   ],
-  "dai_doan_dai_nhat": 25.5,
+  "dai_doan_dai_nhat": 39.0,
   "chu_doc_duoc": {
    "PHARMACY FE | PHARMACY FRG | PHARMACY BUg | HARMACY NUg": 27.0,
    "PHARMACY G | PHARMACY BAS | HARMACY BUg | HARMACY gUg": 28.5,
@@ -12058,19 +11951,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    51.9,
-    58.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    51.9
+    58.0
    ]
   ],
-  "dai_doan_dai_nhat": 51.9,
+  "dai_doan_dai_nhat": 58.0,
   "chu_doc_duoc": {
    "Hotline": 53.4
   },
@@ -12786,19 +12674,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    51.9,
-    58.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    51.9
+    58.0
    ]
   ],
-  "dai_doan_dai_nhat": 51.9,
+  "dai_doan_dai_nhat": 58.0,
   "chu_doc_duoc": {
    "Hotline": 53.4
   },
@@ -12984,19 +12867,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    51.9,
-    58.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    51.9
+    58.0
    ]
   ],
-  "dai_doan_dai_nhat": 51.9,
+  "dai_doan_dai_nhat": 58.0,
   "chu_doc_duoc": {
    "Hotline": 53.4
   },
@@ -13090,19 +12968,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    51.9,
-    58.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    51.9
+    58.0
    ]
   ],
-  "dai_doan_dai_nhat": 51.9,
+  "dai_doan_dai_nhat": 58.0,
   "chu_doc_duoc": {
    "Hotline": 53.4
   },
@@ -13219,23 +13092,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    3.1,
-    7.9
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    3.1
-   ],
-   [
-    7.9,
     22.0
    ]
   ],
-  "dai_doan_dai_nhat": 14.1,
+  "dai_doan_dai_nhat": 22.0,
   "chu_doc_duoc": {
    "PHAI": 4.7
   },
@@ -13375,23 +13239,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    3.1,
-    7.7
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    3.1
-   ],
-   [
-    7.7,
     18.5
    ]
   ],
-  "dai_doan_dai_nhat": 10.8,
+  "dai_doan_dai_nhat": 18.5,
   "chu_doc_duoc": {
    "Ma vicebet": 4.6
   },
@@ -16110,27 +15965,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    6.1
-   ],
-   [
-    13.7,
-    39.5
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    6.1,
-    13.7
-   ],
-   [
-    39.5,
+    0.0,
     57.7
    ]
   ],
-  "dai_doan_dai_nhat": 18.2,
+  "dai_doan_dai_nhat": 57.7,
   "chu_doc_duoc": {
    "Platelet": 1.5,
    "After platelet activation, ADP is not only released from its | intrace": 15.2,
@@ -17676,13 +17518,13 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
+  "vung_cam": [],
+  "doan_dung_duoc": [
    [
     0.0,
     9.4
    ]
   ],
-  "doan_dung_duoc": [],
   "dai_doan_dai_nhat": 9.4,
   "chu_doc_duoc": {
    "IT SURROUNDS": 0.0,
@@ -18335,20 +18177,16 @@
   "vung_cam": [
    [
     0.0,
-    7.5
-   ],
-   [
-    73.6,
-    78.1
+    1.5
    ]
   ],
   "doan_dung_duoc": [
    [
-    7.5,
-    73.6
+    1.5,
+    78.1
    ]
   ],
-  "dai_doan_dai_nhat": 66.1,
+  "dai_doan_dai_nhat": 76.6,
   "chu_doc_duoc": {
    "Patient Education | Gastroesophageal Reflux Disease (GERD).": 3.0,
    "Patient Education | Gastroesophageal Reflux Disease (GERD)": 4.5,
@@ -20498,19 +20336,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    5.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    5.0,
+    0.0,
     10.0
    ]
   ],
-  "dai_doan_dai_nhat": 5.0,
+  "dai_doan_dai_nhat": 10.0,
   "chu_doc_duoc": {
    "NIKE": 1.7
   },
@@ -20765,19 +20598,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    9.4
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    9.4,
+    0.0,
     15.7
    ]
   ],
-  "dai_doan_dai_nhat": 6.3,
+  "dai_doan_dai_nhat": 15.7,
   "chu_doc_duoc": {
    "SPURTSWEAR": 0.0,
    "SPORTSWEAR": 4.7,
@@ -20848,23 +20676,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    1.6,
-    7.6
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    1.6
-   ],
-   [
-    7.6,
     15.3
    ]
   ],
-  "dai_doan_dai_nhat": 7.7,
+  "dai_doan_dai_nhat": 15.3,
   "chu_doc_duoc": {
    "CHEESE DÉA | GHICKS": 3.1,
    "CHICKS": 4.6,
@@ -22816,12 +22635,8 @@
   ],
   "vung_cam": [
    [
-    22.6,
-    27.1
-   ],
-   [
     28.7,
-    70.9
+    33.2
    ],
    [
     72.4,
@@ -22835,14 +22650,10 @@
   "doan_dung_duoc": [
    [
     0.0,
-    22.6
-   ],
-   [
-    27.1,
     28.7
    ],
    [
-    70.9,
+    33.2,
     72.4
    ],
    [
@@ -22850,7 +22661,7 @@
     93.0
    ]
   ],
-  "dai_doan_dai_nhat": 22.6,
+  "dai_doan_dai_nhat": 39.2,
   "chu_doc_duoc": {
    "FLEARNGG.C": 24.1,
    "Bacteria": 31.7,
@@ -23051,16 +22862,8 @@
     2.2
    ],
    [
-    4.4,
+    11.0,
     15.5
-   ],
-   [
-    42.0,
-    48.6
-   ],
-   [
-    57.4,
-    64.0
    ],
    [
     72.9,
@@ -23071,37 +22874,17 @@
     90.4
    ],
    [
-    92.8,
-    99.4
-   ],
-   [
-    141.4,
-    152.4
-   ],
-   [
-    154.6,
-    165.6
-   ],
-   [
-    167.9,
-    176.7
+    176.0,
+    176.6
    ]
   ],
   "doan_dung_duoc": [
    [
     2.2,
-    4.4
+    11.0
    ],
    [
     15.5,
-    42.0
-   ],
-   [
-    48.6,
-    57.4
-   ],
-   [
-    64.0,
     72.9
    ],
    [
@@ -23110,22 +22893,10 @@
    ],
    [
     90.4,
-    92.8
-   ],
-   [
-    99.4,
-    141.4
-   ],
-   [
-    152.4,
-    154.6
-   ],
-   [
-    165.6,
-    167.9
+    176.0
    ]
   ],
-  "dai_doan_dai_nhat": 42.0,
+  "dai_doan_dai_nhat": 85.6,
   "chu_doc_duoc": {
    "INTERNATIONA.L | PRODUCTIVITY FOR LIFE": 6.6,
    "TERNATIONAL | PRODUCTIVITY FOR LIFE": 8.8,
@@ -23590,55 +23361,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
+  "vung_cam": [],
+  "doan_dung_duoc": [
    [
     0.0,
-    6.9
-   ],
-   [
-    25.8,
-    32.6
-   ],
-   [
-    32.7,
-    37.8
-   ],
-   [
-    53.3,
-    60.1
-   ],
-   [
-    60.2,
-    70.4
-   ],
-   [
-    110.0,
-    118.5
-   ],
-   [
-    125.4,
     137.4
    ]
   ],
-  "doan_dung_duoc": [
-   [
-    6.9,
-    25.8
-   ],
-   [
-    37.8,
-    53.3
-   ],
-   [
-    70.4,
-    110.0
-   ],
-   [
-    118.5,
-    125.4
-   ]
-  ],
-  "dai_doan_dai_nhat": 39.6,
+  "dai_doan_dai_nhat": 137.4,
   "chu_doc_duoc": {
    "A Promise tor Lite": 0.0,
    "Probiotics and Immune Development": 3.4,
@@ -24731,19 +24461,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    8.1
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    8.1,
+    0.0,
     13.0
    ]
   ],
-  "dai_doan_dai_nhat": 4.9,
+  "dai_doan_dai_nhat": 13.0,
   "chu_doc_duoc": {
    "SCARED": 1.6
   },
@@ -25576,23 +25301,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    1.6,
-    6.4
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    1.6
-   ],
-   [
-    6.4,
     19.0
    ]
   ],
-  "dai_doan_dai_nhat": 12.6,
+  "dai_doan_dai_nhat": 19.0,
   "chu_doc_duoc": {
    "m 1111": 3.2
   },
@@ -26178,20 +25894,32 @@
   "vung_cam": [
    [
     0.0,
-    9.0
+    1.5
    ],
    [
     30.1,
-    51.2
+    33.1
+   ],
+   [
+    38.6,
+    46.7
    ]
   ],
   "doan_dung_duoc": [
    [
-    9.0,
+    1.5,
     30.1
+   ],
+   [
+    33.1,
+    38.6
+   ],
+   [
+    46.7,
+    51.2
    ]
   ],
-  "dai_doan_dai_nhat": 21.1,
+  "dai_doan_dai_nhat": 28.6,
   "chu_doc_duoc": {
    "Buildup of plaque in the arteries can lead to | peripheral arterial di": 1.5,
    "If you have the signs and | symptoms of Peripheral Arterial | Disease,": 33.1,
@@ -26281,87 +26009,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    0.0,
-    7.5
-   ],
-   [
-    10.6,
-    15.1
-   ],
-   [
-    21.1,
-    31.6
-   ],
-   [
-    40.7,
-    48.2
-   ],
-   [
-    54.2,
-    58.7
-   ],
-   [
-    61.8,
-    73.8
-   ],
-   [
-    75.3,
-    82.8
-   ],
-   [
-    84.4,
-    96.4
-   ],
-   [
-    99.4,
-    106.9
-   ],
-   [
-    107.0,
-    116.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
-    7.5,
-    10.6
-   ],
-   [
-    15.1,
-    21.1
-   ],
-   [
-    31.6,
-    40.7
-   ],
-   [
-    48.2,
-    54.2
-   ],
-   [
-    58.7,
-    61.8
-   ],
-   [
-    73.8,
-    75.3
-   ],
-   [
-    82.8,
-    84.4
-   ],
-   [
-    96.4,
-    99.4
-   ],
-   [
-    116.0,
+    0.0,
     117.5
    ]
   ],
-  "dai_doan_dai_nhat": 9.1,
+  "dai_doan_dai_nhat": 117.5,
   "chu_doc_duoc": {
    "ARTERIOSCLEROSIS": 1.5,
    "Coronary artery": 12.1,
@@ -26576,23 +26231,14 @@
    ]
   ],
   "vung_den": [],
-  "vung_cam": [
-   [
-    4.5,
-    9.0
-   ]
-  ],
+  "vung_cam": [],
   "doan_dung_duoc": [
    [
     0.0,
-    4.5
-   ],
-   [
-    9.0,
     21.0
    ]
   ],
-  "dai_doan_dai_nhat": 12.0,
+  "dai_doan_dai_nhat": 21.0,
   "chu_doc_duoc": {
    "SBBI": 6.0
   },
