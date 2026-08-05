@@ -30,6 +30,7 @@ import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import kho_caption as KC        # noqa: E402
+import luoc_caption as LC       # noqa: E402
 import ngat_cum as NC           # noqa: E402
 
 # Nhip do tu 5 job that: 3.6-4.3 giay/caption. Chia dai hon thi mat diem chen
@@ -202,13 +203,27 @@ def main():
         if goi_y:
             n_kho += 1
 
-        d1, d2 = two_lines(said.upper())
-        rows.append((t, d1, d2, guess_variant(said), nghi, goi_y))
+        # 3. LUOC — ban nhap la loi noi DA XOA tu dem (backtest 05/08/2026:
+        # cong sua giam 23%, chi 13/434 dong te hon; xem luoc_caption.py).
+        # NGUYEN VAN giu o comment `# noi:` — bai hoc tu thi nghiem dien-tu-kho
+        # da chet: de mat nguyen lieu goc la loi cau truc.
+        lc = LC.luoc(said)
+        if len(lc.split()) < 2:
+            # nhip toan tu dem ("Đúng không cô chú anh chị?") — theo luat khoi
+            # noi dung (anh Thanh 05/08): cau dan/xung ho KHONG can caption.
+            d1, d2 = two_lines(said.upper())
+            rows.append((t, d1, d2, guess_variant(said), nghi, goi_y, said, True))
+        else:
+            d1, d2 = two_lines(lc.upper())
+            rows.append((t, d1, d2, guess_variant(said), nghi, goi_y, said, False))
 
     w1 = max(len(esc(r[1])) for r in rows) + 2
     w2 = max(len(esc(r[2])) for r in rows) + 2
     body = []
-    for t, d1, d2, var, nghi, goi_y in rows:
+    for t, d1, d2, var, nghi, goi_y, said_goc, toan_dem in rows:
+        body.append(f' # noi: {said_goc}\n')
+        if toan_dem:
+            body.append(' # ^ nhip toan tu dem — ung vien BO/GOP (luat khoi noi dung)\n')
         for sai, dung, vs in nghi:
             body.append(f' # NGO whisper: "{sai}" co the la "{dung}" — {vs}\n')
         for diem, e in goi_y:
