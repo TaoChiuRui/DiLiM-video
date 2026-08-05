@@ -1,3 +1,5 @@
+> ⚠ **Ổ T7 đang hỏng (05/08/2026)** — đọc [`DOC-KHI-CO-CAP-MOI.md`](DOC-KHI-CO-CAP-MOI.md) trước khi cắm ổ vào.
+
 > **Người mới:** đọc [`BAT-DAU.md`](BAT-DAU.md) — cài đặt từ số 0, có phần "nếu hỏng" ở mỗi bước.
 > Cài chi tiết + chỗ phụ thuộc máy: [`CAI-DAT.md`](CAI-DAT.md).
 
