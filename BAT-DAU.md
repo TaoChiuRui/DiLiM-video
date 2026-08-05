@@ -26,7 +26,7 @@ Nhận về **một project CapCut mở lên sửa tiếp được**, đã có s
 | Thứ | Ở đâu | Cỡ |
 |---|---|---|
 | **1. Code** | link GitHub (repo riêng tư — phải được mời mới thấy) | 12,7 MB |
-| **2. Kho video minh hoạ** | link Google Drive | 2,4 GB (bản gọn) |
+| **2. Kho video minh hoạ** | link Google Drive | 2,6 GB (bản gọn) |
 
 Thiếu thứ 2 thì công cụ **vẫn chạy, vẫn ra project CapCut — nhưng dải B-roll trống trơn**.
 

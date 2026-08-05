@@ -9,7 +9,16 @@
 | Phần | Cỡ | Đường đi |
 |---|---:|---|
 | **Code + tài liệu + kho kiến thức** | **12,7 MB · 360 file** | git (clone) |
-| **Kho footage B-roll** | ~1.100 file, ổ ngoài | chép ổ cứng — không có cách khác |
+| **Kho footage B-roll** | xem 3 mức bên dưới | chép ổ cứng / Drive — không có cách khác |
+
+Kho footage chia 3 mức, tuỳ người nhận cần tới đâu *(đơn vị GB như Finder hiện — Finder chia
+1000, lệnh `du -h` chia 1024 nên ra số nhỏ hơn ~7%, cùng một lượng dữ liệu)*:
+
+| Mức | Cỡ | Gồm gì |
+|---|---:|---|
+| **1 — gọn** | **2,6 GB · 180 file** | đúng 187 clip đã khai trong `clips.py` + logo + disclaimer. `clips.py` ra `187 co / 0 mat`, dựng được ngay |
+| **2 — vừa** | 6,7 GB · 424 file | thêm 7 thư mục chủ đề đầy đủ, còn chỗ khai clip mới |
+| 3 — cả kho | 19,7 GB · 1.243 file | chỉ cần nếu người nhận sẽ mở rộng kho |
 
 > **Code chỉ là phần nhỏ.** `clips.py` khai 187 clip trỏ vào file cụ thể trong kho footage;
 > `kho_broll.json` là chỉ mục của chính kho đó. **Có code mà không có kho thì pipeline vẫn
