@@ -109,6 +109,31 @@ SFX          mỗi caption 1 cue · cách nhau tối thiểu 1.5s · −16 dB
 
 ## Lịch sử
 
+### Đã thử và BỎ (05/08/2026 tối): điền sẵn caption từ kho
+
+Ý tưởng: nhịp nào khớp cụm trong `kho_caption.json` thì điền thẳng chữ + màu vào
+khung `plan.py` (thay vì in comment), biến "viết" thành "duyệt". Backtest leave-one-out
+trên 7 job (đã vá rò rỉ cặp `06`/`06b` — `bo_job` cũ chỉ bỏ cụm có ĐÚNG MỘT job,
+cụm nằm trong cả bản sao thì tự khớp chính mình):
+
+| ngưỡng | dùng ≥ | điền | TRÚNG bản cuối | SAI | chính xác |
+|---|---|---|---|---|---|
+| 0.75 | 1 lần | 122 | 38 | 84 | 31% |
+| 1.0 | 2 lần | 31 | 17 | 14 | **54%** |
+
+Kể cả gate chặt nhất cũng **sai gần một nửa**, mà điền sai ĐẮT hơn để trống:
+khung mặc định chứa lời nói thật (nguyên liệu để cô đọng) — điền đè lên là mất nó,
+và nếu không phát hiện thì caption sai đi thẳng vào bản dựng.
+
+**Vì sao hỏng có tính cấu trúc, không phải chỉnh ngưỡng được:** (1) cùng một ý nhưng
+mỗi bài diễn đạt khác — kho có `LÀM HẸP MẠCH MÁU`, bản cuối là `LÀM TẮC, LÀM BÍT,
+LÀM NGHẼN`; (2) ranh nhịp mỗi bài chia khác, caption cuối phủ nhiều/ít lời nói hơn
+cụm lưu trong kho.
+
+**Giữ nguyên version cũ** (gợi ý bằng comment `# KHO`). Giá trị thật của kho nằm ở:
+từ điển whisper (tự sửa 16% dòng), cờ `[CO CHU SO — KIEM TAY]`, và tính tự dày
+theo họ kịch bản — video Thịnh #2 sẽ trúng cao hơn hẳn vì job 07 đã vào kho.
+
 **v2.3 — 05/08/2026 (chiều).** Soát cả luồng để **đóng gói cho máy khác**. Viết `CAI-DAT.md`
 ở gốc repo — cần gì, mang gì, kiểm bằng 4 lệnh.
 
