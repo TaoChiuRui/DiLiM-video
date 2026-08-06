@@ -15,7 +15,7 @@
   ],
   "variant": "warning",
   "clip": {
-   "VAI GÁY (1).mp4": 4,
+   "dilimquay-vaigay-ong-01.mp4": 4,
    "chongmat-vintuong-nam-01.mp4": 1
   },
   "job": [
@@ -859,7 +859,7 @@
   ],
   "variant": "warning",
   "clip": {
-   "VAI GÁY (1).mp4": 2
+   "dilimquay-vaigay-ong-01.mp4": 2
   },
   "job": [
    "03-2026-06-28-dscf0894",
@@ -885,7 +885,7 @@
   ],
   "variant": "warning",
   "clip": {
-   "VAI GÁY (1).mp4": 1,
+   "dilimquay-vaigay-ong-01.mp4": 1,
    "dotquy-tebi-runtay-01.mp4": 1
   },
   "job": [
@@ -1161,7 +1161,7 @@
   ],
   "variant": "product",
   "clip": {
-   "men gạo đỏ.mp4": 2
+   "mengaodo-hat-01.mp4": 2
   },
   "job": [
    "02-2026-08-03-dilim-video-test",
@@ -1544,7 +1544,7 @@
   ],
   "variant": "cta",
   "clip": {
-   "natto-2hop.jpg": 2
+   "natto-anh-2hop-01.jpg": 2
   },
   "job": [
    "04-2026-08-04-img1770",
@@ -1615,7 +1615,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 2
+   "natto-anh-2hop-01.jpg": 2
   },
   "job": [
    "04-2026-08-04-img1770",
@@ -1690,7 +1690,7 @@
   ],
   "variant": "product",
   "clip": {
-   "men gạo đỏ.mp4": 2
+   "mengaodo-hat-01.mp4": 2
   },
   "job": [
    "04-2026-08-04-img1771",
@@ -2832,7 +2832,7 @@
   "variant": "cta",
   "clip": {
    "richnatto-01.mp4": 1,
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "04-2026-08-04-img1770",
@@ -2924,7 +2924,7 @@
   ],
   "variant": "yellow",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "04-2026-08-04-img1773"
@@ -2946,7 +2946,7 @@
   ],
   "variant": "yellow",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "04-2026-08-04-img1770"
@@ -3051,6 +3051,27 @@
   "co_so": false
  },
  {
+  "chu": "*BỘ ĐÔI CHÍNH HÃNG*",
+  "chu2": "",
+  "tu": [
+   "bộ",
+   "đôi",
+   "chính",
+   "hãng"
+  ],
+  "variant": "product",
+  "clip": {
+   "dilimquay-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "*CAM KẾT* VỚI CÔ CHÚ ANH CHỊ",
   "chu2": "KHI DÙNG *LỘ TRÌNH NÀY*",
   "tu": [
@@ -3089,7 +3110,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "03-2026-06-28-dscf0894"
@@ -3123,6 +3144,51 @@
   "co_so": false
  },
  {
+  "chu": "*CHẶN AXIT* TỪ DẠ DÀY",
+  "chu2": "ĐI LÊN",
+  "tu": [
+   "chặn",
+   "axit",
+   "từ",
+   "dạ",
+   "dày",
+   "lên"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "noitang-sodo-dady-hong-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "*CO BÓP LIÊN TỤC*",
+  "chu2": "VÀ ĐẨY RA NGAY",
+  "tu": [
+   "co",
+   "bóp",
+   "liên",
+   "tục",
+   "đẩy"
+  ],
+  "variant": "warning",
+  "clip": {
+   "noitang-obung-ruot-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "*CŨNG CHƯA ĐỦ*",
   "chu2": "",
   "tu": [
@@ -3132,29 +3198,6 @@
   "variant": "warning",
   "clip": {
    "(trống)": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
-  "chu": "*CẢM ƠN* CÔ CHÚ ANH CHỊ",
-  "chu2": "",
-  "tu": [
-   "cảm",
-   "ơn",
-   "cô",
-   "chú",
-   "anh",
-   "chị"
-  ],
-  "variant": "cta",
-  "clip": {
-   "richnatto-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -3251,6 +3294,28 @@
   "co_so": false
  },
  {
+  "chu": "*DẠ DÀY* BỊ ÉP QUÁ MỨC",
+  "chu2": "",
+  "tu": [
+   "dạ",
+   "dày",
+   "bị",
+   "ép",
+   "mức"
+  ],
+  "variant": "warning",
+  "clip": {
+   "noitang-dady-do-cothe-02.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "*ENZYME NATTO* HỖ TRỢ",
   "chu2": "LÀM TAN *CỤC MÁU ĐÔNG*",
   "tu": [
@@ -3290,7 +3355,7 @@
   ],
   "variant": "positive",
   "clip": {
-   "3192168-uhd_3840_2160_25fps (1).mp4": 1
+   "theduc-ongba-dibo-pho-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -3333,7 +3398,7 @@
   ],
   "variant": "positive",
   "clip": {
-   "OĂDAWD.mp4": 1
+   "anlanh-ban-tuvan-dinhduong-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -3358,6 +3423,31 @@
   },
   "job": [
    "04-2026-08-04-img1771"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "*HẠI KHUẨN* LÊN MEN",
+  "chu2": "SINH HƠI, SINH KHÍ",
+  "tu": [
+   "hại",
+   "khuẩn",
+   "lên",
+   "men",
+   "sinh",
+   "hơi",
+   "sinh",
+   "khí"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-longnhung-loikhuan-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -3434,6 +3524,31 @@
   "co_so": false
  },
  {
+  "chu": "*HỆ VI SINH* DƯỚI RUỘT",
+  "chu2": "ĐÃ *MẤT CÂN BẰNG* LÂU RỒI",
+  "tu": [
+   "hệ",
+   "vi",
+   "sinh",
+   "ruột",
+   "mất",
+   "cân",
+   "bằng",
+   "lâu"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-longruot-vikhuan-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "*HỖ TRỢ CẢI THIỆN*",
   "chu2": "ĐAU ĐẦU, MẤT NGỦ",
   "tu": [
@@ -3452,6 +3567,31 @@
   },
   "job": [
    "07-2026-08-03-dji0485"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "*KHÓ THỞ*, ĐAU TỨC",
+  "chu2": "THỰC QUẢN LIÊN TỤC",
+  "tu": [
+   "khó",
+   "thở",
+   "đau",
+   "tức",
+   "thực",
+   "quản",
+   "liên",
+   "tục"
+  ],
+  "variant": "warning",
+  "clip": {
+   "dotquy-omnguc-ongcu-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -3601,7 +3741,7 @@
   ],
   "variant": "product",
   "clip": {
-   "men gạo đỏ.mp4": 1
+   "mengaodo-hat-01.mp4": 1
   },
   "job": [
    "04-2026-08-04-img1770"
@@ -3628,7 +3768,7 @@
   ],
   "variant": "product",
   "clip": {
-   "men gạo đỏ.mp4": 1
+   "mengaodo-hat-01.mp4": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
@@ -3744,7 +3884,7 @@
   ],
   "variant": "positive",
   "clip": {
-   "Thiết kế chưa có tên - 2026-01-23T155012.305.mp4": 1
+   "theduc-ongba-dibo-vui-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -3800,6 +3940,29 @@
   "co_so": false
  },
  {
+  "chu": "*NGHỆ MÙA THU OKINAWA*",
+  "chu2": "VÀ *MEN INULIN*",
+  "tu": [
+   "nghệ",
+   "mùa",
+   "thu",
+   "okinawa",
+   "men",
+   "inulin"
+  ],
+  "variant": "product",
+  "clip": {
+   "dilimquay-ong-camhop-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "*NGỦ SÂU* LÀ ĐIỀU",
   "chu2": "*HIỂN NHIÊN, DỄ DÀNG*",
   "tu": [
@@ -3838,7 +4001,7 @@
   ],
   "variant": "positive",
   "clip": {
-   "Thiết kế chưa có tên - 2026-01-23T155012.305.mp4": 1
+   "theduc-ongba-dibo-vui-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -3890,6 +4053,27 @@
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "*NỘI ĐỊA NHẬT BẢN*",
+  "chu2": "",
+  "tu": [
+   "nội",
+   "địa",
+   "nhật",
+   "bản"
+  ],
+  "variant": "cta",
+  "clip": {
+   "dilimquay-ong-camhop-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -3982,26 +4166,6 @@
   "co_so": false
  },
  {
-  "chu": "*RẤT TỐT* CHO CƠ THỂ",
-  "chu2": "",
-  "tu": [
-   "tốt",
-   "cơ",
-   "thể"
-  ],
-  "variant": "positive",
-  "clip": {
-   "cothe-hemach-do-01.mp4": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
   "chu": "*RỐI LOẠN TIỀN ĐÌNH*",
   "chu2": "MÃI KHÔNG KHỎI",
   "tu": [
@@ -4048,16 +4212,21 @@
  },
  {
   "chu": "*THIỀN ĐỊNH* MỖI NGÀY",
-  "chu2": "",
+  "chu2": "ĐỂ *TÂM TRÍ SÁNG SUỐT*",
   "tu": [
    "thiền",
    "định",
    "mỗi",
-   "ngày"
+   "ngày",
+   "để",
+   "tâm",
+   "trí",
+   "sáng",
+   "suốt"
   ],
   "variant": "positive",
   "clip": {
-   "Thiết kế chưa có tên - 2026-01-30T150946.126.mp4": 1
+   "theduc-ongcu-khicong-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -4079,7 +4248,7 @@
   ],
   "variant": "positive",
   "clip": {
-   "download (89).mp4": 1
+   "anlanh-mam-lanhmanh-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -4151,7 +4320,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
@@ -4174,7 +4343,7 @@
   ],
   "variant": "positive",
   "clip": {
-   "RỨNG (67).mp4": 1
+   "anlanh-rau-quaycho-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -4226,7 +4395,7 @@
   ],
   "variant": "warning",
   "clip": {
-   "VAI GÁY (1).mp4": 1
+   "dilimquay-vaigay-ong-01.mp4": 1
   },
   "job": [
    "02-2026-08-03-dilim-video-test"
@@ -4274,7 +4443,7 @@
   ],
   "variant": "warning",
   "clip": {
-   "VAI GÁY (1).mp4": 1
+   "dilimquay-vaigay-ong-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -4332,6 +4501,52 @@
   "co_so": false
  },
  {
+  "chu": "*ĐƯỜNG RUỘT* SẼ ÊM THEO",
+  "chu2": "",
+  "tu": [
+   "đường",
+   "ruột",
+   "êm",
+   "theo"
+  ],
+  "variant": "positive",
+  "clip": {
+   "noitang-longruot-trong-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "*ĐẠI TRÀNG* KHÔNG ỔN",
+  "chu2": "ẢNH HƯỞNG LÊN *DẠ DÀY*",
+  "tu": [
+   "đại",
+   "tràng",
+   "ổn",
+   "ảnh",
+   "hưởng",
+   "lên",
+   "dạ",
+   "dày"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "cothe-tieuhoa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "*ĐỒNG HÀNH NGHIÊM TÚC*",
   "chu2": "CHO SỨC KHỎE",
   "tu": [
@@ -4344,7 +4559,7 @@
   ],
   "variant": "positive",
   "clip": {
-   "download - 2026-06-02T151351.286.mp4": 1
+   "theduc-ongcu-tata-hlv-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -4398,6 +4613,50 @@
   "duyet_giu": 0,
   "duyet_sua": 0,
   "co_so": false
+ },
+ {
+  "chu": "*Ợ CHUA*",
+  "chu2": "*NÓNG RÁT* THƯỢNG VỊ",
+  "tu": [
+   "ợ",
+   "chua",
+   "nóng",
+   "rát",
+   "thượng",
+   "vị"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-nu-onong-ban-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "6 THÁNG *33.300K*",
+  "chu2": "",
+  "tu": [
+   "6",
+   "tháng",
+   "33",
+   "300k"
+  ],
+  "variant": "product",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
  },
  {
   "chu": "AI UỐNG *THUỐC CHỐNG ĐÔNG*",
@@ -4469,6 +4728,52 @@
   "co_so": false
  },
  {
+  "chu": "AXIT *TRÀO NGƯỢC*",
+  "chu2": "TỪ DẠ DÀY LÊN",
+  "tu": [
+   "axit",
+   "trào",
+   "ngược",
+   "từ",
+   "dạ",
+   "dày",
+   "lên"
+  ],
+  "variant": "warning",
+  "clip": {
+   "noitang-sodo-dady-vikhuan-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "AXIT *ĂN MÒN THỰC QUẢN*",
+  "chu2": "",
+  "tu": [
+   "axit",
+   "ăn",
+   "mòn",
+   "thực",
+   "quản"
+  ],
+  "variant": "warning",
+  "clip": {
+   "noitang-dady-mach-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "BÁM Ở *THÀNH MẠCH*",
   "chu2": "*DÀY LÊN TỪNG NGÀY*",
   "tu": [
@@ -4519,6 +4824,29 @@
   "co_so": false
  },
  {
+  "chu": "BÊN GIA ĐÌNH",
+  "chu2": "NHỮNG *BỮA ĂN NGON*",
+  "tu": [
+   "bên",
+   "gia",
+   "đình",
+   "bữa",
+   "ăn",
+   "ngon"
+  ],
+  "variant": "positive",
+  "clip": {
+   "giadinh-ancom-bep-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "BƠM ÁP SUẤT MẠNH",
   "chu2": "NHIỀU KHI CÒN *GÂY NGUY HIỂM*",
   "tu": [
@@ -4545,6 +4873,29 @@
   "co_so": false
  },
  {
+  "chu": "BƯƠN CHẢI",
+  "chu2": "CHỊU RẤT NHIỀU *ÁP LỰC*",
+  "tu": [
+   "bươn",
+   "chải",
+   "chịu",
+   "nhiều",
+   "áp",
+   "lực"
+  ],
+  "variant": "warning",
+  "clip": {
+   "vanphong-aplic-dongnghiep-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "BẮT ĐẦU *THIẾU OXY*",
   "chu2": "*THIẾU DƯỠNG CHẤT*",
   "tu": [
@@ -4562,6 +4913,30 @@
   },
   "job": [
    "04-2026-08-04-img1770"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "BỮA ĂN PHẢI",
+  "chu2": "*KIÊNG KHEM* ĐỦ THỨ",
+  "tu": [
+   "bữa",
+   "ăn",
+   "phải",
+   "kiêng",
+   "khem",
+   "đủ",
+   "thứ"
+  ],
+  "variant": "warning",
+  "clip": {
+   "anlanh-nu-ansalad-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -4613,7 +4988,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
@@ -4624,19 +4999,21 @@
   "co_so": true
  },
  {
-  "chu": "CHÚC MỘT *BUỔI CHIỀU*",
-  "chu2": "",
+  "chu": "CHƯA GIẢI QUYẾT",
+  "chu2": "VẪN *TÁI LẠI*",
   "tu": [
-   "chúc",
-   "buổi",
-   "chiều"
+   "chưa",
+   "giải",
+   "quyết",
+   "vẫn",
+   "tái"
   ],
-  "variant": "positive",
+  "variant": "warning",
   "clip": {
-   "Thiết kế chưa có tên - 2026-01-23T155012.305.mp4": 1
+   "(trống)": 1
   },
   "job": [
-   "07-2026-08-03-dji0485"
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -4665,6 +5042,27 @@
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "CHẤT XƠ HÒA TAN",
+  "chu2": "",
+  "tu": [
+   "chất",
+   "xơ",
+   "hòa",
+   "tan"
+  ],
+  "variant": "product",
+  "clip": {
+   "anlanh-hatchia-rot-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -4716,6 +5114,48 @@
   "co_so": false
  },
  {
+  "chu": "CHỈ ĐỂ CÓ ĐƯỢC",
+  "chu2": "PHÚT GIÂY *THOẢI MÁI*",
+  "tu": [
+   "để",
+   "phút",
+   "giây",
+   "thoải",
+   "mái"
+  ],
+  "variant": "positive",
+  "clip": {
+   "giadinh-bong-hoanghon-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "CHỊU MỘT *LỰC RẤT LỚN*",
+  "chu2": "",
+  "tu": [
+   "chịu",
+   "lực",
+   "lớn"
+  ],
+  "variant": "warning",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "CUNG CẤP CHO *NÃO*",
   "chu2": "",
   "tu": [
@@ -4757,6 +5197,26 @@
   "co_so": false
  },
  {
+  "chu": "CÁI *SỐ 2* NỮA LÀ GÌ?",
+  "chu2": "",
+  "tu": [
+   "số",
+   "2",
+   "gì"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
   "chu": "CÒN *CỤC MÁU ĐÔNG*",
   "chu2": "HAI THỨ LÀM *MẠCH MÁU HẸP*",
   "tu": [
@@ -4796,7 +5256,7 @@
   ],
   "variant": "yellow",
   "clip": {
-   "Thiết kế chưa có tên - 2024-12-20T115808.557.mp4": 1
+   "theduc-ongba-chaybo-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -4830,6 +5290,29 @@
   "co_so": false
  },
  {
+  "chu": "CÒN GIÚP *TRẢ LẠI*",
+  "chu2": "NIÊM MẠC KHỎE",
+  "tu": [
+   "còn",
+   "giúp",
+   "trả",
+   "niêm",
+   "mạc",
+   "khỏe"
+  ],
+  "variant": "positive",
+  "clip": {
+   "tieuhoa-longruot-can-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "CÒN THỊNH *KHÔNG BAO GIỜ*",
   "chu2": "*CAM KẾT* ĐIỀU NÀY",
   "tu": [
@@ -4847,6 +5330,48 @@
   },
   "job": [
    "07-2026-08-03-dji0485"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "CÒN Ý NGHĨA GÌ NỮA?",
+  "chu2": "",
+  "tu": [
+   "còn",
+   "ý",
+   "nghĩa",
+   "gì"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "CÓ *GIẤY TỜ CHỨNG TỪ*",
+  "chu2": "",
+  "tu": [
+   "giấy",
+   "tờ",
+   "chứng",
+   "từ"
+  ],
+  "variant": "product",
+  "clip": {
+   "vanphong-nam-dienthoai-hoso-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -4874,6 +5399,25 @@
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "CÓ *TÁI LẠI* KHÔNG?",
+  "chu2": "VẪN CÓ",
+  "tu": [
+   "tái",
+   "vẫn"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "tieuhoa-nu-ombung-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -5020,29 +5564,6 @@
   "co_so": false
  },
  {
-  "chu": "CÔ CHÚ ANH CHỊ NÀO",
-  "chu2": "ĐANG MUỐN",
-  "tu": [
-   "cô",
-   "chú",
-   "anh",
-   "chị",
-   "nào",
-   "muốn"
-  ],
-  "variant": "highlight",
-  "clip": {
-   "(trống)": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
   "chu": "CÔ CHÚ NÀO ĐANG BỊ",
   "chu2": "*ĐAU ĐẦU, MẤT NGỦ*",
   "tu": [
@@ -5092,6 +5613,26 @@
   "co_so": false
  },
  {
+  "chu": "CÔNG SỨC MÌNH BỎ RA",
+  "chu2": "",
+  "tu": [
+   "công",
+   "sức",
+   "bỏ"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "metmoi-chemat-vanphong-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "CŨNG *KHÔNG ĐƯA MÁU ĐI ĐƯỢC*",
   "chu2": "",
   "tu": [
@@ -5111,8 +5652,28 @@
   "co_so": false
  },
  {
+  "chu": "CŨNG GẶP *TÌNH TRẠNG NÀY*",
+  "chu2": "",
+  "tu": [
+   "gặp",
+   "tình",
+   "trạng"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "tieuhoa-nu-ombung-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "CŨNG NHƯ *TUẦN HOÀN MÁU*",
-  "chu2": "ĐƯỢC TỐT HƠN, ĐÚNG KHÔNG?",
+  "chu2": "ĐƯỢC TỐT HƠN",
   "tu": [
    "như",
    "tuần",
@@ -5180,6 +5741,33 @@
   "duyet_giu": 0,
   "duyet_sua": 0,
   "co_so": false
+ },
+ {
+  "chu": "CỘNG THÊM *1 THÁNG DÙNG*",
+  "chu2": "2 HỘP MEN + 3 HỘP NGHỆ",
+  "tu": [
+   "cộng",
+   "1",
+   "tháng",
+   "dùng",
+   "2",
+   "hộp",
+   "men",
+   "3",
+   "hộp",
+   "nghệ"
+  ],
+  "variant": "product",
+  "clip": {
+   "tieuhoa-nghe-bot-thia-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
  },
  {
   "chu": "DUY TRÌ *LIỆU TRÌNH 1 NĂM*",
@@ -5263,7 +5851,7 @@
   ],
   "variant": "positive",
   "clip": {
-   "Thiết kế chưa có tên - 2026-04-18T140446.915.mp4": 1
+   "theduc-bacu-khicong-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -5420,10 +6008,58 @@
   ],
   "variant": "cta",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "DỄ *KÍCH THÍCH*",
+  "chu2": "KHI THỨC ĂN ĐI QUA",
+  "tu": [
+   "dễ",
+   "kích",
+   "thích",
+   "thức",
+   "ăn",
+   "qua"
+  ],
+  "variant": "warning",
+  "clip": {
+   "noitang-longruot-trong-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "E LÀ *EXERCISE* — THỂ THAO",
+  "chu2": "TỐT NHẤT: *ĐI BỘ NHANH*",
+  "tu": [
+   "e",
+   "exercise",
+   "thể",
+   "thao",
+   "tốt",
+   "nhất",
+   "bộ",
+   "nhanh"
+  ],
+  "variant": "positive",
+  "clip": {
+   "theduc-bacu-dibo-bobien-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -5454,6 +6090,48 @@
   "co_so": false
  },
  {
+  "chu": "GIÁ *3 THÁNG*",
+  "chu2": "*16.650K*",
+  "tu": [
+   "giá",
+   "3",
+   "tháng",
+   "16",
+   "650k"
+  ],
+  "variant": "product",
+  "clip": {
+   "dilimquay-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
+  "chu": "GIÁ *33.300K*",
+  "chu2": "",
+  "tu": [
+   "giá",
+   "33",
+   "300k"
+  ],
+  "variant": "product",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
   "chu": "GIÚP *HẠ MỠ MÁU*",
   "chu2": "",
   "tu": [
@@ -5468,6 +6146,28 @@
   },
   "job": [
    "03-2026-06-28-dscf0894"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "GIÚP *HỆ TIÊU HÓA*",
+  "chu2": "KHỎE HƠN",
+  "tu": [
+   "giúp",
+   "hệ",
+   "tiêu",
+   "hóa",
+   "khỏe"
+  ],
+  "variant": "positive",
+  "clip": {
+   "cothe-tieuhoa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -5615,6 +6315,30 @@
   "co_so": false
  },
  {
+  "chu": "GIỐNG NHƯ ĐỤNG VÀO",
+  "chu2": "*VẾT ĐỨT TAY*",
+  "tu": [
+   "giống",
+   "như",
+   "đụng",
+   "vào",
+   "vết",
+   "đứt",
+   "tay"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "GIỮ *TIỂU CẦU* LẠI",
   "chu2": "*BỊT VẾT THƯƠNG* LẠI",
   "tu": [
@@ -5729,6 +6453,53 @@
   "duyet_giu": 0,
   "duyet_sua": 0,
   "co_so": false
+ },
+ {
+  "chu": "GỐC RỄ: *HỆ VI SINH*",
+  "chu2": "*MẤT CÂN BẰNG*",
+  "tu": [
+   "gốc",
+   "rễ",
+   "hệ",
+   "vi",
+   "sinh",
+   "mất",
+   "cân",
+   "bằng"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-longruot-vikhuan-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "GỒM *6 HỘP MEN INULIN*",
+  "chu2": "",
+  "tu": [
+   "gồm",
+   "6",
+   "hộp",
+   "men",
+   "inulin"
+  ],
+  "variant": "product",
+  "clip": {
+   "dilimquay-ong-camhop-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
  },
  {
   "chu": "HAY *RỐI LOẠN TIỀN ĐÌNH*",
@@ -5898,18 +6669,50 @@
   "co_so": false
  },
  {
+  "chu": "HÀNG NHẬT: *AN TOÀN*",
+  "chu2": "*CHẤT LƯỢNG* HÀNG ĐẦU",
+  "tu": [
+   "hàng",
+   "nhật",
+   "an",
+   "toàn",
+   "chất",
+   "lượng",
+   "hàng",
+   "đầu"
+  ],
+  "variant": "product",
+  "clip": {
+   "khambenh-duocsi-donggoi-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "HÃY *THỂ DỤC THỂ THAO*",
-  "chu2": "",
+  "chu2": "TỪ *5 ĐẾN 15 PHÚT* MỖI NGÀY",
   "tu": [
    "hãy",
    "thể",
    "dục",
    "thể",
-   "thao"
+   "thao",
+   "từ",
+   "5",
+   "đến",
+   "15",
+   "phút",
+   "mỗi",
+   "ngày"
   ],
   "variant": "positive",
   "clip": {
-   "chay bo.mp4": 1
+   "theduc-ongcu-chay-baico-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -5917,7 +6720,7 @@
   "lan": 1,
   "duyet_giu": 0,
   "duyet_sua": 0,
-  "co_so": false
+  "co_so": true
  },
  {
   "chu": "HÃY *XUẤT PHÁT TỪ 3 CÁI*",
@@ -5957,6 +6760,98 @@
   },
   "job": [
    "04-2026-08-04-img1770"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "HƠN *95%*",
+  "chu2": "CẢI THIỆN TỪNG NGÀY",
+  "tu": [
+   "95",
+   "cải",
+   "thiện",
+   "từng",
+   "ngày"
+  ],
+  "variant": "positive",
+  "clip": {
+   "ngungon-chiso-suckhoe-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
+  "chu": "HẰNG HỖ TRỢ LIỆU TRÌNH",
+  "chu2": "*CÁ NHÂN HÓA*",
+  "tu": [
+   "hằng",
+   "hỗ",
+   "trợ",
+   "liệu",
+   "trình",
+   "cá",
+   "nhân",
+   "hóa"
+  ],
+  "variant": "cta",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "HẰNG ÁP DỤNG *BA TRỤ*",
+  "chu2": "CHO KHÁCH HÀNG",
+  "tu": [
+   "hằng",
+   "áp",
+   "dụng",
+   "ba",
+   "trụ",
+   "khách",
+   "hàng"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "HẰNG ĐÃ *HỖ TRỢ* RẤT NHIỀU",
+  "chu2": "",
+  "tu": [
+   "hằng",
+   "hỗ",
+   "trợ",
+   "nhiều"
+  ],
+  "variant": "positive",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -6034,6 +6929,28 @@
   "co_so": false
  },
  {
+  "chu": "KHI *THIỀN*",
+  "chu2": "LÀM CHỦ *CẢM XÚC*",
+  "tu": [
+   "thiền",
+   "làm",
+   "chủ",
+   "cảm",
+   "xúc"
+  ],
+  "variant": "positive",
+  "clip": {
+   "theduc-ongcu-khicong-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "KHI *TRỤC THẦN KINH*",
   "chu2": "ĐƯỢC *NUÔI LẠI*",
   "tu": [
@@ -6102,24 +7019,20 @@
   "co_so": false
  },
  {
-  "chu": "KHI CÔ CHÚ ANH CHỊ",
-  "chu2": "*TÌM ĐẾN* BÊN THỊNH",
+  "chu": "KHI DÙNG *BỘ SẢN PHẨM* NÀY",
+  "chu2": "",
   "tu": [
-   "cô",
-   "chú",
-   "anh",
-   "chị",
-   "tìm",
-   "đến",
-   "bên",
-   "thịnh"
+   "dùng",
+   "bộ",
+   "sản",
+   "phẩm"
   ],
-  "variant": "highlight",
+  "variant": "product",
   "clip": {
-   "richnatto-01.mp4": 1
+   "dilimquay-ong-camhop-meninulin-sofa-01.mp4": 1
   },
   "job": [
-   "07-2026-08-03-dji0485"
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -6202,7 +7115,7 @@
   ],
   "variant": "warning",
   "clip": {
-   "Thiết kế chưa có tên - 2026-01-06T140054.681.mp4": 1
+   "theduc-su-khatthuc-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -6297,6 +7210,50 @@
   "co_so": false
  },
  {
+  "chu": "KHÔNG ĐẠT ĐƯỢC",
+  "chu2": "CHẤT LƯỢNG SỐNG MONG MUỐN",
+  "tu": [
+   "đạt",
+   "chất",
+   "lượng",
+   "sống",
+   "mong",
+   "muốn"
+  ],
+  "variant": "warning",
+  "clip": {
+   "metmoi-guc-toi-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "KHẮC PHỤC *TRÀO NGƯỢC*",
+  "chu2": "",
+  "tu": [
+   "khắc",
+   "phục",
+   "trào",
+   "ngược"
+  ],
+  "variant": "positive",
+  "clip": {
+   "ngungon-vuonvai-cuaso-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "KỂ CẢ *SUY NHƯỢC THẦN KINH*",
   "chu2": "",
   "tu": [
@@ -6343,6 +7300,51 @@
   "co_so": true
  },
  {
+  "chu": "LIÊN KẾT QUA",
+  "chu2": "*HỆ TRỤC NÃO - RUỘT*",
+  "tu": [
+   "liên",
+   "kết",
+   "qua",
+   "hệ",
+   "trục",
+   "não",
+   "ruột"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "tieuhoa-truc-nao-ruot-01.png": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "LIỆU TRÌNH *6 THÁNG*",
+  "chu2": "",
+  "tu": [
+   "liệu",
+   "trình",
+   "6",
+   "tháng"
+  ],
+  "variant": "product",
+  "clip": {
+   "tieuhoa-dohoa-curcumin-sosanh-01.png": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
   "chu": "LÀ *KHỎI HẲN*",
   "chu2": "HAY *DỨT ĐIỂM*",
   "tu": [
@@ -6357,6 +7359,28 @@
   },
   "job": [
    "07-2026-08-03-dji0485"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "LÀ MUA THUỐC *GIẢM*",
+  "chu2": "TRIỆU CHỨNG Ở ĐÓ",
+  "tu": [
+   "mua",
+   "thuốc",
+   "giảm",
+   "triệu",
+   "chứng"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "khambenh-duocsi-lothuoc-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -6397,26 +7421,6 @@
   },
   "job": [
    "03-2026-06-28-dscf0894"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
-  "chu": "LÀ ĐIỀU *RẤT CẦN THIẾT*",
-  "chu2": "",
-  "tu": [
-   "điều",
-   "cần",
-   "thiết"
-  ],
-  "variant": "positive",
-  "clip": {
-   "richnatto-01.mp4": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -6486,6 +7490,30 @@
   },
   "job": [
    "02-2026-08-03-dilim-video-test"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "LÀM BẬT *VAN* DẠ DÀY",
+  "chu2": "THỰC QUẢN",
+  "tu": [
+   "làm",
+   "bật",
+   "van",
+   "dạ",
+   "dày",
+   "thực",
+   "quản"
+  ],
+  "variant": "warning",
+  "clip": {
+   "noitang-sodo-dady-mangvang-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -6655,6 +7683,29 @@
   "co_so": false
  },
  {
+  "chu": "LẠI LÀ *TRÀO NGƯỢC*",
+  "chu2": "*Ợ HƠI, KHÓ THỞ*",
+  "tu": [
+   "trào",
+   "ngược",
+   "ợ",
+   "hơi",
+   "khó",
+   "thở"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-nu-ohoi-ban-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "LẠI RẤT DỄ GÂY",
   "chu2": "*ĐỘT QUỴ, TAI BIẾN?*",
   "tu": [
@@ -6693,7 +7744,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
@@ -6702,6 +7753,55 @@
   "duyet_giu": 0,
   "duyet_sua": 0,
   "co_so": true
+ },
+ {
+  "chu": "LỐI SỐNG *S.E.M*",
+  "chu2": "S LÀ *SUPPLEMENT*",
+  "tu": [
+   "lối",
+   "sống",
+   "s",
+   "e",
+   "m",
+   "s",
+   "supplement"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "anlanh-viennang-vang-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "M LÀ *MEDITATION*",
+  "chu2": "NGHỆ THUẬT QUẢN LÝ TÂM TRÍ",
+  "tu": [
+   "m",
+   "meditation",
+   "nghệ",
+   "thuật",
+   "quản",
+   "lý",
+   "tâm",
+   "trí"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "theduc-ongcu-khicong-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
  },
  {
   "chu": "MUỐN CẢI THIỆN",
@@ -6809,6 +7909,27 @@
   },
   "job": [
    "02-2026-08-03-dilim-video-test"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "MÀ PHẢI ĐI TỪ *ĐẠI TRÀNG*",
+  "chu2": "",
+  "tu": [
+   "phải",
+   "từ",
+   "đại",
+   "tràng"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "noitang-daitrang-cothe-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -7429,7 +8550,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "04-2026-08-04-img1770"
@@ -7529,6 +8650,27 @@
   "co_so": false
  },
  {
+  "chu": "NGAY TẠI *NƯỚC SỞ TẠI*",
+  "chu2": "",
+  "tu": [
+   "tại",
+   "nước",
+   "sở",
+   "tại"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "NGOÀI HÀM LƯỢNG *RẤT CAO*",
   "chu2": "CỦA *ENZYME NATTO*",
   "tu": [
@@ -7545,6 +8687,103 @@
   },
   "job": [
    "02-2026-08-03-dilim-video-test"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "NGUYÊN TẮC: ĐI TỪ *GỐC RỄ*",
+  "chu2": "",
+  "tu": [
+   "nguyên",
+   "tắc",
+   "từ",
+   "gốc",
+   "rễ"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "NGƯNG NẠP THỨC ĂN",
+  "chu2": "CÓ LỢI CHO *HẠI KHUẨN*",
+  "tu": [
+   "ngưng",
+   "nạp",
+   "thức",
+   "ăn",
+   "lợi",
+   "hại",
+   "khuẩn"
+  ],
+  "variant": "warning",
+  "clip": {
+   "doan-xucxich-nuong-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "NGƯỜI NHẬT CŨNG DÙNG",
+  "chu2": "ĐỂ *BẢO VỆ* HỆ TIÊU HÓA",
+  "tu": [
+   "người",
+   "nhật",
+   "dùng",
+   "để",
+   "bảo",
+   "vệ",
+   "hệ",
+   "tiêu",
+   "hóa"
+  ],
+  "variant": "positive",
+  "clip": {
+   "dilimquay-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "NGỦ DẬY *ĐẮNG MIỆNG*",
+  "chu2": "KHÔ MIỆNG, *VIÊM HỌNG*",
+  "tu": [
+   "ngủ",
+   "dậy",
+   "đắng",
+   "miệng",
+   "khô",
+   "miệng",
+   "viêm",
+   "họng"
+  ],
+  "variant": "warning",
+  "clip": {
+   "matngu-nu-ngoiday-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -7713,6 +8952,53 @@
   "co_so": false
  },
  {
+  "chu": "NHẬN *12 HỘP MEN*",
+  "chu2": "*18 HỘP NGHỆ*",
+  "tu": [
+   "nhận",
+   "12",
+   "hộp",
+   "men",
+   "18",
+   "hộp",
+   "nghệ"
+  ],
+  "variant": "product",
+  "clip": {
+   "dilimquay-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
+  "chu": "NIÊM MẠC NGÀY CÀNG",
+  "chu2": "*MỎNG DẦN ĐI*",
+  "tu": [
+   "niêm",
+   "mạc",
+   "ngày",
+   "càng",
+   "mỏng",
+   "dần"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-longruot-can-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "NUÔI DƯỠNG *TẾ BÀO NÃO*",
   "chu2": "",
   "tu": [
@@ -7788,10 +9074,53 @@
   ],
   "variant": "warning",
   "clip": {
-   "VAI GÁY (1).mp4": 1
+   "dilimquay-vaigay-ong-01.mp4": 1
   },
   "job": [
    "04-2026-08-04-img1773"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "NÊN CHỌN LOẠI CÓ",
+  "chu2": "*NGUỒN GỐC RÕ RÀNG*",
+  "tu": [
+   "chọn",
+   "loại",
+   "nguồn",
+   "gốc",
+   "rõ",
+   "ràng"
+  ],
+  "variant": "product",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "NÊN ĂN VÀO LÀ",
+  "chu2": "*ĐI NGOÀI NGAY*",
+  "tu": [
+   "ăn",
+   "vào",
+   "ngoài"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-nam-ombung-boncau-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -7837,6 +9166,34 @@
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "NẠP *THỊT, CÁ, TRỨNG, SỮA*",
+  "chu2": "*ĐẠM, CHẤT XƠ*, THỨC ĂN SẠCH",
+  "tu": [
+   "nạp",
+   "thịt",
+   "cá",
+   "trứng",
+   "sữa",
+   "đạm",
+   "chất",
+   "xơ",
+   "thức",
+   "ăn",
+   "sạch"
+  ],
+  "variant": "positive",
+  "clip": {
+   "anlanh-raucu-nenxanh-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -7903,7 +9260,7 @@
   ],
   "variant": "yellow",
   "clip": {
-   "download (38).mp4": 1
+   "theduc-nhom-dibo-venbien-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
@@ -7914,13 +9271,30 @@
   "co_so": false
  },
  {
-  "chu": "NẾU CÔ CHÚ ANH CHỊ",
-  "chu2": "VẪN CÒN *THỨC KHUYA*",
+  "chu": "NẾU CÔ CHÚ",
+  "chu2": "*KHÔNG CAM KẾT*",
   "tu": [
    "cô",
    "chú",
-   "anh",
-   "chị",
+   "cam",
+   "kết"
+  ],
+  "variant": "warning",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "07-2026-08-03-dji0485"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "NẾU VẪN CÒN",
+  "chu2": "*THỨC KHUYA*",
+  "tu": [
    "vẫn",
    "còn",
    "thức",
@@ -7939,27 +9313,48 @@
   "co_so": false
  },
  {
-  "chu": "NẾU CÔ CHÚ ANH CHỊ",
-  "chu2": "*KHÔNG CAM KẾT*",
+  "chu": "PHẢI *THAY ĐỔI LỐI SỐNG*",
+  "chu2": "",
   "tu": [
-   "cô",
-   "chú",
-   "anh",
-   "chị",
-   "cam",
-   "kết"
+   "phải",
+   "thay",
+   "đổi",
+   "lối",
+   "sống"
   ],
-  "variant": "warning",
+  "variant": "yellow",
   "clip": {
-   "(trống)": 1
+   "giadinh-nauan-cungnhau-01.mp4": 1
   },
   "job": [
-   "07-2026-08-03-dji0485"
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
   "duyet_sua": 0,
   "co_so": false
+ },
+ {
+  "chu": "RUỘT LÀ *BỘ NÃO THỨ 2*",
+  "chu2": "",
+  "tu": [
+   "ruột",
+   "bộ",
+   "não",
+   "thứ",
+   "2"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "tieuhoa-truc-nao-ruot-01.png": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
  },
  {
   "chu": "RÁC RƯỞI TRONG",
@@ -8057,6 +9452,28 @@
   "co_so": false
  },
  {
+  "chu": "SUPPLEMENT CÒN MỘT GÓC:",
+  "chu2": "*DINH DƯỠNG*",
+  "tu": [
+   "supplement",
+   "còn",
+   "góc",
+   "dinh",
+   "dưỡng"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "anlanh-mam-lanhmanh-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "SẠCH *MẢNG MỠ XẤU*",
   "chu2": "TRONG THÀNH MẠCH",
   "tu": [
@@ -8080,26 +9497,6 @@
   "co_so": false
  },
  {
-  "chu": "SẼ *GIÚP CƠ THỂ*",
-  "chu2": "",
-  "tu": [
-   "giúp",
-   "cơ",
-   "thể"
-  ],
-  "variant": "positive",
-  "clip": {
-   "richnatto-01.mp4": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
   "chu": "SỬ DỤNG NGAY",
   "chu2": "ĐỂ LẠI *TÊN + SỐ ĐIỆN THOẠI*",
   "tu": [
@@ -8113,10 +9510,34 @@
   ],
   "variant": "cta",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "04-2026-08-04-img1770"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "TA *CĂNG THẲNG*",
+  "chu2": "RUỘT CĂNG THẲNG THEO",
+  "tu": [
+   "ta",
+   "căng",
+   "thẳng",
+   "ruột",
+   "căng",
+   "thẳng",
+   "theo"
+  ],
+  "variant": "warning",
+  "clip": {
+   "stress-vanphong-nam-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -8263,26 +9684,6 @@
   "co_so": false
  },
  {
-  "chu": "THÌ *LÀM SAO KHỎE ĐƯỢC?*",
-  "chu2": "",
-  "tu": [
-   "làm",
-   "sao",
-   "khỏe"
-  ],
-  "variant": "warning",
-  "clip": {
-   "(trống)": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
   "chu": "THÌ HÃY *LIÊN HỆ NGAY*",
   "chu2": "QUA *HOTLINE*",
   "tu": [
@@ -8298,27 +9699,6 @@
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
-  "chu": "THÌ LÀM SAO",
-  "chu2": "*CẢI THIỆN* ĐƯỢC?",
-  "tu": [
-   "làm",
-   "sao",
-   "cải",
-   "thiện"
-  ],
-  "variant": "warning",
-  "clip": {
-   "(trống)": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -8349,20 +9729,22 @@
   "co_so": false
  },
  {
-  "chu": "THỊNH *RẤT CẦN KHÁCH HÀNG*",
-  "chu2": "",
+  "chu": "THÓI QUEN NUÔI BỆNH",
+  "chu2": "VẪN SẼ *TÁI LẠI*",
   "tu": [
-   "thịnh",
-   "cần",
-   "khách",
-   "hàng"
+   "thói",
+   "quen",
+   "nuôi",
+   "bệnh",
+   "vẫn",
+   "tái"
   ],
-  "variant": "highlight",
+  "variant": "warning",
   "clip": {
-   "(trống)": 1
+   "doan-nu-burger-quan-01.mp4": 1
   },
   "job": [
-   "07-2026-08-03-dji0485"
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -8370,17 +9752,13 @@
   "co_so": false
  },
  {
-  "chu": "THỊNH LUÔN *CHIA SẺ*",
-  "chu2": "VỚI CÔ CHÚ ANH CHỊ",
+  "chu": "THỊNH *RẤT CẦN KHÁCH HÀNG*",
+  "chu2": "",
   "tu": [
    "thịnh",
-   "luôn",
-   "chia",
-   "sẻ",
-   "cô",
-   "chú",
-   "anh",
-   "chị"
+   "cần",
+   "khách",
+   "hàng"
   ],
   "variant": "highlight",
   "clip": {
@@ -8421,6 +9799,59 @@
   "duyet_giu": 0,
   "duyet_sua": 0,
   "co_so": true
+ },
+ {
+  "chu": "THỨ 2: HẠI KHUẨN",
+  "chu2": "*LÊN MEN ĐỒ ĂN*, SINH KHÍ",
+  "tu": [
+   "thứ",
+   "2",
+   "hại",
+   "khuẩn",
+   "lên",
+   "men",
+   "đồ",
+   "ăn",
+   "sinh",
+   "khí"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-vikhuan-canh-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
+  "chu": "TIỀN NHIỀU ĐỂ LÀM GÌ",
+  "chu2": "*ĐƯỜNG RUỘT* KHÔNG NGHE LỜI",
+  "tu": [
+   "tiền",
+   "nhiều",
+   "để",
+   "làm",
+   "gì",
+   "đường",
+   "ruột",
+   "nghe",
+   "lời"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
  },
  {
   "chu": "TRIỆU CHỨNG KÉO DÀI",
@@ -8484,7 +9915,7 @@
   ],
   "variant": "product",
   "clip": {
-   "men gạo đỏ.mp4": 1
+   "mengaodo-hat-01.mp4": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
@@ -8612,6 +10043,52 @@
   "co_so": false
  },
  {
+  "chu": "TĂNG ÁP LỰC Ở BỤNG",
+  "chu2": "CẢ *KHOANG BỤNG*",
+  "tu": [
+   "tăng",
+   "áp",
+   "lực",
+   "bụng",
+   "cả",
+   "khoang",
+   "bụng"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-nam-ombung-do-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "TẠI SAO ĂN VÀO",
+  "chu2": "LÀ *ĐI NGOÀI* NGAY?",
+  "tu": [
+   "tại",
+   "sao",
+   "ăn",
+   "vào",
+   "ngoài"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "tieuhoa-nam-ombung-wc-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "TẠI VÌ *CÀNG LỚN TUỔI*",
   "chu2": "",
   "tu": [
@@ -8646,10 +10123,33 @@
   ],
   "variant": "positive",
   "clip": {
-   "3192168-uhd_3840_2160_25fps (1).mp4": 1
+   "theduc-ongba-dibo-pho-01.mp4": 1
   },
   "job": [
    "07-2026-08-03-dji0485"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "TẤN CÔNG *NIÊM MẠC*",
+  "chu2": "ĐẠI TRÀNG",
+  "tu": [
+   "tấn",
+   "công",
+   "niêm",
+   "mạc",
+   "đại",
+   "tràng"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-sodo-daitrang-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -8680,23 +10180,45 @@
   "co_so": true
  },
  {
-  "chu": "TỪ *5 ĐẾN 15 PHÚT*",
-  "chu2": "MỖI NGÀY",
+  "chu": "TỔNG CỘNG NHẬN",
+  "chu2": "*14 HỘP MEN INULIN*",
   "tu": [
-   "từ",
-   "5",
-   "đến",
-   "15",
-   "phút",
-   "mỗi",
-   "ngày"
+   "tổng",
+   "cộng",
+   "nhận",
+   "14",
+   "hộp",
+   "men",
+   "inulin"
   ],
-  "variant": "positive",
+  "variant": "product",
   "clip": {
-   "chay bo.mp4": 1
+   "dilimquay-ong-camhop-meninulin-sofa-01.mp4": 1
   },
   "job": [
-   "07-2026-08-03-dji0485"
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
+  "chu": "TỔNG: 3 THÁNG *16.650K*",
+  "chu2": "",
+  "tu": [
+   "tổng",
+   "3",
+   "tháng",
+   "16",
+   "650k"
+  ],
+  "variant": "product",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -8720,29 +10242,6 @@
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
-  "chu": "TỪ ĐẤY *HỖ TRỢ CẢI THIỆN*",
-  "chu2": "",
-  "tu": [
-   "từ",
-   "đấy",
-   "hỗ",
-   "trợ",
-   "cải",
-   "thiện"
-  ],
-  "variant": "positive",
-  "clip": {
-   "thankinh-toanthan-vang-01.mp4": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -8843,6 +10342,33 @@
   "co_so": false
  },
  {
+  "chu": "VIÊM THỰC QUẢN MÃN TÍNH",
+  "chu2": "BARRETT, THẬM CHÍ *UNG THƯ*",
+  "tu": [
+   "viêm",
+   "thực",
+   "quản",
+   "mãn",
+   "tính",
+   "barrett",
+   "thậm",
+   "chí",
+   "ung",
+   "thư"
+  ],
+  "variant": "warning",
+  "clip": {
+   "khambenh-ongcu-ombung-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "VIỆC CẦN LÀM KHÔNG PHẢI BƠM",
   "chu2": "MÀ LÀ *PHẢI LÀM SẠCH CÁI ỐNG*",
   "tu": [
@@ -8869,6 +10395,50 @@
   "co_so": false
  },
  {
+  "chu": "VÀ *21 HỘP NGHỆ MÙA THU*",
+  "chu2": "",
+  "tu": [
+   "21",
+   "hộp",
+   "nghệ",
+   "mùa",
+   "thu"
+  ],
+  "variant": "product",
+  "clip": {
+   "tieuhoa-nghe-bat-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
+  "chu": "VÀ *9 HỘP NGHỆ MÙA THU*",
+  "chu2": "",
+  "tu": [
+   "9",
+   "hộp",
+   "nghệ",
+   "mùa",
+   "thu"
+  ],
+  "variant": "product",
+  "clip": {
+   "tieuhoa-nghe-bat-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": true
+ },
+ {
   "chu": "VÀ *BỔ SUNG*",
   "chu2": "*NANO NATTOKINASE 60.000 FU*",
   "tu": [
@@ -8882,7 +10452,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "04-2026-08-04-img1771"
@@ -9113,6 +10683,29 @@
   "co_so": false
  },
  {
+  "chu": "VẤN ĐỀ KHÔNG NẰM Ở",
+  "chu2": "*DẠ DÀY* ĐÂU",
+  "tu": [
+   "vấn",
+   "đề",
+   "nằm",
+   "dạ",
+   "dày",
+   "đâu"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "noitang-dady-do-cothe-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "VẪN CÒN KHÔNG",
   "chu2": "*CHĂM SÓC SỨC KHỎE*",
   "tu": [
@@ -9182,6 +10775,26 @@
   "co_so": true
  },
  {
+  "chu": "VẬY MÀ CŨNG KHÔNG THỂ",
+  "chu2": "*TẬN HƯỞNG* ĐƯỢC",
+  "tu": [
+   "thể",
+   "tận",
+   "hưởng"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-nu-onong-sauan-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "VẬY NÊN *NATTOKINASE*",
   "chu2": "CHIẾT TỪ *ĐẬU NÀNH LÊN MEN*",
   "tu": [
@@ -9195,7 +10808,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
@@ -9220,7 +10833,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
@@ -9264,10 +10877,106 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "03-2026-06-28-dscf0894"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ĂN GÌ CŨNG *THẤY NGON*",
+  "chu2": "",
+  "tu": [
+   "ăn",
+   "gì",
+   "thấy",
+   "ngon"
+  ],
+  "variant": "positive",
+  "clip": {
+   "giadinh-anuong-vui-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ĂN UỐNG KHÔNG THOẢI MÁI",
+  "chu2": "ĂN LÀ PHẢI CANH *TOILET*",
+  "tu": [
+   "ăn",
+   "uống",
+   "thoải",
+   "mái",
+   "ăn",
+   "phải",
+   "canh",
+   "toilet"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-nam-voi-boncau-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ĂN VÀO LÀ *ĐAU BỤNG*",
+  "chu2": "ĂN VÀO LÀ *ĐI NGOÀI*",
+  "tu": [
+   "ăn",
+   "vào",
+   "đau",
+   "bụng",
+   "ăn",
+   "vào",
+   "ngoài"
+  ],
+  "variant": "warning",
+  "clip": {
+   "tieuhoa-nu-ombung-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ĂN VÀO ĐI NGOÀI, *TÁO BÓN*",
+  "chu2": "TIÊU CHẢY, PHÂN LỎNG",
+  "tu": [
+   "ăn",
+   "vào",
+   "ngoài",
+   "táo",
+   "bón",
+   "tiêu",
+   "chảy",
+   "phân",
+   "lỏng"
+  ],
+  "variant": "positive",
+  "clip": {
+   "tieuhoa-cuongiay-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -9345,47 +11054,6 @@
   "co_so": false
  },
  {
-  "chu": "ĐÚNG KHÔNG CÔ CHÚ ANH CHỊ?",
-  "chu2": "",
-  "tu": [
-   "cô",
-   "chú",
-   "anh",
-   "chị"
-  ],
-  "variant": "yellow",
-  "clip": {
-   "(trống)": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
-  "chu": "ĐÚNG KHÔNG?",
-  "chu2": "CÁI *SỐ 2* NỮA LÀ GÌ?",
-  "tu": [
-   "số",
-   "2",
-   "gì"
-  ],
-  "variant": "yellow",
-  "clip": {
-   "(trống)": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": true
- },
- {
   "chu": "ĐƯỜNG ỐNG *HẸP LẠI*",
   "chu2": "*NƯỚC CHẢY CHẬM*",
   "tu": [
@@ -9402,6 +11070,30 @@
   },
   "job": [
    "04-2026-08-04-img1770"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ĐẠI TRÀNG CŨNG VẬY",
+  "chu2": "LẬP TỨC *ĐẨY THỨC ĂN RA*",
+  "tu": [
+   "đại",
+   "tràng",
+   "lập",
+   "tức",
+   "đẩy",
+   "thức",
+   "ăn"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "noitang-daitrang-cothe-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -9483,6 +11175,54 @@
   "co_so": false
  },
  {
+  "chu": "ĐẦU TIÊN PHẢI BIẾT",
+  "chu2": "*NGUYÊN NHÂN GỐC RỄ*",
+  "tu": [
+   "đầu",
+   "tiên",
+   "phải",
+   "biết",
+   "nguyên",
+   "nhân",
+   "gốc",
+   "rễ"
+  ],
+  "variant": "yellow",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ĐẶC BIỆT LÀ HÀNG",
+  "chu2": "*NHẬT NỘI ĐỊA*",
+  "tu": [
+   "đặc",
+   "biệt",
+   "hàng",
+   "nhật",
+   "nội",
+   "địa"
+  ],
+  "variant": "product",
+  "clip": {
+   "dilimquay-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "ĐỂ *LÀM SẠCH HOÀN TOÀN*",
   "chu2": "MẠCH MÁU",
   "tu": [
@@ -9554,28 +11294,6 @@
   "co_so": false
  },
  {
-  "chu": "ĐỂ *TÂM TRÍ*",
-  "chu2": "ĐƯỢC *SÁNG SUỐT*",
-  "tu": [
-   "để",
-   "tâm",
-   "trí",
-   "sáng",
-   "suốt"
-  ],
-  "variant": "positive",
-  "clip": {
-   "Thiết kế chưa có tên - 2026-01-30T150946.126.mp4": 1
-  },
-  "job": [
-   "07-2026-08-03-dji0485"
-  ],
-  "lan": 1,
-  "duyet_giu": 0,
-  "duyet_sua": 0,
-  "co_so": false
- },
- {
   "chu": "ĐỂ ANH CHỊ HIỂU",
   "chu2": "*ĐIỀU KIỆN MÌNH CẦN DÙNG*",
   "tu": [
@@ -9618,6 +11336,54 @@
   },
   "job": [
    "04-2026-08-04-img1773"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ĐỂ LẠI *TÊN + SỐ ĐIỆN THOẠI*",
+  "chu2": "DƯỚI VIDEO NÀY",
+  "tu": [
+   "để",
+   "tên",
+   "số",
+   "điện",
+   "thoại",
+   "video"
+  ],
+  "variant": "cta",
+  "clip": {
+   "(trống)": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ĐỂ NHẬN ĐÚNG *CHÍNH HÃNG*",
+  "chu2": "NHẬT BẢN TỪ HẰNG",
+  "tu": [
+   "để",
+   "nhận",
+   "chính",
+   "hãng",
+   "nhật",
+   "bản",
+   "từ",
+   "hằng"
+  ],
+  "variant": "cta",
+  "clip": {
+   "dilimquay-meninulin-sofa-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
@@ -9686,7 +11452,7 @@
   ],
   "variant": "product",
   "clip": {
-   "natto-2hop.jpg": 1
+   "natto-anh-2hop-01.jpg": 1
   },
   "job": [
    "05-2026-08-04-natto-hoat-huyet"
@@ -9742,6 +11508,28 @@
   "co_so": false
  },
  {
+  "chu": "ĐỒNG TIỀN KIẾM RA",
+  "chu2": "*XỨNG ĐÁNG*",
+  "tu": [
+   "đồng",
+   "tiền",
+   "kiếm",
+   "xứng",
+   "đáng"
+  ],
+  "variant": "positive",
+  "clip": {
+   "giadinh-daigd-ancom-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
   "chu": "ĐỦ LIỆU TRÌNH *12 THÁNG*",
   "chu2": "LÀ *6 HỘP*",
   "tu": [
@@ -9783,6 +11571,30 @@
   },
   "job": [
    "04-2026-08-04-img1770"
+  ],
+  "lan": 1,
+  "duyet_giu": 0,
+  "duyet_sua": 0,
+  "co_so": false
+ },
+ {
+  "chu": "ỔN ĐỊNH *NHU ĐỘNG RUỘT*",
+  "chu2": "VÀ *XẢ STRESS*",
+  "tu": [
+   "ổn",
+   "định",
+   "nhu",
+   "động",
+   "ruột",
+   "xả",
+   "stress"
+  ],
+  "variant": "positive",
+  "clip": {
+   "theduc-bacu-dibo-bobien-01.mp4": 1
+  },
+  "job": [
+   "08-2026-08-02-img0205"
   ],
   "lan": 1,
   "duyet_giu": 0,
