@@ -1,0 +1,13 @@
+[
+  {"t0": 29.50, "t1": 31.66, "why": "take lap 'Va tai sao ma minh lam' — giu take sau ro hon"},
+  {"t0": 72.90, "t1": 73.48, "why": "'Do' — tieng dem dung mot minh"},
+  {"t0": 89.40, "t1": 90.90, "why": "lang 1.74s sau 'Tai vi sao'"},
+  {"t0": 204.88, "t1": 206.02, "why": "lang 1.42s sau 'Van co' — nhip ban hang don"},
+  {"t0": 296.95, "t1": 298.72, "why": "lang 2.0s truoc 'Ngoai cai loi song SEM'"},
+  {"t0": 324.80, "t1": 326.06, "why": "lang 1.46s truoc 'Con khi ma co chu anh chi su dung'"},
+  {"t0": 350.95, "t1": 352.24, "why": "lang 1.5s truoc doan gia"},
+  {"t0": 355.84, "t1": 359.94, "why": "false start gia: 'Thi cai gia hien tai / Dang la 4' — giu take sau"},
+  {"t0": 379.30, "t1": 385.70, "why": "cum vap nang: 'Do chinh la' x3 + '12 hop' lung — take sach bat dau 385.76"},
+  {"t0": 389.26, "t1": 391.30, "why": "lang 2.2s sau 'Va' (giu 'Va' de noi '18 hop nghe')"},
+  {"t0": 404.30, "t1": 406.44, "why": "'Va' treo + '20' false start — giu 'Va 21 hop nghe mua thu'"}
+]

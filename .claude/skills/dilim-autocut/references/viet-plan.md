@@ -94,6 +94,33 @@ mà gộp lại sẽ sai nghĩa — không phải vì nó dài.
 mắt bận đọc, không kịp nhìn hình — mà hình mới là thứ giữ người xem. Bỏ bớt caption ở đoạn
 lời nói đã rõ thì mấy caption còn lại đập mạnh hơn.
 
+## 1c. Chữ KHÔNG phủ kín 100% thời lượng — bật `giu=True`
+
+> Anh Thành 06/08/2026: *"tôi thấy bạn dùng vẫn full dòng caption… có cắt bớt được một
+> cách logic không?"* rồi chốt lại: *"chữ để dài hơn chút, dài đến sát cái caption sau
+> cũng được. vì mình đang nói ý key mà"*.
+
+Mặc định `t_end` của caption này = `t` của caption kế tiếp → **chữ phủ 100% thời lượng
+theo thiết kế**. Xoá bớt dòng KHÔNG tạo khoảng thở, nó chỉ làm dòng trước phình ra
+(job 08: 6 caption thành 8–13 giây). Đây là chỗ tôi sửa sai tầng hai vòng liền.
+
+Cuối bảng `R`, gọi:
+
+```python
+build(HERE, R, giu=True)
+```
+
+Nó tách `cap_end` (lúc CHỮ tắt) khỏi `t_end` (B-roll vẫn chạy liền mạch — **đừng cho
+B-roll tắt theo chữ**). Luật: giữ tới sát dòng sau, chừa `NHAY` = 0.30s, chặn trên
+`GIU_MAX` = 7.0s.
+
+Số đối chiếu job 08: 92 caption · **93% chữ trên màn** · mỗi cái hiện 0.8–7.0s
+(trung vị 3.9) · hở 0.30–0.90s giữa hai caption.
+
+**Đã thử và BỎ:** tính thời gian đọc (`0.9 + số ký tự/14`, kẹp 1.6–4.2s) → 65% chữ trên
+màn, anh thấy chữ tắt quá sớm. Caption đã lọc còn toàn ý key thì không có lý do bắt nó
+tắt sớm.
+
 ## 2. Đánh `*từ khoá*`
 
 Bọc cặp `*` quanh cụm cần nhấn — engine đổi màu cụm đó.

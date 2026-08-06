@@ -15,6 +15,7 @@ Chu hien truoc mieng mot chut de nguoi xem doc kip, dung truoc qua thanh lech.
     python3 anchor.py --apply    # ghi de edit/plan.json
 """
 import json, os, re, sys, unicodedata
+import plan_build
 
 import argparse as _ap
 import sys as _sys
@@ -207,6 +208,11 @@ def main():
             r["from"] = None
             r["anchor_word"] = anchors[i][2]
             r["anchor_score"] = round(anchors[i][1], 2)
+            # neo doi `t` -> phai tinh lai luc CHU tat, khong thi cap_end cu
+            # nam ngoai [t, t_end] (26/92 dong bi vay khi moi them 06/08).
+            if "cap_end" in r:
+                r["cap_end"] = round(
+                    plan_build.het_chu(r["t"], r["t_end"], r["text"]), 2)
         json.dump(plan, open(PLAN, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         print(f"\n-> da ghi de {PLAN}")
     else:
