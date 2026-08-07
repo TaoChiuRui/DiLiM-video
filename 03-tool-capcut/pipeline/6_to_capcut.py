@@ -263,6 +263,8 @@ def main():
     _tail = [p["idx"] for p in plan if p["t_end"] > a_end + 1 / 30]
     for p in plan:
         p["t_end"] = min(p["t_end"], a_end)
+        if "cap_end" in p:
+            p["cap_end"] = min(p["cap_end"], a_end)
     _bo = [p["idx"] for p in plan if p["t"] >= a_end - 0.05]
     plan = [p for p in plan if p["t"] < a_end - 0.05]
     if _tail:
@@ -360,9 +362,12 @@ def main():
         if not os.path.exists(png):
             print(f"  ! thieu {os.path.basename(png)}")
             continue
-        t0, need = p["t"], p["t_end"] - p["t"]
+        # lop CHU tat theo `cap_end` (co the som hon t_end -> chua khoang tho).
+        # B-roll o tren van chay theo t_end nen hinh khong bi ngat.
+        c_end = min(p.get("cap_end", p["t_end"]), p["t_end"])
+        t0, need = p["t"], c_end - p["t"]
         seg = Video_segment(photo_material(png, need),
-                            Timerange(us(t0), us(p["t_end"]) - us(t0)),
+                            Timerange(us(t0), us(c_end) - us(t0)),
                             clip_settings=Clip_settings(transform_y=CAP_TRANSFORM_Y))
         anim, adur = ANIM_BY_VARIANT.get(p["variant"], ANIM_BY_VARIANT["positive"])
         adur = min(adur, need * ANIM_MAX_RATIO)     # caption ngan thi rut animation

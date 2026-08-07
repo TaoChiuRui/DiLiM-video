@@ -24,10 +24,41 @@ import json
 import os
 import subprocess
 
-IMG_EXT = (".jpg", ".jpeg", ".png", ".JPG", ".PNG")
+# PHAI GIONG clips.IMG_EXT. Thieu ".webp" o day tu 05/08 den 07/08: kho co
+# dung 1 file .webp (anlanh-anh-nghe-cu-02.webp) — plan_build coi no la VIDEO,
+# ffprobe tra "N/A" -> dai 0.0s -> "ngan hon caption" -> **BO TRONG lang le**.
+# Chua job nao dung file do nen loi nam im. Bat duoc khi test o T7 07/08/2026.
+IMG_EXT = (".jpg", ".jpeg", ".png", ".webp", ".JPG", ".PNG", ".WEBP")
 
 MIN_DUR = 0.80        # caption ngan nhat cho phep
 LEAD_IN = 0.06        # bat som hon chu dau mot chut cho de doc
+
+# --- GIU CHU (them 06/08/2026) --------------------------------------------
+# Anh Thanh 06/08: *"tôi thấy bạn dùng vẫn full dòng caption... cắt bớt được
+# một cách logic không?"*. Goc van de KHONG nam o so dong — no nam o dong 2
+# cua docstring: `t_end` = `t` cua caption ke tiep. Nghia la chu PHU 100%
+# thoi luong, khong bao gio co mot giay nao man hinh sach. Xoa bot dong chi
+# lam dong TRUOC PHINH RA (8-13s), khong tao khoang tho.
+#
+# Gio caption hien DU LAU DE DOC roi tat, cho toi caption sau. B-roll van
+# chay lien mach theo `t_end` cu — chi lop CHU la ngat quang.
+GIU_MAX  = 7.0    # chu dung im lau hon nay thi mat chan — soi_plan bao tu 8s
+GIU_MIN  = 1.6    # ngan hon nay thi khong kip doc
+NHAY     = 0.30   # khoang sach giua 2 caption: du de mat biet la CHU MOI
+
+
+def het_chu(t0, t1, txt=""):
+    """Luc CHU tat. Anh Thanh 06/08 (vong 2): *"chu de dai hon chut a, dai den
+    sat cai caption sau cung duoc — vi minh dang noi y key ma"*.
+
+    Nen KHONG con tinh theo thoi gian doc nua (ban 06/08 sang: 0.9 + n/14,
+    ra 65% chu tren man — anh thay chu tat qua som). Gio giu toi SAT dong sau,
+    chi chua `NHAY` giay. Chan tren `GIU_MAX` de khong co dong nao dung im
+    ca chuc giay o nhung cho anh ngung noi lau.
+    """
+    het = min(t1 - NHAY, t0 + GIU_MAX)
+    return t1 if het - t0 < GIU_MIN else het
+
 
 _dur_cache = {}
 
@@ -44,7 +75,7 @@ def _dur(path):
     return _dur_cache[path]
 
 
-def build(here, R, fallback=None, min_dur=MIN_DUR, lead_in=LEAD_IN):
+def build(here, R, fallback=None, min_dur=MIN_DUR, lead_in=LEAD_IN, giu=False):
     """here = thu muc job. R = list tuple 7 phan tu. -> ghi edit/plan.json"""
     words = json.load(open(os.path.join(here, "edit/words_cut.json"),
                            encoding="utf-8"))
@@ -88,8 +119,13 @@ def build(here, R, fallback=None, min_dur=MIN_DUR, lead_in=LEAD_IN):
                                        f"(tim clip khac, dung de may tu doi)")
                         p, ss = "", 0
 
+        # cap_end = luc CHU tat. Mac dinh bang t_end (hanh vi cu, cac job truoc
+        # 06/08 khong doi). Bat `giu=True` thi chu chi o lai du lau de doc.
+        cap_end = het_chu(t0, t1, txt) if giu else t1
+
         said = " ".join(w["w"] for w in words if t0 - 0.05 <= w["s"] < t1 - 0.05)
         rows.append({"idx": i, "t": round(t0, 2), "t_end": round(t1, 2),
+                     "cap_end": round(cap_end, 2),
                      "d1": d1, "d2": d2, "text": txt, "variant": var,
                      "path": p, "src_start": ss, "note": note, "said": said,
                      "snap_drift": round(t0 - t, 2)})
@@ -101,6 +137,12 @@ def build(here, R, fallback=None, min_dur=MIN_DUR, lead_in=LEAD_IN):
     print(f"caption   : {len(rows)}")
     print(f"co B-roll : {have}   |  de trong: {len(rows)-have}")
     print(f"phu song  : {rows[0]['t']:.2f} -> {rows[-1]['t_end']:.2f}s")
+    if giu:
+        tong = rows[-1]["t_end"] - rows[0]["t"]
+        chu = sum(r["cap_end"] - r["t"] for r in rows)
+        ngat = sum(1 for r in rows if r["cap_end"] < r["t_end"] - 0.01)
+        print(f"chu tren man: {chu:.0f}s / {tong:.0f}s = {chu/tong*100:.0f}%"
+              f"   ({ngat}/{len(rows)} caption tat som, con lai khoang tho)")
     print(f"snap lech : max {max(abs(r['snap_drift']) for r in rows):.2f}s")
     print(f"-> {out}")
     for x in fixed + swapped:

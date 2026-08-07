@@ -1,4 +1,4 @@
-# DiLiM AutoCut — v2.3
+# DiLiM AutoCut — v2.4
 
 **Từ video thô ra project CapCut sửa được.** Không phải file render sẵn — mà là dự án đầy đủ track, mở lên chỉnh tiếp bằng tay.
 
@@ -109,30 +109,79 @@ SFX          mỗi caption 1 cue · cách nhau tối thiểu 1.5s · −16 dB
 
 ## Lịch sử
 
-### Đã thử và BỎ (05/08/2026 tối): điền sẵn caption từ kho
+### 07/08/2026 — ổ T7 khoẻ lại (thay cáp) + vá `.webp` sót ở `plan_build`
 
-Ý tưởng: nhịp nào khớp cụm trong `kho_caption.json` thì điền thẳng chữ + màu vào
-khung `plan.py` (thay vì in comment), biến "viết" thành "duyệt". Backtest leave-one-out
-trên 7 job (đã vá rò rỉ cặp `06`/`06b` — `bo_job` cũ chỉ bỏ cụm có ĐÚNG MỘT job,
-cụm nằm trong cả bản sao thì tự khớp chính mình):
+Anh Thành thay cáp USB-C mới. Chạy bộ kiểm bằng **đọc thật**, không đụng gì ghi:
+đọc đầu+giữa+cuối **1048/1048 clip** (3 GB thực đọc) — 0 lỗi, 0 file mất ·
+đối chiếu **checksum** với bản sao Desktop — 0 file lệch · `clips.py` 187 có / 0 mất ·
+đọc tuần tự **825–926 MB/s** · phân vùng `T7 For win` đọc được.
 
-| ngưỡng | dùng ≥ | điền | TRÚNG bản cuối | SAI | chính xác |
-|---|---|---|---|---|---|
-| 0.75 | 1 lần | 122 | 38 | 84 | 31% |
-| 1.0 | 2 lần | 31 | 17 | 14 | **54%** |
+So với 05/08 (`12 co / 175 mat`, đọc ra 0 byte, `Input/output error`): **hỏng là do CÁP**,
+không phải mạch trong vỏ hay con SSD. Bản sao 18 GB trên Desktop vẫn giữ.
 
-Kể cả gate chặt nhất cũng **sai gần một nửa**, mà điền sai ĐẮT hơn để trống:
-khung mặc định chứa lời nói thật (nguyên liệu để cô đọng) — điền đè lên là mất nó,
-và nếu không phát hiện thì caption sai đi thẳng vào bản dựng.
+**Lỗi thật bắt được nhờ lần test này:** `plan_build.IMG_EXT` thiếu `.webp` trong khi
+`clips.IMG_EXT` đã có từ 05/08 (commit 6474299 chỉ vá MỘT chỗ). Kho có đúng 1 file
+`.webp` — `plan_build` coi nó là VIDEO, `ffprobe` trả `N/A` → độ dài 0.0s → xử là "clip
+ngắn hơn caption" → **bỏ trống lặng lẽ**. Chưa job nào dùng file đó nên lỗi nằm im.
+Đã đồng bộ hai file, ghi comment ràng buộc "PHAI GIONG clips.IMG_EXT".
 
-**Vì sao hỏng có tính cấu trúc, không phải chỉnh ngưỡng được:** (1) cùng một ý nhưng
-mỗi bài diễn đạt khác — kho có `LÀM HẸP MẠCH MÁU`, bản cuối là `LÀM TẮC, LÀM BÍT,
-LÀM NGHẼN`; (2) ranh nhịp mỗi bài chia khác, caption cuối phủ nhiều/ít lời nói hơn
-cụm lưu trong kho.
+**Bài học:** hằng số bị chép ở hai nơi thì vá một nơi là chưa xong. Cùng họ với lỗi
+`v.startswith("/Volumes")` ở v2.3 — cũng là một hằng số bị viết lại lần thứ hai.
 
-**Giữ nguyên version cũ** (gợi ý bằng comment `# KHO`). Giá trị thật của kho nằm ở:
-từ điển whisper (tự sửa 16% dòng), cờ `[CO CHU SO — KIEM TAY]`, và tính tự dày
-theo họ kịch bản — video Thịnh #2 sẽ trúng cao hơn hẳn vì job 07 đã vào kho.
+
+
+### v2.4 — 06/08/2026: **chữ không còn phủ kín 100% thời lượng**
+
+Anh Thành xem job 08 (`hằng`): *"tôi thấy bạn dùng vẫn full dòng caption… có cắt bớt
+được một cách logic không? xoay luồng tư duy xem sao"*.
+
+**Tôi hiểu sai hai vòng liền.** Vòng 1 giữ nguyên 111 nhịp máy chia (xoá 0 dòng).
+Vòng 2 xoá 19 dòng dẫn/xưng hô — anh vẫn nói "full", vì gốc vấn đề **không nằm ở số
+dòng**:
+
+```
+plan_build.build():  t1 = starts[i]        # t_end = t cua caption KE TIEP
+```
+
+Chữ phủ **100% thời lượng theo thiết kế** — không giây nào màn hình sạch. Xoá một dòng
+không tạo khoảng thở, nó làm **dòng trước phình ra** (đo được: 6 caption thành 8–13
+giây, một dòng còn dài hơn cả clip B-roll nên hụt hình).
+
+**Sửa ở engine:** thêm trường `cap_end` — lúc CHỮ tắt, tách khỏi `t_end`. `t_end` giữ
+nguyên cho **B-roll chạy liền mạch**; chỉ lớp chữ mới ngắt quãng. Bật bằng
+`build(HERE, R, giu=True)` — **mặc định tắt**, 9 job cũ không đổi.
+
+**Rồi anh chốt lại lần hai — và bản sáng nay bị bỏ:**
+
+> *"vì caption cut bớt nên kéo dài cái thời gian hiện hữu… chữ để dài hơn chút, dài đến
+> sát cái caption sau cũng được. vì mình đang nói ý key mà"*
+
+Bản đầu tính theo **thời gian đọc** (`0.9 + số ký tự/14`, kẹp 1.6–4.2s) → 65% chữ trên
+màn, anh thấy chữ tắt quá sớm. Bản chốt bỏ hẳn công thức đó, thay bằng luật đơn giản
+hơn: **giữ tới sát dòng sau, chỉ chừa `NHAY` = 0.30s**, chặn trên `GIU_MAX` = 7.0s để
+không dòng nào đứng im ở những chỗ ngừng nói lâu (soi_plan báo từ 8s).
+
+| job 08 | caption | s/caption | chữ trên màn |
+|---|---|---|---|
+| vòng 1 | 111 | 3.74 | 100% |
+| vòng 2 (xoá 19 dòng) | 92 | 4.51 | 100% |
+| v2.4 bản đầu (theo thời gian đọc) | 92 | 4.51 | 65% — **anh bỏ** |
+| **v2.4 chốt** (giữ tới sát dòng sau) | 92 | 4.51 | **93%** |
+
+Chốt: 92 caption, mỗi cái hiện 0.8–7.0s (trung vị 3.9), giữa hai caption hở 0.30–0.90s.
+6 dòng chạm trần 7s.
+
+**Hai bẫy gặp khi làm:**
+
+1. `4_anchor.py` đổi `t` nhưng không tính lại `cap_end` → 26/92 dòng có `cap_end` nằm
+   ngoài `[t, t_end]`. Mọi trường phái sinh từ `t` đều dính, vì bước neo chạy SAU
+   `plan.py`. Giờ cả hai gọi chung `plan_build.het_chu()`.
+2. CapCut **đang mở thì ghi đè draft là vô nghĩa** — nó giữ bản cũ trong bộ nhớ và có
+   thể ghi ngược lại. Kiểm `pgrep -x CapCut` trước khi báo "xong".
+
+**Chỗ tôi làm dư, ghi lại để đừng lặp:** công thức thời gian đọc là tôi tự nghĩ ra,
+không ai yêu cầu. Đúng ra phải hỏi hoặc thử luật đơn giản nhất trước (giữ tới dòng sau),
+vì khi caption đã lọc còn toàn ý key thì không có lý do gì bắt nó tắt sớm.
 
 **v2.3 — 05/08/2026 (chiều).** Soát cả luồng để **đóng gói cho máy khác**. Viết `CAI-DAT.md`
 ở gốc repo — cần gì, mang gì, kiểm bằng 4 lệnh.
