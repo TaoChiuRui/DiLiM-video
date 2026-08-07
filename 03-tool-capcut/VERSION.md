@@ -109,6 +109,27 @@ SFX          mỗi caption 1 cue · cách nhau tối thiểu 1.5s · −16 dB
 
 ## Lịch sử
 
+### 07/08/2026 — ổ T7 khoẻ lại (thay cáp) + vá `.webp` sót ở `plan_build`
+
+Anh Thành thay cáp USB-C mới. Chạy bộ kiểm bằng **đọc thật**, không đụng gì ghi:
+đọc đầu+giữa+cuối **1048/1048 clip** (3 GB thực đọc) — 0 lỗi, 0 file mất ·
+đối chiếu **checksum** với bản sao Desktop — 0 file lệch · `clips.py` 187 có / 0 mất ·
+đọc tuần tự **825–926 MB/s** · phân vùng `T7 For win` đọc được.
+
+So với 05/08 (`12 co / 175 mat`, đọc ra 0 byte, `Input/output error`): **hỏng là do CÁP**,
+không phải mạch trong vỏ hay con SSD. Bản sao 18 GB trên Desktop vẫn giữ.
+
+**Lỗi thật bắt được nhờ lần test này:** `plan_build.IMG_EXT` thiếu `.webp` trong khi
+`clips.IMG_EXT` đã có từ 05/08 (commit 6474299 chỉ vá MỘT chỗ). Kho có đúng 1 file
+`.webp` — `plan_build` coi nó là VIDEO, `ffprobe` trả `N/A` → độ dài 0.0s → xử là "clip
+ngắn hơn caption" → **bỏ trống lặng lẽ**. Chưa job nào dùng file đó nên lỗi nằm im.
+Đã đồng bộ hai file, ghi comment ràng buộc "PHAI GIONG clips.IMG_EXT".
+
+**Bài học:** hằng số bị chép ở hai nơi thì vá một nơi là chưa xong. Cùng họ với lỗi
+`v.startswith("/Volumes")` ở v2.3 — cũng là một hằng số bị viết lại lần thứ hai.
+
+
+
 ### v2.4 — 06/08/2026: **chữ không còn phủ kín 100% thời lượng**
 
 Anh Thành xem job 08 (`hằng`): *"tôi thấy bạn dùng vẫn full dòng caption… có cắt bớt

@@ -24,7 +24,11 @@ import json
 import os
 import subprocess
 
-IMG_EXT = (".jpg", ".jpeg", ".png", ".JPG", ".PNG")
+# PHAI GIONG clips.IMG_EXT. Thieu ".webp" o day tu 05/08 den 07/08: kho co
+# dung 1 file .webp (anlanh-anh-nghe-cu-02.webp) — plan_build coi no la VIDEO,
+# ffprobe tra "N/A" -> dai 0.0s -> "ngan hon caption" -> **BO TRONG lang le**.
+# Chua job nao dung file do nen loi nam im. Bat duoc khi test o T7 07/08/2026.
+IMG_EXT = (".jpg", ".jpeg", ".png", ".webp", ".JPG", ".PNG", ".WEBP")
 
 MIN_DUR = 0.80        # caption ngan nhat cho phep
 LEAD_IN = 0.06        # bat som hon chu dau mot chut cho de doc
